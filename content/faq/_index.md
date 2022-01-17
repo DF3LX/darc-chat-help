@@ -5,7 +5,7 @@ date: 2020-08-02T21:26:25+02:00
 draft: false
 weight: 200
 ---
-Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Teilweise sind die Antworten noch nicht formuliert. In diesen Fällen bitte im Raum ```#matrix-support:tu-dresden.de``` nachfragen.
+Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Teilweise sind die Antworten noch nicht formuliert. In diesen Fällen bitte im Raum ```#hilfe:darc.de``` nachfragen.
 
 * [Nachrichten nicht lesbar](#unable-to-decrypt)
 * [Was ist der Unterschied zwischen Sicherheitsphrase und Sicherheitsschlüssel?](#securityphrase-vs-securitykey)
@@ -16,7 +16,6 @@ Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Teilweise s
 * [Gibt es sowas wie Threads (vgl. Mattermost/Slack) in Matrix?](#threads)
 * [Wie ändere ich die Sicherheitsphrase für meine Schlüsselsicherung?](#change-securityphrase)
 * [Wie kann ich die Schlüsselsicherung zurücksetzen, wenn ich meine Sicherheitsphrase UND meinen (abgespeicherten und ausgedruckten) Sicherheitsschlüssel verloren habe?](#reset-securityphrase)
-* [Warum gibt es keinen Raum „TU Dresden“? Wer dürfte ihn erstellen?](#no-tud-room)
 * [Wie kann ich als administrierende Person viele Nachrichten auf einmal löschen?](#delete-multiple-messages)
 * [Manchmal sehe ich einen fett markierten Raum und klicke ihn an, habe aber doch nicht die Zeit, den Inhalt und etwaige Konsequenzen für mich sofort zu bearbeiten. Wie kann ich den Raum wieder als „ungelesen“ markieren?](#mark-room-as-unread)
 * [Was muss ich tun, wenn auf einem MacOS Video oder Audio in einer Videokonferenz nicht funktioniert.](#apple-no-video)
@@ -80,11 +79,7 @@ Bitte folgendes ausführen:
   * wenn das alles nicht geht auf das Ticket antworten mit der Bitte um eine Jitsibesprechung
   * Für alle vorher exportieren Schlüsselsicherungen den manuellen importweg ausführen.
   * Neue Schlüsselsicherung einrichten. Siehe [Schlüsselsicherung]({{< relref "settings/#schlüsselsicherung" >}})
-
-***
-#### Warum gibt es keinen Raum „TU Dresden“? Wer dürfte ihn erstellen? {#no-tud-room}
-Alle raumerstellenden Personen sind administrierende Personen und tragen die Verantwortung für den Raum. Matrix ist bisher nicht für den Austausch von tausenden Mitgliedern an der Universität gedacht. Sollte eines Tages ein zentraler Raum von Bedarf sein, würde die Einrichtung und Pflege sicher beim Rektorat und dem Dezernat „Strategie & Kommunikation“ liegen.
-***
+  
 #### Wie kann ich als administrierende Person viele Nachrichten auf einmal löschen? {#delete-multiple-messages}
 ?
 ***
