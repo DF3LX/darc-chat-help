@@ -8,30 +8,29 @@ weight: 10
 
 ## Nutzung des Webclients
 
-Starten Sie auf [matrix.tu-dresden.de](https://matrix.tu-dresden.de).
+Starten Sie auf [chat.darc.de](https://chat.darc.de).
 
 ![Startseite von Element Webclient mit Anmeldebutton](/images/01_Welcome_de.png)
 
-Hierzu ist keine Registrierung nötig, der Dienst kann sofort durch Klick auf „Anmelden“ auf der Startseite [https://matrix.tu-dresden.de](https://matrix.tu-dresden.de) genutzt werden.
+Hierzu ist keine Registrierung nötig, der Dienst kann sofort durch Klick auf „Anmelden“ auf der Startseite [https://chat.darc.de](https://chat.darc.de) genutzt werden.
 
 ![Loginfenster mit Aufforderung ZIH Login und Passwort einzugeben](/images/02_Login1_de.png)
 
-Das Dropdown-Menü „Anmelden mit:“ sollte auf „Benutzername“ belassen werden. Dann sind folgende Eingaben zu tätigen:
+Durch das Klicken auf den Knopf "Mit DARC Anmeldung fortfahren" gelangt man nun auf die Anmeldeseite. Dort sind folgende Eingaben zu tätigen:
+**Mitgliedsnr. / Rufzeichen: Mitgliedsnummer oder Rufzeichen**  (keine E-Mail-Adresse!)
 
-**Benutzername: ZIH-Login**  (nur der ZIH-Login, keine E-Mail-Adresse!)
+**Passwort: das vergebene Passwort in der Mitgliederverwaltung**
 
-**Passwort: ZIH-Passwort**
-
-Ein alternativer Login, bspw. über die E-Mail-Adresse ist **NICHT** beim ersten, initialen, Anmelden möglich, erst ab dem zweiten Einloggen.
+Ein alternativer Login, bspw. über die E-Mail-Adresse ist **NICHT** möglich.
 
 Es folgt nach dem Erstlogin auch keine E-Mail / Bestätigungsmail.
 
-Analog zu E-Mail-Adressen ergeben sich damit Matrix-Adressen folgender Struktur:
+Um jeden Nutzer die Möglich zu geben, einen eigenen Anzeigenamen zu setzten, wird der technische Nutzername bestehend aus 5 zufälligen Zeichen automatisch festgelegt:
 
-@ZIH-Login:tu-dresden.de
+@5ZUFALLSZEICHEN:darc.de (Beispiel: @6472k:darc.de)
 
 {{% notice warning %}}
-Sollten Sie statt mit der oben genannten Website (Element Web-App an der TU Dresden installiert) sofort mit einem [Matrix Client]({{< relref "../clients" >}}) starten wollen, ist es wichtig den Heimserver vom zumeist standardmäßig eingestellten matrix.org auf https://matrix.tu-dresden.de zu ändern (dargestellt in den folgenden drei Bildschirmfotos):
+Sollten Sie statt mit der oben genannten Website (Element Web-App des DARC) sofort mit einem [Matrix Client]({{< relref "../clients" >}}) starten wollen, ist es wichtig den Heimserver vom zumeist standardmäßig eingestellten matrix.org auf https://darc.de zu ändern (dargestellt in den folgenden drei Bildschirmfotos):
 {{% /notice %}}
 
 ![Anmeldeseite mit Fokus auf dem Homeserver ändern Button](/images/02_Login2_de.png)
@@ -44,12 +43,12 @@ Sollten Sie statt mit der oben genannten Website (Element Web-App an der TU Dres
 
 ![](/images/02_Login4_de.png)
 
-3. Eintragung der Matrix-Heimserver-Adresse der TU Dresden
+3. Eintragung der Matrix-Heimserver-Adresse des DARC
 
 
-Der einfachste Weg ist das direkte Öffnen der Element Web Anwendung in einem modernen Browser (z.B. [Mozilla Firefox](https://www.mozilla.org/de/firefox/)) unter der Adresse: [https://matrix.tu-dresden.de](https://matrix.tu-dresden.de).
+Der einfachste Weg ist das direkte Öffnen der Element Web Anwendung in einem modernen Browser (z.B. [Mozilla Firefox](https://www.mozilla.org/de/firefox/)) unter der Adresse: [https://chat.darc.de](https://chat.darc.de).
 
-![Willkommensbildschirm des TU Dresden Element Web Clients](/images/01_Welcome_de.png)
+![Willkommensbildschirm des DARC Element Web Clients](/images/01_Welcome_de.png)
 
 ## Browsereinstellungen
 
@@ -67,5 +66,5 @@ Viele Menschen nutzen u.a. Skript-Blocker, um sich vor [Tracking](https://tu-dre
 
 Erlauben Sie auch Cookies von
 
-- tu-dresden.de
+- darc.de
 - vector.im (für den Integrationsmanager)

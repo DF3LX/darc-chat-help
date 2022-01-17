@@ -6,7 +6,7 @@ chapter: true
 ---
 
 # Erklärung zur Barrierefreiheit 
-Diese Erklärung zur Barrierefreiheit gilt für die unter https://matrix.tu-dresden.de veröffentlichte Chatanwendung Matrix/Element der Technischen Universität Dresden.
+Diese Erklärung zur Barrierefreiheit gilt für die unter https://chat.darc.de veröffentlichte Chatanwendung Matrix/Element des DARC e.V.
 
 Als öffentliche Stelle im Sinne des Barrierefreie-Websites-Gesetz (BfWebG) ist die Technische Universität Dresden bemüht, ihre Websites und mobilen Anwendungen im Einklang mit den Bestimmungen des Barrierefreie-Websites-Gesetz (BfWebG) in Verbindung mit der Barrierefreie-Informationstechnik-Verordnung (BITV 2.0) barrierefrei zugänglich zu machen.
 

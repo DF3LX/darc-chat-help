@@ -9,7 +9,7 @@ weight: 15
 # Installation eines Clients / Programms
 
 Der empfohlene Client zur Nutzung von Matrix heißt Element und kann auf verschiedenen Systemen und Geräten genutzt werden:
-1. **Element Web:** [Die Browser-Web-App der TU Dresden](#web-app)
+1. **Element Web:** [Die Browser-Web-App von chat.darc.de](#web-app)
 2. **Element Desktop:** [Downloads für Linux/Windows/Mac](#desktop-app)
 3. **Element Mobil:** [Android/iOS](#mobile-app)
 
@@ -17,7 +17,7 @@ Der empfohlene Client zur Nutzung von Matrix heißt Element und kann auf verschi
 
 ## Element Web {#web-app}
 
-Zur Web-App: {{% button href="https://matrix.tu-dresden.de" icon="fas fa-globe" %}}matrix.tu-dresden.de{{% /button %}}
+Zur Web-App: {{% button href="https://chat.darc.de" icon="fas fa-globe" %}}chat.darc.de{{% /button %}}
 
 Der einfachste Weg ist das direkte Öffnen der Element Web Anwendung in einem modernen Browser (z.B. [Mozilla Firefox](https://www.mozilla.org/de/firefox/)).
 
