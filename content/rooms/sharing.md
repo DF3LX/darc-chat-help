@@ -9,11 +9,11 @@ weight: 40
 
 Jeder Raum hat eine Adresse, die man in den Raumeinstellungen unter dem Reiter Erweitert finden kann, bspw.
 
-!aen6iekahv8Pi0zohf:tu-dresden.de
+!aen6iekahv8Pi0zohf:darc.de
 
 Da diese kryptische Adresse aber von Menschen nicht leicht gelesen werden kann, können Raumadressen vergeben werden, die von Menschen gelesen werden können. Dies ist nur in Räumen nötig, die man an anderen Stellen publik machen möchte.
 
-Entweder durch global veröffentlichte Adressen (auffindbar von Benutzenden in anderen Servern - sinnvoll bei Themen, die über die TU Dresden hinausgehen) oder durch eine lokale Adresse, die nur innerhalb des Matrix-Heimatservers an der TU Dresden gilt.
+Entweder durch global veröffentlichte Adressen (auffindbar von Benutzenden in anderen Servern - sinnvoll bei Themen, die über das Vereinsinterne hinausgehen) oder durch eine lokale Adresse, die nur innerhalb des Matrix-Heimatservers des DARC gilt.
 
 {{% notice note %}}    
 Um eine globale Adresse zu veröffentlichen, muss diese zu aller erst als lokale Adresse erstellt wurden sein. **Das heißt in beiden Fällen ist es notwendig eine lokale Adresse zu erstellen.**
@@ -27,17 +27,17 @@ Anschließend  kann in der „Room alias“ Zeile ein wiedererkennbarer Name die
 
 ![Raumeinstellungen mit dem lokale Adressen ausgewählt](/images/02_Sharing_de.png)
 
-Es können auch verschiedene Adressen vergeben werden. Sollte die Raumadresse im Raum-Verzeichnis des Matrix-Heimatservers der TU Dresden veröffentlicht werden sollen, kann dies durch den folgend gezeigten Schalter und die Auswahl der Primären Adresse im Drop-Down-Menü erfolgen:
+Es können auch verschiedene Adressen vergeben werden. Sollte die Raumadresse im Raum-Verzeichnis des Matrix-Heimatservers des DARC veröffentlicht werden sollen, kann dies durch den folgend gezeigten Schalter und die Auswahl der Primären Adresse im Drop-Down-Menü erfolgen:
 
 ![Raumeinstellungen mit dem öffentliche Raumadresse ausgewählt](/images/03_Sharing_de.png)
 
 Die Raumadresse hat dann folgende Struktur
 
-#Raumadressname:tu-dresden.de
+#Raumadressname:darc.de
 
 Wenn innerhalb von Matrix auf einen anderen Raum verlinkt werden soll, kann dies einfach durch (beginnendes) Eintippen in das Nachrichtenfeld von
 ```
-#Raumadressname:tu-dresden.de
+#Raumadressname:darc.de
 ```
 geschehen. Ist man selber Mitglied in dem Raum, so erscheinen automatisch Vorschläge. Dies ist dann ein spezieller Hyperlink innerhalb von Matrix, der auch direkt im Client der empfangenden Person (mit einem Mausklick) genutzt werden kann.
 

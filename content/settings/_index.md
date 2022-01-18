@@ -9,7 +9,7 @@ weight: 10
 
 ## Bequemes Nutzen der Ende-zu-Ende-Verschlüsselung (E2EE)
 
-Matrix verschlüsselt nicht nur die Transporte von und zu dem Heimserver (im Rechenzentrum der TU Dresden) sondern erlaubt auch die Nutzung von Ende-zu-Ende-Verschlüsselung (E2EE). Hierzu müssen kryptografische Schlüssel zwischen allen Geräten ausgetauscht werden, die sich Ende-zu-Ende-verschlüsselt schreiben möchten. Diese technische Notwendigkeit klingt und ist kompliziert, ist inzwischen für die Anwendenden sehr bequem geworden. Die vielen kryptografischen Schlüssel werden vom Client erstellt auf dem jeweiligen Gerät gespeichert. Sollte dies bspw. ein Tab in einem Browser sein, besteht die Gefahr, dass dieser Tab einmal unbeabsichtigt geschlossen wird. Dann sind alle verschlüsselten Inhalte nicht mehr lesbar. Damit dies nicht geschieht, wird eine Schlüsselsicherung auf dem Heimserver der TU Dresden angeboten, auf der (mit einer Sicherheitsphrase (bzw. daraus errechenbaren Sicherheitsschlüssel) geschützt) alle kryptografischen Schlüssel verschlüsselt abgelegt sind. 
+Matrix verschlüsselt nicht nur die Transporte von und zu dem Heimserver sondern erlaubt auch die Nutzung von Ende-zu-Ende-Verschlüsselung (E2EE). Hierzu müssen kryptografische Schlüssel zwischen allen Geräten ausgetauscht werden, die sich Ende-zu-Ende-verschlüsselt schreiben möchten. Diese technische Notwendigkeit klingt und ist kompliziert, ist inzwischen für die Anwendenden sehr bequem geworden. Die vielen kryptografischen Schlüssel werden vom Client erstellt auf dem jeweiligen Gerät gespeichert. Sollte dies bspw. ein Tab in einem Browser sein, besteht die Gefahr, dass dieser Tab einmal unbeabsichtigt geschlossen wird. Dann sind alle verschlüsselten Inhalte nicht mehr lesbar. Damit dies nicht geschieht, wird eine Schlüsselsicherung auf dem Heimserver der TU Dresden angeboten, auf der (mit einer Sicherheitsphrase (bzw. daraus errechenbaren Sicherheitsschlüssel) geschützt) alle kryptografischen Schlüssel verschlüsselt abgelegt sind. 
 
 {{% notice warning %}}
 Es wird dringend empfohlen, diese Schlüsselsicherung zu nutzen (mit einer sicheren Sicherheitsphrase, welche NICHT Ihr ZIH-Passwort ist) und am Punkt [Weitere wichtige Einstellungen]({{< relref "_index.md#weitere-wichtige-einstellungen" >}}) weiterlesen!
@@ -37,16 +37,14 @@ Nach erfolgreicher Einrichtung der Schlüsselsicherung aktivieren Sie nun die De
 
    Dies kann später auch rückgängig gemacht werden und insb. können einzelne „Gespräche“ in ihrer Benachrichtigungsbefugnis eingestellt werden
 
-Einstellungen im Einstellungsmenü vornehmen: dazu ist auf die Zeile der E-Mail-Adresse und des nach unten zeigenden Dreiecks zu klicken und anschließend auf die Zeile "Alle Einstellungen":
+Einstellungen im Einstellungsmenü vornehmen: dazu ist auf die Zeile dem Nutzernamen und des nach unten zeigenden Dreiecks zu klicken und anschließend auf die Zeile "Alle Einstellungen":
 
 ![Auswahl des Menüpunkts Einstellungen in dem Nutzer:innenmenü](/images/06_Settings_de.png)
 
-In den Einstellungen können Sie im Reiter **Allgemein** bei Bedarf Ihren Anzeigenamen ändern („Vorname Nachname“) und ein Profilbild hochladen (analog zur Kontakbox auf der TUD-Website; Profilbild <5MB wählen):
+In den Einstellungen können Sie im Reiter **Allgemein** bei Bedarf Ihren Anzeigenamen ändern („Rufzeichen Vorname“) und ein Profilbild hochladen:
 ![Makierung des Feldes Anzeigenamen und des Profilbilds in den Einstellungen](/images/06_Settings-Names_de.png)
 
-Mittelfristig wird der Anzeigename aus dem Common Name im LDAP der TU Dresden erhalten, dann ist ein manuelles Ändern nicht mehr nötig.
-
-Das E-Mail-Adressfeld ist nicht unbedingt zu füllen, da über Ihren ZIH-Login eine E-Mail-Adresse hinterlegt ist. Theoretisch können hier weitere Adressen hinzugefügt werden, bspw. um Benachrichtigungen über verpasste Nachrichten an eine weitere E-Mail-Adresse senden zu lassen.
+Ein manuelles Ändern durch das standatisierte Verfahren nicht mehr nötig.
 
 Auf der selben Seite kann auch das Design Thema von hell zu dunkel verändert werden.
 

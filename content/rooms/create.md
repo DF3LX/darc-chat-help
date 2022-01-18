@@ -20,9 +20,9 @@ Der Raum ist nun erstellt und erhält eine beliebige bunte Icon-Farbe. Durch Kli
 
 Hier kann im Reiter **Allgemein** ein raumspezifisches Bild/Icon hochgeladen werden. Eine wichtige Eigenschaft ist die Vergabe einer lokalen Raumadresse. Diese kann von Menschen leichter gelesen werden als die parallel auch immer vorhandene kryptische Raumadresse (die man unter dem Reiter Erweitert einsehen kann). Die vergebene lokale Raumadresse kann dann leicht in der Öffentlichkeit bzw. an die Zielgruppe verteilt werden und hat folgende Struktur:
 
-#Raumadressname:tu-dresden.de
+#Raumadressname:darc.de
 
-Eine weitere wichtige Einstellmöglichkeit ist hier, ob der Raum im Raum-Verzeichnis der TU Dresden auftauchen soll. Auch die URL-Vorschau für den Raum zu aktivieren kann hier eingestellt werden.
+Eine weitere wichtige Einstellmöglichkeit ist hier, ob der Raum im Raum-Verzeichnis des DARC auftauchen soll. Auch die URL-Vorschau für den Raum zu aktivieren kann hier eingestellt werden.
 
 ![Raumeinstellungen](/images/04_Rooms_de.png)
 
