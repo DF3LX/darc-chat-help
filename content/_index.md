@@ -71,4 +71,4 @@ Probleme und Lösungen können darüber hinaus durch Schildern des Sachverhalts 
 
 {{% notice tip %}}
 Man kann bei manchen Anomalien probieren den Cache (Zwischenspeicher) zu leeren und alles neu zu laden: Einstellungen > Hilfe & Über > Cache löschen und neu laden
-{{% /notice %}}
+{{% /notice tip %}}

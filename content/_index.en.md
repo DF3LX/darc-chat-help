@@ -61,10 +61,3 @@ Please address general questions to the [Service Desk](https://tu-dresden.de/zih
 
 In addition, problems and solutions can be discussed together in the [Matrix Support Room](https://matrix.tu-dresden.de/#/room/#matrix-support:tu-dresden.de) by describing the issue, so that everyone else can learn through transparent exchange.
 
-{{% notice tip %}}
-For some anomalies you can try to empty the cache and reload everything: Settings > Help & About > Clear Cache and reload
-{{% /notice %}}
-
-{{% notice warning %}}
-Current maintenance is announced in the matrix room [#Matrix-Betriebsstatus:tu-dresden.de](https://matrix.tu-dresden.de/#/room/#Matrix-Betriebsstatus:tu-dresden.de).
-{{% /notice %}}
