@@ -8,22 +8,11 @@ weight: 900
 
 **Zweck der Datenverarbeitung**
 
-"Matrix" ist ein offener, dezentraler Kommunikationsdienst für die Echtzeitkommunikation. Es wird allen Personen, die über einen DARC-Login verfügen, unter Einhaltung der einschlägigen gesetzlichen und rechtlichen Bestimmungen zum Datenschutz und zur IT-Sicherheit ermöglicht mit anderen Personen zu kommunizieren, die ebenfalls über einen DARC-Login verfügen.
+"Matrix" ist ein offener, dezentraler Kommunikationsdienst für die Echtzeitkommunikation. Es wird allen Personen, die über einen DARC-Login verfügen, also insbesondere den Mitgliedern des DARC, unter Einhaltung der einschlägigen gesetzlichen und rechtlichen Bestimmungen zum Datenschutz und zur IT-Sicherheit ermöglicht mit anderen Personen zu kommunizieren, die ebenfalls über einen DARC-Login verfügen.
 
 Weiterhin wird auch die Teilnahme am Matrix-Netzwerk ermöglicht, wodurch - vergleichbar mit E-Mail - mit Personen kommuniziert werden kann, die über keinen DARC-Login verfügen und einen anderen Matrix-Server (z. B. den einer Universität, eines Unternehmens oder einer anderen Organisation) benutzen.
 
 Ziel des Einsatzes von Matrix ist insbesondere die Sicherstellung und Vereinfachung arbeitsorganisatorischer Maßnahmen für die gemeinschaftliche Arbeit von Mitgliedern, Personengruppen, Teams und Gremien sowie das Kommunikationsmanagement. Die Verarbeitung personenbezogener Daten erfolgt ausschließlich für vorgenannte Zwecke.
-
-**Verantwortlich für die Datenverarbeitung**
-
-DARC e.V.<br>
-Lindenallee 4<br>
-34225 Baunatal<br>
-Deutschland
-
-Tel.: 0561 949 88 0<br>
-Fax: 0561 949 88 50<br>
-E-Mail: darc@darc.de<br>
 
 **Rechtsgrundlage der Datenverarbeitung**
 
@@ -35,15 +24,13 @@ Die Nutzung von Matrix ist freiwillig. Mit der Nutzung von Matrix erfolgt die Ei
 
 Durch den erstmaligen Anmeldevorgang mittels des DARC-Anmeldesystems (Single-Sign-On) am Matrix-Server werden die Mitgliedernummer in das Matrix-System übernommen und mit einer Matrix-ID verknüpft. Diese Matrix-ID wird aus einer zufälligen Zeichenfolge und dem Suffix ":darc.de" gebildet. Die Matrix-ID dient der eindeutigen Identifkation einer Person im Matrix-Netzwerk.
 
-Aus dem in der Mitgliederverwaltung hinterlegtem Rufzeichen und dem bzw. den Vorname(n) wird ein Anzeigename gebildet und ebenfalls mit der Matrix-ID verknüpft. Der Anzeigename kann jederzeit über die Benutzeroberfläche geändert werden.
+Aus dem in der Mitgliederverwaltung hinterlegtem Rufzeichen und dem bzw. den Vorname(n) wird ein Anzeigename gebildet und ebenfalls mit der Matrix-ID verknüpft. Bei Personen, für die kein Rufzeichen hinterlegt ist, wird nur der bzw. die Vorname(n) verwendet. Der Anzeigename kann jederzeit über die Benutzeroberfläche geändert werden.
 
-Es kann ein Nutzerbild hochgeladen werden, dass jederzeit wieder geändert oder gelöscht werden kann.
+Es kann ein Avatar (Bild) hochgeladen werden, dass jederzeit wieder geändert oder gelöscht werden kann.
 
-Es kann eine E
+Es wird gespeichert, welche Berechtigungen (z. B. Administrations- oder Moderationsberechtigung) für das Matrix-System des DARC oder Unterbereichen erteilt wurden.
 
-Es wird gespeichert, welche Berechtigungen (z. B. Administrator oder Moderator) für das Matrix-System des DARC oder Unterbereichen erteilt wurden.
-
-Die Matrix-ID, der Anzeigename, das Nutzerbild (sofern hochgeladen) sowie Berechtigungen sind für andere Personen sichtbar, die das Matrix-Netzwerk nutzen.
+Die Matrix-ID, der Anzeigename, der Avatar (sofern hochgeladen) sowie Berechtigungen sind für andere Personen sichtbar, die das Matrix-Netzwerk nutzen.
 
 <u>Sicherheitsschlüssel</u>
 
@@ -51,7 +38,7 @@ Während der Registrierung wird ein persönlicher Sicherheitsschlüssel erzeugt,
 
 <u>Angemeldete Endgeräte</u>
 
-Zu jedem Endgerät, mit dem Matrix benutzt wird, werden Informationen zu den verwendeten Matrix-Client-Programmen verarbeitet, gespeichert und anderen Personen im Matrix-Netzwerk angezeigt.
+Zu jedem Endgerät, mit dem Matrix benutzt wird, werden Informationen zu den verwendeten Matrix-Client-Programmen und dem Betriebssystem verarbeitet, gespeichert und anderen Personen im Matrix-Netzwerk angezeigt.
 
 <u>Einstellungen</u>
 
@@ -85,10 +72,13 @@ Sind in einem Raum Personen anwesend, die andere Matrix-Server als den des DARC 
 
 TODO
 
+<u>Serverprotokoll</u>
+
+Zur Überwachung, Verbesserung und Sicherung des reibungslosen Server- und Systembetriebs werden alle Zugriffe protokolliert. Dabei werden die IP-Adresse und der Zeitstempel der Anfrage erhoben und gespeichert.
+
 **Dauer der Speicherung**
 
-TODO
-
+Serverprotokolle werden nach TODO Tagen gelöscht. Auf dem Matrix-Server des DARC gespeicherte Nachrichteninhalte werden nach spätestens 366 Tagen gelöscht. Der Account wird mit Ende der Mitgliedschaft oder auf Verlangen gelöscht. Sofern mit Personen, die andere Matrix-Server als den des DARC benutzen, kommuniziert wird, gelten die Regelungen des jeweiligen Matrix-Servers und Löschung kann möglicherweise später oder früher erfolgen. Darauf hat der DARC prinzipbedingt - vergleichbar mit E-Mails an andere Organisationen - keinen Einfluß.
 
 **Rechte der betroffenen Personen**
 
@@ -103,5 +93,26 @@ Das geltende Datenschutzrecht gewährt Ihnen gegenüber dem Verantwortlichen hin
 * Recht auf Widerruf erteilter Einwilligungen gemäß Art. 7 Abs. 3 DSGVO;
 * Recht auf Beschwerde gemäß Art. 77 DSGVO.
 
+**Verantwortlich für die Datenverarbeitung**
+
+DARC e.V.<br>
+Lindenallee 4<br>
+34225 Baunatal<br>
+Deutschland
+
+Telefon: 0561 949 88 0<br>
+Fax: 0561 949 88 50<br>
+E-Mail: darc@darc.de<br>
+
+**Aufsichtsbehörde**
+
+Das Beschwerderecht nach Art. 77 der DSGVO kann bei der zuständigen Aufsichtsbehörde ausgeübt werden:
+
+Der Hessische Beauftragte für Datenschutz und Informationsfreiheit<br>
+Gustav-Stresemann-Ring 1<br>
+65189 Wiesbaden
+
+Telefon: 0611-1408 0<br>
+E-Mail: poststelle@datenschutz.hessen.de
 
 
