@@ -5,22 +5,10 @@ chapter: false
 draft: false
 ---
 
-## Matrix beim DARC
+## Matrix beim DARC e.V.
 Matrix ist ein freies und offenes, sicheres, dezentralisiertes Protokoll für Echtzeit-Kommunikation, das auch unter dem Namen eines seiner nutzenden Programme, Element, bekannt ist.
 
 <object data="/images/matrix_interactive.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
-
-<img id="image-id" style="width: 1280px; max-width: 100%; margin-left:0;">
-<script>
-var cssSelector = "#image-id";
-var imageFolderPath = "/images/statements";
-var imageCount = 19;
-var displayTime = 30000; //in ms
-document.querySelector(cssSelector).src = imageFolderPath+"/"+Math.floor(Math.random() * imageCount)+".jpg";
-setInterval(() => {
-    document.querySelector(cssSelector).src = imageFolderPath+"/"+Math.floor(Math.random() * imageCount)+".jpg";
-}, displayTime);
-</script>
 
 ## Themen der Dokumentation
 
@@ -71,4 +59,4 @@ Probleme und Lösungen können darüber hinaus durch Schildern des Sachverhalts 
 
 {{% notice tip %}}
 Man kann bei manchen Anomalien probieren den Cache (Zwischenspeicher) zu leeren und alles neu zu laden: Einstellungen > Hilfe & Über > Cache löschen und neu laden
-{{% /notice tip %}}
+{{% /notice %}}
