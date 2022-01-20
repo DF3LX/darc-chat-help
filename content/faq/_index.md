@@ -44,10 +44,10 @@ Tatsächlich ist die Statusleiste eine beliebte Prüfung der Seriösität von Hy
 Mit dem matrix.to-Link, den man unter dem i für die Raumeigenschaften und einem weiteren Klick auf „Teile Raum“ erkennt.
 ***
 #### Wie teilt man Leuten mit Element Web-Client eine Raumadresse mit? {#web-share-room}
-Mit dem matrix.to-Link, den man unter dem i für die Raumeigenschaften und einem weiteren Klick auf „Teile Raum“ erkennt und einem Austausch vom vorderen matrix.to/#/ mit matrix.tu-dresden.de/#/room/
+Mit dem matrix.to-Link, den man unter dem i für die Raumeigenschaften und einem weiteren Klick auf „Teile Raum“ erkennt und einem Austausch vom vorderen matrix.to/#/ mit darc.de/#/room/
 ***
 #### Kann ich LaTeX schreiben? {#latex}
-Ja! Zur Zeit ist es nur ein experimentelles Feature, aber in wenigen Wochen wird es für alle verfügbar sein. Siehe https://github.com/vector-im/element-web/issues/1945
+Ja! Zur Zeit ist es nur ein experimentelles Featu re, aber in wenigen Wochen wird es für alle verfügbar sein. Siehe https://github.com/vector-im/element-web/issues/1945
 
 ***
 #### Gibt es sowas wie Threads (vgl. Mattermost/Slack) in Matrix? {#threads}
@@ -91,10 +91,6 @@ Das geht in Element leider nicht. Als Workaround kann man den Raum als Favorit m
 Häufig hat Element nicht die Rechte, auf die Webcam und das Mikrofon zu zugreifen. Diese können in den Systemeinstellungen unter Sicherheit und Privatsphäre vergeben werden.
 
 ***
-#### Wie viele Personen können gleichzeitig in einen Raum eingeladen werden? Kann ich Personen über ihre E-Mail-Adressen einladen? {#how-many-invites-can-i-do}
-Die Masseneinladung per E-Mail wird derzeit in Element nicht unterstützt. Wenn Sie eine Masseneinladung durchführen möchten, senden Sie bitte eine Anfrage über den Servicedesk, damit wir Ihnen helfen können. Sie können selbst 100 Personen über ihren ZIH-Benutzernamen einladen.
-
-***
 #### Kann ich mit Element mehrere Matrix-Accounts verwalten (Multi-Account-Client)? {#multiple-accounts-element}
 Ein Element-Fenster kann zur Zeit nur einen Matrix-Account verwalten. Es ist aber möglich, mehrere Element-Fenster mit unterschiedlichen Matrix-Konten zu starten, auch im Autostart des Rechners. Dazu ist der Programmaufruf so abzuändern, dass ein spezifisches Profil geöffnet wird:
 ```
@@ -115,7 +111,7 @@ Aufgrund einer Aktualisierung am Matrix Server (28.03.2021) finden Clients, die 
     <li>... die <a href="{{< relref "settings/#schlüsselsicherung" >}}">Schlüsselsicherung</a> ist eingerichtet und die Sicherheitsphrase oder der Sicherheitsschlüssel ist vorhanden</li>
     <li>... die Raumschlüssel sind exportiert wurden</li>
   </ol>
-  <li>Melden Sie sich im Client ab und erneut an und verwenden Sie als <strong>Heimserver:</strong> "<strong>tu-dresden.de</strong>"</li>
+  <li>Melden Sie sich im Client ab und erneut an und verwenden Sie als <strong>Heimserver:</strong> "<strong>darc.de</strong>"</li>
   <li>Stellen Sie Ihre Nachrichten wieder her:</li>
   <ol type="a">
     <li>... Verifizieren Sie die neue Sitzung in einer zusätzlichen aktiven Sitzung (z.B. mit dem Smartphone), um den Schlüsselaustausch zwischen diesen Sitzungen zu starten</li>

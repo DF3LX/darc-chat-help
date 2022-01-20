@@ -48,12 +48,12 @@ Das Teilen-Symbol oben rechts in jedem Raum, bietet einen matrix.to-Link an, sow
 ![Teilensymbol in der Chatansicht des Raums makiert](/images/04_Sharing-Button_de.png)
 
 ```
-https://matrix.to/#/#Raumadressname:tu-dresden.de?via=tu-dresden.de
+https://matrix.to/#/#Raumadressname:darc.de?via=darc.de
 ```
 
 Weiterhin könnte man aus der vergebenen Raumadresse eine Internetadresse (URL) nach folgender Struktur konstruieren:
 
-https://matrix.tu-dresden.de/#/room/#Raumadressname:tu-dresden.de
+https://matrix.darc.de/#/room/#Raumadressname:darc.de
 
 Diese könnte, ähnlich des matrix.to-Links, auch leicht in der Öffentlichkeit bzw. an die Zielgruppe verteilt werden, **öffnet sich allerdings nur in Element Web**, nicht in einem ggf. installiertem Element Desktop. Universeller (insb. für die große Gruppe an Personen mit Element Desktop) und inzwischen empfehlenswerter ist daher der zuvor beschriebene Weg mit dem matrix.to-Link.
 

@@ -14,7 +14,7 @@ Starten Sie auf [chat.darc.de](https://chat.darc.de).
 
 Hierzu ist keine Registrierung nötig, der Dienst kann sofort durch Klick auf „Anmelden“ auf der Startseite [https://chat.darc.de](https://chat.darc.de) genutzt werden.
 
-![Loginfenster mit Aufforderung ZIH Login und Passwort einzugeben](/images/02_Login1_de.png)
+![Loginfenster mit Aufforderung Mitgliedsnummer und Passwort einzugeben](/images/02_Login1_de.png)
 
 Durch das Klicken auf den Knopf "Mit DARC Anmeldung fortfahren" gelangt man nun auf die Anmeldeseite. Dort sind folgende Eingaben zu tätigen:
 **Mitgliedsnr. / Rufzeichen: Mitgliedsnummer oder Rufzeichen**  (keine E-Mail-Adresse!)
@@ -37,7 +37,7 @@ Sollten Sie statt mit der oben genannten Website (Element Web-App des DARC) sofo
 
 1. Klick auf Ändern
 
-![Eingabefeld zum Ändern des Homeserers mit der Eingabe matrix.tu-dresden.de](/images/02_Login3_de.png)
+![Eingabefeld zum Ändern des Homeserers mit der Eingabe darc.de](/images/02_Login3_de.png)
 
 2. Markieren der voreingestellten Heimserver-Adresse und entfernen dieser.
 
@@ -60,7 +60,7 @@ Empfehlenswert sind die Browser [Firefox](https://www.mozilla.org/de/firefox/new
 
 Viele Menschen nutzen u.a. Skript-Blocker, um sich vor [Tracking](https://tu-dresden.de/tu-dresden/newsportal/news/datenschutz-beim-website-tracking) und Schadsoftware im Browser zu schützen, bspw. mit dem Addon [NoScript](https://addons.mozilla.org/de/firefox/addon/noscript/). Hier sind folgende Einstellungen durchzuführen (für den Integrationsmanager, z.B. Jitsi/Etherpad)
 
-![Einstellungen des Browserplugins NoScript mit tu-dresden.de und vector.im als vertrauenswürdige Skriptquellen ausgewählt](/images/10_Sicherheit2_de.png)
+![Einstellungen des Browserplugins NoScript mit darc.de und vector.im als vertrauenswürdige Skriptquellen ausgewählt](/images/10_Sicherheit2_de.png)
 
 ### Cookies
 

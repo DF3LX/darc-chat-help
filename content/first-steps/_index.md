@@ -8,9 +8,9 @@ weight: 2
 
 # Erste Schritte - Wie kann Matrix genutzt werden?
 
-## Matrix-Login mit ZIH-Account
+## Matrix-Login mit DARC-Account
 
-Mitgliedern und Angehörigen der TU Dresden (selbstverständlich auch Studierenden) wird unter Einhaltung der einschlägigen gesetzlichen und rechtlichen Bestimmungen zum Datenschutz und zur IT-Sicherheit ermöglicht, mittels ihres **DARC-Logins** mit Angehörigen dieser und weiteren Matrix-Nutzenden (bspw. andere Funkamateure) per Chat zu kommunizieren.
+Mitgliedern des DARC wird unter Einhaltung der einschlägigen gesetzlichen und rechtlichen Bestimmungen zum Datenschutz und zur IT-Sicherheit ermöglicht, mittels ihres **DARC-Logins** mit Angehörigen dieser und weiteren Matrix-Nutzenden (bspw. andere Funkamateure) per Chat zu kommunizieren.
 
 {{% notice tip %}}
 Wir empfehlen die Nutzung des Element Desktopclients, weil so zahlreiche Probleme, die bei dem Nutzen der Verschlüsselung entstehen können, vermieden werden können.

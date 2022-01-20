@@ -42,6 +42,6 @@ Etherpads haben kein Benutzerrechtemanagement, alle können schreiben und andere
 
 ## Custom Widget
 
-Hierbei können beliebige Internetseiten eingebunden werden. Bspw. [CodiMD](https://md.inf.tu-dresden.de/), um LaTeX-Formeln anzuzeigen.
+Hierbei können beliebige Internetseiten eingebunden werden. Bspw. [darc.de](https://darc.de).
 
 

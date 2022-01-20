@@ -49,7 +49,7 @@ Ist der Prozess abgeschlossen, erhalten Sie eine Erfolgsmeldung. Über den Butto
 
 Alle Matrix-Nutzenden des Clients Element (und einiger weniger weiterer Clients) können Communities (zu deutsch Gemeinschaften) nutzen, um verschiedene Räume zu filtern, die in der Raumliste links vllt. untergehen oder zu verstreut platziert sind.
 
-Communities können nur für sich selbst oder für Andere erstellt werden (wenn man diese in eine Community einlädt) und schaffen eine übergeordnete Struktur für Räume. Bspw. für eine Semestergruppe/Studiengruppe oder für ein Lehrstuhlteam etc.
+Communities können nur für sich selbst oder für Andere erstellt werden (wenn man diese in eine Community einlädt) und schaffen eine übergeordnete Struktur für Räume. Bspw. für einen Ortsverband etc.
 
 Bestehende Räume können einer Community in den Community-Einstellungen zugewiesen werden (unter #).
 

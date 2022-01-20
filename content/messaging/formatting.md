@@ -16,22 +16,18 @@ Nachrichten können mit der **Enter-Taste** versendet werden. Für einen Zeilenu
 
 Mittels Text, der in der Auszeichnungssprache [**MarkDown**](https://de.wikipedia.org/wiki/Markdown) formatiert ist, lassen sich auch in Matrix Element Nachrichten formatieren. Hier einige Beispiele:
 
-| Ergebnis                                                                        | einzutippen                                                                                    |
-|:------------------------------------------------------------------------------- |:----------------------------------------------------------------------------------------------:|
-| **Fett**                                                                        | ```**Fett**```                                                                                 |
-| *Kursiv*                                                                        | ```_Kursiv_```                                                                                 |
-| \| Zitat                                                                        | ```> Zitat```                                                                                  |
-| **Überschrift 1**                                                               | ```# Überschrift 1```                                                                          |
-| Überschrift 2                                                                   | ```## Überschrift 2```                                                                         |
-| [Matrix Hilfe](https://doc.matrix.tu-dresden.de/)                               | ```[Matrix Hilfe](https://doc.matrix.tu-dresden.de/)```                                        |
-| ![TUD](https://tu-dresden.de/++theme++tud.theme.webcms2/img/tud-logo-white.svg) | ```![TUD](https://tu-dresden.de/++theme++tud.theme.webcms2/img/tud-logo-white.svg)```          |
-| Listeneinträge                                                                  | ```* Listeneintrag```<br/>```* Listeneintrag```<br/>```* Listeneintrag```<br/>                 |
+| Ergebnis                                                                        |                                          einzutippen                                           |
+|:--------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------:|
+| **Fett**                                                                        |                                         ```**Fett**```                                         |
+| *Kursiv*                                                                        |                                         ```_Kursiv_```                                         |
+| \                                                                               |                                             Zitat                                              | ```> Zitat```                                                                                  |
+| **Überschrift 1**                                                               |                                     ```# Überschrift 1```                                      |
+| Überschrift 2                                                                   |                                     ```## Überschrift 2```                                     |
+| [Matrix Hilfe](https://hilfe.chat.darc.de/)                                     |                          ```[Matrix Hilfe](https://hilfe.chat.de/)```                          |
+| Listeneinträge                                                                  |         ```* Listeneintrag```<br/>```* Listeneintrag```<br/>```* Listeneintrag```<br/>         |
 | Nummerierte Listen                                                              | ```1. Nummerierte Liste``` <br/>```2. Nummerierte Liste```<br/>```3. Nummerierte Liste```<br/> |
 
 Die aktuelle [MarkDown-Spezifikation ist hier](https://spec.commonmark.org/current/) zu finden.
-
-Das Eingeben von LaTeX-Formeln wird zur Zeit nicht unterstützt, wurde aber schon gefordert: https://github.com/vector-im/element-web/issues/1945
-Alternativ kann mittels einer Integration ein CodiMD erstellt werden (z.B. unter https://md.inf.tu-dresden.de/), in welchem dann LaTeX verwendet werden kann.
 
 **Hashtags** können benutzt werden um Begriffe leichter in der Suche auffindbar zu machen.
 
