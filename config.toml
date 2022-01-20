@@ -1,4 +1,4 @@
-baseURL = "https://doc.matrix.tu-dresden.de/"
+baseURL = "https://doctest.pfannkuch-solutions.de/"
 languageCode = "de-DE"
 DefaultContentLanguage = "de"
 title = "Matrix Dokumentation"
