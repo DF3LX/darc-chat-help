@@ -78,7 +78,7 @@ Zur Überwachung, Verbesserung und Sicherung des reibungslosen Server- und Syste
 
 **Dauer der Speicherung**
 
-Serverprotokolle werden nach TODO Tagen gelöscht. Auf dem Matrix-Server des DARC gespeicherte Nachrichteninhalte werden nach spätestens 366 Tagen gelöscht. Der Account wird mit Ende der Mitgliedschaft oder auf Verlangen gelöscht. Sofern mit Personen, die andere Matrix-Server als den des DARC benutzen, kommuniziert wird, gelten die Regelungen des jeweiligen Matrix-Servers und Löschung kann möglicherweise später oder früher erfolgen. Darauf hat der DARC prinzipbedingt - vergleichbar mit E-Mails an andere Organisationen - keinen Einfluß.
+Serverprotokolle werden nach TODO Tagen gelöscht. Auf dem Matrix-Server des DARC gespeicherte Nachrichteninhalte werden nach spätestens einem Jahr gelöscht. Der Account wird mit Ende der Mitgliedschaft oder auf Verlangen gelöscht. Sofern mit Personen, die andere Matrix-Server als den des DARC benutzen, kommuniziert wird, gelten die Regelungen des jeweiligen Matrix-Servers und Löschung kann möglicherweise später oder früher erfolgen. Darauf hat der DARC prinzipbedingt - vergleichbar mit E-Mails an andere Organisationen - keinen Einfluß.
 
 **Rechte der betroffenen Personen**
 
