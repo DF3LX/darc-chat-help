@@ -3,7 +3,7 @@
 [*LICENSE.MD*](https://bitbucket.darc.de/projects/CHAT/repos/darc-chat-hilfe/browse/LICENSE.md)
 # Installation
 ## Submodules pullen
-    *git submodule update --init --recursive
+    git submodule update --init --recursive
 ## Hugo installieren
     https://gohugo.io/getting-started/installing
 ## Lokal testen
