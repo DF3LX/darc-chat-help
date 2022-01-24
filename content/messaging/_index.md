@@ -12,7 +12,7 @@ Um einzelne Personen anzuschreiben und somit einen 1:1 Chat zu erzeugen ist als 
 
 ![Klick au den Chat starten Button](/images/01_Start-Chat_de.png)
 
-Nun ist in das Suchfeld zu tippen und bspw. die E-Mail-Adresse der empfangenen Person anzufangen zu tippen:
+Nun ist in das Suchfeld zu tippen und bspw. das Rufzeichen der empfangenen Person anzufangen zu tippen:
 
 Personen, die schon einen Account in Matrix haben sind auch durch ihren Anzeigenamen (meist „Rufzeichen Vorname“) auffindbar. Bitte nach jedem letzten eingegebenen Zeichen 5 Sekunden warten, bis die Suchergebnisse angezeigt werden. Personen, die noch nicht eingeloggt waren, sind nicht erreichbar. Der Link-Button „Show More“ lässt weitere Sucherergebnisse erscheinen. Beachten Sie auch, auf welchem Server Ihre gesuchte Person angezeigt wird.
 
@@ -28,7 +28,7 @@ Im Suchergebnis ist auf die Zielperson zu klicken und dann auf Los:
 
 ![Ein Suchergebnis auf eingegebenen Suchanfrage](/images/04_Found-and-Go_de.png)
 
-Es öffnet sich das Gespräch, welches nach Annahme der Einladung durch die verbundene Person [Ende-zu-Ende-verschlüsselt]({{< relref "encryption" >}}) (inzwischen Standard) beginnen kann. Die Verbindung zum Server ist natürlich auch transport-verschlüsselt. Sollten Sie aus einem speziellen Grund explizit keine Ende-zu-Ende-Verschlüsselung wünschen, wäre ein unverschlüsselter [Raum zu erzeugen]({{< relref "rooms/create.md" >}}) und die Gesprächspartner:in in diesen einzuladen.
+Es öffnet sich das Gespräch, welches nach Annahme der Einladung durch die verbundene Person [Ende-zu-Ende-verschlüsselt]({{< relref "encryption" >}}) (inzwischen Standard) beginnen kann. Die Verbindung zum Server ist natürlich auch transport-verschlüsselt. Solltest Du aus einem speziellen Grund explizit keine Ende-zu-Ende-Verschlüsselung wünschen, wäre ein unverschlüsselter [Raum zu erzeugen]({{< relref "rooms/create.md" >}}) und die Gesprächspartner:in in diesen einzuladen.
 
 Weiteres: [Nachrichten formatieren]({{< relref "formatting.md" >}})
 

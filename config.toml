@@ -26,6 +26,6 @@ home = [ "HTML", "RSS", "JSON"]
     		weight = 2
 		languageName = "English"
 	[languages.de]
-		title = "Matrix Dokumentation"
+		title = "chat.darc.de Dokumentation"
 		weight = 1
 		languageName = "Deutsch"

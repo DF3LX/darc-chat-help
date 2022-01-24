@@ -12,12 +12,12 @@ weight: 10
 Matrix verschlüsselt nicht nur die Transporte von und zu dem Heimserver sondern erlaubt auch die Nutzung von Ende-zu-Ende-Verschlüsselung (E2EE). Hierzu müssen kryptografische Schlüssel zwischen allen Geräten ausgetauscht werden, die sich Ende-zu-Ende-verschlüsselt schreiben möchten. Diese technische Notwendigkeit klingt und ist kompliziert, ist inzwischen für die Anwendenden sehr bequem geworden. Die vielen kryptografischen Schlüssel werden vom Client erstellt auf dem jeweiligen Gerät gespeichert. Sollte dies bspw. ein Tab in einem Browser sein, besteht die Gefahr, dass dieser Tab einmal unbeabsichtigt geschlossen wird. Dann sind alle verschlüsselten Inhalte nicht mehr lesbar. Damit dies nicht geschieht, wird eine Schlüsselsicherung auf dem Heimserver des DARC angeboten, auf der (mit einer Sicherheitsphrase (bzw. daraus errechenbaren Sicherheitsschlüssel) geschützt) alle kryptografischen Schlüssel verschlüsselt abgelegt sind. 
 
 {{% notice warning %}}
-Es wird dringend empfohlen, diese Schlüsselsicherung zu nutzen (mit einer sicheren Sicherheitsphrase, welche NICHT Ihr DARC-Passwort ist) und am Punkt [Weitere wichtige Einstellungen]({{< relref "_index.md#weitere-wichtige-einstellungen" >}}) weiterlesen!
+Es wird dringend empfohlen, diese Schlüsselsicherung zu nutzen (mit einer sicheren Sicherheitsphrase, welches **nicht** Dein DARC-Passwort ist) und am Punkt [Weitere wichtige Einstellungen]({{< relref "_index.md#weitere-wichtige-einstellungen" >}}) weiterlesen!
 {{% /notice %}}
    
    ![Screenshot der Aufforderung eine Sicherheitsphrase einzugeben](/images/01_Restore-Session_de.png)
 
-Sollten Sie dies jetzt überspringen, sähe der nächste Bildschirm so aus:
+Solltest Du dies jetzt überspringen, sähe der nächste Bildschirm so aus:
    
    ![Bestätigung des Überspringes der Eingabe einer Sicherheitsphrase](/images/03_Cancel-Restore_de.png)
 
@@ -25,7 +25,7 @@ Die Schlüsselsicherung wird dringend empfohlen, um sorgenfrei Ende-zu-Ende-Vers
    
    ![Chatansicht mit der Anzeige eines Tooltips, Verschlüsselung einzurichten. Markierung des bestätigen Feldes](/images/04_Notification_de.png)
 
-Sollten Sie dies auch hier auslassen wird Ihnen eine letzte Warnung bei einem bewussten Abmelden angezeigt. Wenn spätestens hierbei keine Schlüsselsicherung eingerichtet wird, kann später auf ggf. schon stattgefundene verschlüsselte Gespräche nicht mehr zugegriffen werden. Sollte der Tab geschlossen werden, entspricht dies ggf. ebenfalls einem Abmelden.
+Sollten Sie dies auch hier auslassen wird Dir eine letzte Warnung bei einem bewussten Abmelden angezeigt. Wenn spätestens hierbei keine Schlüsselsicherung eingerichtet wird, kann später auf ggf. schon stattgefundene verschlüsselte Gespräche nicht mehr zugegriffen werden. Sollte der Tab geschlossen werden, entspricht dies ggf. ebenfalls einem Abmelden.
    
    ![Abfrage, ob Nachrichten verschlüsselt werden sollen](/images/05_Logout-Notify_de.png)
 
@@ -41,42 +41,42 @@ Einstellungen im Einstellungsmenü vornehmen: dazu ist auf die Zeile dem Nutzern
 
 ![Auswahl des Menüpunkts Einstellungen in dem Nutzer:innenmenü](/images/06_Settings_de.png)
 
-In den Einstellungen können Sie im Reiter **Allgemein** bei Bedarf Ihren Anzeigenamen ändern („Rufzeichen Vorname“) und ein Profilbild hochladen:
+In den Einstellungen kannst Du im Reiter **Allgemein** bei Bedarf Ihren Anzeigenamen ändern („Rufzeichen Vorname“) und ein Profilbild hochladen:
 ![Makierung des Feldes Anzeigenamen und des Profilbilds in den Einstellungen](/images/06_Settings-Names_de.png)
 
 Ein manuelles Ändern durch das standatisierte Verfahren nicht mehr nötig.
 
 Auf der selben Seite kann auch das Design Thema von hell zu dunkel verändert werden.
 
-Im Reiter **Benachrichtigungen** können Sie E-Mail-Benachrichtigungen (um über verpasste Nachrichten informiert zu werden) sowie akustische Benachrichtigungen aktivieren und diese granular für einzelne Aktivitäten Anderer einstellen. Mehr dazu auf der Seite [Benachrichtigungen]({{< relref "notifications" >}}).
+Im Reiter **Benachrichtigungen** kannst Du E-Mail-Benachrichtigungen (um über verpasste Nachrichten informiert zu werden) sowie akustische Benachrichtigungen aktivieren und diese granular für einzelne Aktivitäten Anderer einstellen. Mehr dazu auf der Seite [Benachrichtigungen]({{< relref "notifications" >}}).
 
 ![Screenshot der Benarchrichtigungeneinstellungen mit einer Makierung der ausgeschalteten E-Mail benachrichtigungen](/images/06_Settings-EMailNotify_de.png)
 
-Im Reiter **Sprache & Video** können Sie den Matrix-Client Element berechtigen Ihre Medien (Kamera + Mikrofon) zu nutzen, direkten Sprach-/Videoanrufe mittels Peer-to-Peer-Verbindungen erlauben, sowie bei Videotelefonaten sich selbst in einem kleinen Bild zu sehen:
+Im Reiter **Sprache & Video** kannst Du den Matrix-Client Element berechtigen Ihre Medien (Kamera + Mikrofon) zu nutzen, direkten Sprach-/Videoanrufe mittels Peer-to-Peer-Verbindungen erlauben, sowie bei Videotelefonaten sich selbst in einem kleinen Bild zu sehen:
 
 ![Screenshot des Einstellungsmenüs Sprache und Video](/images/06_Settings-Media_de.png)
 
 Erfreulicherweise starten 1:1 Gespräche standardmäßig Ende-zu-Ende-verschlüsselt. Um dieser Verschlüsselung wirklich mit gutem Gefühl zu vertrauen, können Nutzer:innen den Schlüsselvergleich mit Gesprächspartner:innen durchführen. Damit dies dann auch für alle Geräte dieser Gesprächspartner:innen gilt, müssen Matrix-Nutzenden ihrerseits wiederum die Schlüssel all ihrer Geräte untereinander verifizieren (Fachbegriff: Cross-Signing). Unter Beachtung der nachfolgenden Hinweise kann dies alles sehr bequem geschehen.
 
 ## Sicherheit & Datenschutz
-Im Reiter **Sicherheit & Datenschutz** finden Sie alle Ihre Geräte, die bisher vom Matrix-Account genutzt wurden. 
+Im Reiter **Sicherheit & Datenschutz** findest Du alle Geräte, die bisher von deinem Matrix-Account genutzt wurden. 
 
-* Entfernen Sie ggf. nicht mehr benutzte Sitzungen durch Markierung der quadratischen Box am Zeilenende und dem Klick auf den sich dann zeigenden roten Button.
+* Entferne ggf. nicht mehr benutzte Sitzungen durch Markierung der quadratischen Box am Zeilenende und dem Klick auf den sich dann zeigenden roten Button.
   
 ![Screenshot des Menüs zum löschen von aktiven Sessions](/images/09_Delete-Sessions_de.png)
 
-* Die Geräte-Namen geben Ihnen auch Übersicht beim gegenseitigen Schlüsselvergleich zwischen Ihren Geräten. 
+* Die Geräte-Namen geben Dir auch Übersicht beim gegenseitigen Schlüsselvergleich zwischen Deinen Geräten. 
 
-* Die hier vergebbaren öffentlichen Namen (durch Mausklick auf diese) Ihrer Geräte können auch von Gesprächspartner:innen eingesehen werden.  Dies hilft, wenn diese einen Vergleich der kryptografischen Schlüssel Ihrer Geräte (bspw. Laptop + Handy) durchzuführen möchten und so leicht die Gerätenamen identifizieren können.
+* Die hier vergebbaren öffentlichen Namen (durch Mausklick auf diese) Deiner Geräte können auch von Gesprächspartner:innen eingesehen werden.  Dies hilft, wenn diese einen Vergleich der kryptografischen Schlüssel Ihrer Geräte (bspw. Laptop + Handy) durchzuführen möchten und so leicht die Gerätenamen identifizieren können.
 
 * Die vielen kryptografischen Schlüssel werden auf dem jeweiligen Gerät gespeichert. Sollte dies bspw. ein Tab in einem Browser sein, besteht die Gefahr, dass dieser Tab einmal unbeabsichtigt geschlossen wird. Dann sind alle verschlüsselten Inhalte nicht mehr lesbar. Damit dies nicht geschieht, wird eine Schlüsselsicherung auf dem Heimserver des DARC angeboten, auf der (mit einer Passphrase geschützt) alle kryptografischen Schlüssel verschlüsselt abgelegt sind. Es wird dringend empfohlen, diese Schlüsselsicherung zu nutzen!
 
 ![Screenshot des Menüpunkts zur Schlüsselsicherung](/images/10_Setup-Keystore_de.png)
 
 ## Schlüsselsicherung 
-Sofern nicht nach Erstanmeldung eingerichtet: Die **Schlüsselsicherung** ist eine wertvolle Errungenschaft, da Sie ermöglicht, die Schlüssel aller Gespräche, die Ende-zu-Ende-verschlüsselt sind, mit einem Passwort versehen zentral auf dem Server des DARC zu sichern. Dies ermöglicht bequem die Nutzung mehrerer Geräte bzw. Matrix-Clients. Hierzu ist auf „Beginne Schlüsselsicherung zu nutzen“ zu klicken und eine starke Sicherheitsphrase (aber nicht das DARC-Passwort) zu wählen. Diese Sicherheitsphrase wird immer einzugeben sein, wenn Schlüssel mit der Schlüsselsicherung synchronisiert werden sollen.
+Sofern nicht nach Erstanmeldung eingerichtet: Die **Schlüsselsicherung** ist eine wertvolle Errungenschaft, da Sie ermöglicht, die Schlüssel aller Gespräche, die Ende-zu-Ende-verschlüsselt sind, mit einem Passwort versehen zentral auf dem Server des DARC zu sichern. Dies ermöglicht bequem die Nutzung mehrerer Geräte bzw. Matrix-Clients. Hierzu ist auf „Beginne Schlüsselsicherung zu nutzen“ zu klicken und eine starke Sicherheitsphrase (aber **nicht** das DARC-Passwort) zu wählen. Diese Sicherheitsphrase wird immer einzugeben sein, wenn der Schlüssel mit der Schlüsselsicherung synchronisiert werden sollen.
 
 ![Aufforderung den Sicherheitsschlüssel zu generieren oder eine Sicherheitsphrase einzugeben](/images/11_Setup-Key_de.png)
 ![Aufforderung eine Passwort für die Schlüsselsicherung einzugeben](/images/12_Enter-Key_de.png)
-Alternativ können Sie sich statt der Sicherheitsphrase auch einen Sicherheitsschlüssel generieren lassen, welcher den selben Zweck wie die Sicherheitsphrase erfüllt. Weiterhin wird der Sicherheitsschlüssel zusätzlich zur Sicherheitsphrase erstellt und sollte als Notfallschlüssel sicher und wiederauffindbar verwahrt werden (z.B. Abspeichern als .txt-Datei oder Ausdrucken) 
+Alternativ kannst Du statt der Sicherheitsphrase auch einen Sicherheitsschlüssel Dir generieren lassen, welcher den selben Zweck wie die Sicherheitsphrase erfüllt. Weiterhin wird der Sicherheitsschlüssel zusätzlich zur Sicherheitsphrase erstellt und sollte als Notfallschlüssel sicher und wiederauffindbar verwahrt werden (z.B. Abspeichern als .txt-Datei oder Ausdrucken) 
 ![Anzeige des Sicherheitsschlüssel zum abschreiben oder wegspeichern](/images/13_Present-Key_de.png) 

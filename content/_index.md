@@ -53,9 +53,9 @@ Matrix ist ein freies und offenes, sicheres, dezentralisiertes Protokoll für Ec
 
 ### Fragen / Kontakt
 
-Allgemeine Fragen richten Sie bitte an [chat@darc.de](mailto:chat@darc.de).
+Allgemeine Fragen richtes Du bitte an [chat@darc.de](mailto:chat@darc.de).
 
-Probleme und Lösungen können darüber hinaus durch Schildern des Sachverhalts gemeinsam im [Matrix-Support-Raum](https://matrix.to/#/#hilfe:darc.de) diskutiert werden, sodass alle Anderen durch den transparenten Austausch lernen können.
+Probleme und Lösungen können darüber hinaus durch Schildern des Sachverhalts gemeinsam im [Matrix-Support-Raum](https://matrix.to/#/#hilfe:darc.de) diskutiert werden, sodass alle anderen Mitglieder durch den transparenten Austausch lernen können.
 
 {{% notice tip %}}
 Man kann bei manchen Anomalien probieren den Cache (Zwischenspeicher) zu leeren und alles neu zu laden: Einstellungen > Hilfe & Über > Cache löschen und neu laden

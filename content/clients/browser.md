@@ -30,7 +30,7 @@ Um jeden Nutzer die Möglich zu geben, einen eigenen Anzeigenamen zu setzten, wi
 @5ZUFALLSZEICHEN:darc.de (Beispiel: @6472k:darc.de)
 
 {{% notice warning %}}
-Sollten Sie statt mit der oben genannten Website (Element Web-App des DARC) sofort mit einem [Matrix Client]({{< relref "../clients" >}}) starten wollen, ist es wichtig den Heimserver vom zumeist standardmäßig eingestellten matrix.org auf https://darc.de zu ändern (dargestellt in den folgenden drei Bildschirmfotos):
+Solltest Du statt mit der oben genannten Website (Element Web-App des DARC) sofort mit einem [Matrix Client]({{< relref "../clients" >}}) starten wollen, ist es wichtig den Heimserver vom zumeist standardmäßig eingestellten matrix.org auf https://darc.de zu ändern (dargestellt in den folgenden drei Bildschirmfotos):
 {{% /notice %}}
 
 ![Anmeldeseite mit Fokus auf dem Homeserver ändern Button](/images/02_Login2_de.png)
@@ -67,4 +67,4 @@ Viele Menschen nutzen u.a. Skript-Blocker, um sich vor [Tracking](https://tu-dre
 Erlauben Sie auch Cookies von
 
 - darc.de
-- vector.im (für den Integrationsmanager)
+- (vector.im (für den Integrationsmanager))
