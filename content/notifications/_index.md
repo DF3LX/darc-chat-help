@@ -5,19 +5,7 @@ draft: false
 chapter: true
 weight: 38
 ---
-## Benachrichtigungen feiner einstellen
-
-Man muss seine Arbeit erledigen können und darf nicht durch Matrix gestört werden. Wir alle müssen in Zeiten der digitalen Ablenkung lernen, wie Benachrichtigungen schrittweise sinnvoll angepasst werden sollten. 
-
-*Szenario 1:*
-
-Wenn Sie einen Antrag für ein Forschungsprojekt schreiben und die Frist bald abläuft, möchten Sie vielleicht benachrichtigt werden, wenn Ihre Kolleg:innen eine Diskussion mit Ihnen beginnen wollen.  Benachrichtigungen in diesem Raum sollen aufmerksam machen und werden dementsprechend eingestellt...
-
-*Szenario 2:*
-
-Wenn Sie sich in einem Raum befinden, dessen Hauptzweck es ist, sich gelegentlich über neue wissenschaftliche Arbeiten und andere interessante Dinge zu informieren, können Sie die Benachrichtigungen vlt. eher abschalten und sich selbst daran erinnern, den Raum von Zeit zu Zeit zu betreten, oder sich nur laut benachrichtigen lassen, wenn Ihr Name in der Diskussion fällt.
-
-### Globale Einstellungen
+## Globale Einstellungen
 
 **Einstellungen > Benachrichtigungen**
 
