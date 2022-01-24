@@ -12,15 +12,13 @@ Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Teilweise s
 * [Warum sieht man im Element Desktop-Client keine Statuszeile am unteren Ende des Bildschirms wenn man über Hyperlinks hovert (= Maus drüber bewegt und verweilt)? Wie kann man diesen dann vertrauen?](#no-statusline)
 * [Wie teilt man Leuten mit Element Desktop-Client eine Raumadresse mit?](#desktop-share-room)
 * [Wie teilt man Leuten mit Element Web-Client eine Raumadresse mit?](#web-share-room)
-* [Kann ich LaTeX schreiben?](#latex)
 * [Gibt es sowas wie Threads (vgl. Mattermost/Slack) in Matrix?](#threads)
 * [Wie ändere ich die Sicherheitsphrase für meine Schlüsselsicherung?](#change-securityphrase)
 * [Wie kann ich die Schlüsselsicherung zurücksetzen, wenn ich meine Sicherheitsphrase UND meinen (abgespeicherten und ausgedruckten) Sicherheitsschlüssel verloren habe?](#reset-securityphrase)
-* [Wie kann ich als administrierende Person viele Nachrichten auf einmal löschen?](#delete-multiple-messages)
+* [Wie kann ich als moderierende Person viele Nachrichten auf einmal löschen?](#delete-multiple-messages)
 * [Manchmal sehe ich einen fett markierten Raum und klicke ihn an, habe aber doch nicht die Zeit, den Inhalt und etwaige Konsequenzen für mich sofort zu bearbeiten. Wie kann ich den Raum wieder als „ungelesen“ markieren?](#mark-room-as-unread)
 * [Was muss ich tun, wenn auf einem MacOS Video oder Audio in einer Videokonferenz nicht funktioniert.](#apple-no-video)
 * [Wie viele Personen können gleichzeitig in einen Raum eingeladen werden? Kann ich Personen über ihre E-Mail-Adressen einladen?](#how-many-invites-can-i-do)
-* [Kann ich die Beitrittsrechte aller Räume meiner Community so anpassen, dass nur Mitglieder der Community Zutritt haben?](#roompermissions-in-communities)
 * [Kann ich mit Element mehrere Matrix-Accounts verwalten (Multi-Account-Client)?](#multiple-accounts-element)
 * [Ich kann keine Profil-/Raumbilder oder gesendete Bilder mehr sehen.](#relogin)
 * [Überall steht nur „missing translation: en“|](#missing-translations)
@@ -45,10 +43,6 @@ Mit dem matrix.to-Link, den man unter dem i für die Raumeigenschaften und einem
 ***
 #### Wie teilt man Leuten mit Element Web-Client eine Raumadresse mit? {#web-share-room}
 Mit dem matrix.to-Link, den man unter dem i für die Raumeigenschaften und einem weiteren Klick auf „Teile Raum“ erkennt und einem Austausch vom vorderen matrix.to/#/ mit darc.de/#/room/
-***
-#### Kann ich LaTeX schreiben? {#latex}
-Ja! Zur Zeit ist es nur ein experimentelles Featu re, aber in wenigen Wochen wird es für alle verfügbar sein. Siehe https://github.com/vector-im/element-web/issues/1945
-
 ***
 #### Gibt es sowas wie Threads (vgl. Mattermost/Slack) in Matrix? {#threads}
 Threads sind in Kürze in Matrix verfügbar und aktuell, zumindest am Element Desktop, als Laborfunktion ausprobierbar: https://github.com/vector-im/roadmap/projects/1
@@ -80,8 +74,8 @@ Bitte folgendes ausführen:
   * Für alle vorher exportieren Schlüsselsicherungen den manuellen importweg ausführen.
   * Neue Schlüsselsicherung einrichten. Siehe [Schlüsselsicherung]({{< relref "settings/#schlüsselsicherung" >}})
   
-#### Wie kann ich als administrierende Person viele Nachrichten auf einmal löschen? {#delete-multiple-messages}
-?
+#### Wie kann ich als moderierende Person viele Nachrichten auf einmal löschen? {#delete-multiple-messages}
+  * Dies geht nur pro Nutzer durch das Klicken auf das Profilbild und danach auf "letzte Nachrichten löschen"
 ***
 #### Manchmal sehe ich einen fett markierten Raum und klicke ihn an, habe aber doch nicht die Zeit, den Inhalt und etwaige Konsequenzen für mich sofort zu bearbeiten. Wie kann ich den Raum wieder als „ungelesen“ markieren? {#mark-room-as-unread}
 Das geht in Element leider nicht. Als Workaround kann man den Raum als Favorit markieren und sich selbst merken, dass eigene Favoriten nochmal in den Blick genommen werden sollten.

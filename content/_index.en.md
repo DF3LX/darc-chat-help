@@ -39,21 +39,13 @@ In order to meet the demand for real-time communication, the open communication 
 
 * [Fine-tune notifications]({{< relref "notifications/_index.en.md" >}})
 
-* [Use integrations, bridges, bots (e.g. Jitsi)]({{< relref "integrations/_index.en.md" >}})
-
 * [More Clients]({{< relref "clients/more_clients.en.md" >}})
 
-* [Using communities as room filters]({{< relref "communities/_index.en.md" >}})
-
 * [Using Spaces for managing rooms]({{< relref "spaces/_index.en.md" >}})
-
-* [Further development of Matrix]({{< relref "development/_index.en.md" >}})
 
 * [Privacy policy]({{< relref "privacy/_index.en.md" >}})
 
 * [Imprint]({{< relref "imprint/_index.en.md" >}})
-
-* [Declaration of Accessibility]({{< relref "accessibility/_index.en.md" >}})
 
 ### Questions and Contact
 
