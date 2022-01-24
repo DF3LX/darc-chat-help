@@ -64,6 +64,10 @@ Personen im Raum sehen welche anderen Personen im Raum zur Zeit online sind und 
 
 Während Sie eine Nachricht eingeben, wird dieser Umstand anderen Personen im Raum angezeigt. Diese Funktion kann in den Einstellungen aus- und auch wieder eingeschaltet werden.
 
+<u>URL-Vorschau</u>
+
+Werden in einem Raum Internerlinks (URLs) empfangen, wird automatisch eine Vorschau der entsprechenden Seite generiert. Dazu erfolgt im Hintergrund ein automatischer Zugriff auf die entsprechende URL, vergleichbar mit dem manuellen Abruf der URL mittels Webbrowser. Dadurch werden personenbezogene Daten (insebsondere die IP-Adresse) an den für die URL zuständigen Webserver übermittelt. Diese Funktion kann in den Einstellungen abgeschaltet werden.
+
 <u>Federation mit anderen Matrix-Servern</u>
 
 Sind in einem Raum Personen anwesend, die andere Matrix-Server als den des DARC benutzen, werden die vorgenannten Daten - vergleichbar einer E-Mail an andere Organisationen - auch an diese Matrix-Server übermittelt und dort gespeichert. Ob in einem Raum Personen sind, die einen anderen Matrix-Server benutzen, kann daran erkannt werden, dass diese Personen eine Matrix-ID haben, die nicht auf ":darc.de" endet.
