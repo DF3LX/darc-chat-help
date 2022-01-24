@@ -76,6 +76,10 @@ TODO
 
 Zur Überwachung, Verbesserung und Sicherung des reibungslosen Server- und Systembetriebs werden alle Zugriffe protokolliert. Dabei werden die IP-Adresse und der Zeitstempel der Anfrage erhoben und gespeichert.
 
+<u>Löschung</u>
+
+Es kann jederzeit durch die teilnehmende Person selber die Deaktivierung des Zugangs durchgeführt werden. Dabei wird der die Person aus allen Räumen entfernt und der Anzeigename, der Avatar (sofern hochgeladen), Berechtigungen sowie Einstellungen gelöscht. Die Verknüpfung mit der Mitgliedernummer wird aufgehoben.
+
 **Dauer der Speicherung**
 
 Serverprotokolle werden nach TODO Tagen gelöscht. Auf dem Matrix-Server des DARC gespeicherte Nachrichteninhalte werden nach spätestens einem Jahr gelöscht. Der Account wird mit Ende der Mitgliedschaft oder auf Verlangen gelöscht. Sofern mit Personen, die andere Matrix-Server als den des DARC benutzen, kommuniziert wird, gelten die Regelungen des jeweiligen Matrix-Servers und Löschung kann möglicherweise später oder früher erfolgen. Darauf hat der DARC prinzipbedingt - vergleichbar mit E-Mails an andere Organisationen - keinen Einfluß.
