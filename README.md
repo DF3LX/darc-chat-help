@@ -5,4 +5,8 @@
 ## Submodules pullen
     *git submodule update --init --recursive
 ## Hugo installieren
-    
+    https://gohugo.io/getting-started/installing
+## Lokal testen
+    'hugo server -D'
+## Deployversion
+    'hugo -D'
