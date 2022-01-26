@@ -1,7 +1,7 @@
 ---
 title: "Datenschutz"
-date: 2020-07-03T13:25:27+02:00
-draft: false
+date: 2022-01-26T22:53:00+01:00
+draft: true
 chapter: true
 weight: 900
 ---
@@ -10,7 +10,7 @@ weight: 900
 
 "Matrix" ist ein offener, dezentraler Kommunikationsdienst für die Echtzeitkommunikation. Es wird allen Personen, die über einen DARC-Login verfügen, also insbesondere den Mitgliedern des DARC, unter Einhaltung der einschlägigen gesetzlichen und rechtlichen Bestimmungen zum Datenschutz und zur IT-Sicherheit ermöglicht mit anderen Personen zu kommunizieren, die ebenfalls über einen DARC-Login verfügen.
 
-Weiterhin wird auch die Teilnahme am Matrix-Netzwerk ermöglicht, wodurch - vergleichbar mit E-Mail - mit Personen kommuniziert werden kann, die über keinen DARC-Login verfügen und einen anderen Matrix-Server (z. B. den einer Universität, eines Unternehmens oder einer anderen Organisation) benutzen.
+Weiterhin wird auch die Teilnahme am Matrix-Netzwerk ermöglicht, wodurch - vergleichbar mit E-Mail oder einem öffentlichem Webforum - mit Personen kommuniziert werden kann, die über keinen DARC-Login verfügen sondern einen anderen Matrix-Server (z. B. den einer Universität, eines Unternehmens oder einer anderen Organisation) benutzen.
 
 Ziel des Einsatzes von Matrix ist insbesondere die Sicherstellung und Vereinfachung arbeitsorganisatorischer Maßnahmen für die gemeinschaftliche Arbeit von Mitgliedern, Personengruppen, Teams und Gremien sowie das Kommunikationsmanagement. Die Verarbeitung personenbezogener Daten erfolgt ausschließlich für vorgenannte Zwecke.
 
@@ -44,9 +44,12 @@ Zu jedem Endgerät, mit dem Matrix benutzt wird, werden Informationen zu den ver
 
 Es können verschiedene Einstellungen, insbesondere zum Design und Verhalten der Oberfläche und den erwünschten Benachrichtigungen vorgenommen werden. Diese werden zur individuellen Anpassung der Oberfläche und des Verhaltens der Anwendung verarbeitet und gespeichert.
 
+<u>Spacemitgliedschaft</u>
+Personen, die das Matrix-Netzwerk nutzen, können sich in Spaces zusammenfinden, wozu die Spacemitgliedschaft verarbeitet und gespeichert wird. Personen, die in einem Space sind, wird angezeigt welche anderen Personen ebenfalls Mitglied im Space sind. Grundsätzlich kann jede Person, die das Matrix-Netzwerk verwendet, jeden Space betreten. Davon ausgenommen sind Spaces, die als Privat markiert sind. Diese sind nur auf Einladung durch ein Spacemitglied zugänglich.
+
 <u>Raummitgliedschaft</u>
 
-Personen, die das Matrix-Netzwerk nutzen, können sich in Räumen zusammenfinden und dort miteinander kommunzieren, wozu die Raummitgliedschaft verarbeitet und gespeichert wird. Personen, die in einem Raum sind, wird angezeigt welche anderen Personen im Raum sind.
+Personen, die das Matrix-Netzwerk nutzen, können sich in Räumen zusammenfinden und dort miteinander kommunzieren, wozu die Raummitgliedschaft verarbeitet und gespeichert wird. Personen, die in einem Raum sind, wird angezeigt welche anderen Personen ebenfalls Mitglied im Raum sind. Grundsätzlich kann jede Person, die das Matrix-Netzwerk verwendet, jeden Raum betreten. Davon ausgenommen sind nur Räume, die als Privat oder als nur für Spacemitglieder zugänglich markiert sind. Diese können nur auf Einladung durch ein Raummitglied bzw. von Spacemitgliedern betreten werden.
 
 <u>Nachrichten</u>
 
@@ -54,11 +57,11 @@ Wird eine Nachricht in einen Raum gesendet, werden die übermittelte Nachricht (
 
 <u>Direktnachrichten</u>
 
-Direktnachrichten zwischen zwei Personen werden über einen Raum abgewickelt, der nur diese beiden Personen enthält.
+Direktnachrichten zwischen zwei Personen werden über einen privaten Raum abgewickelt, der nur diese beiden Personen enthält.
 
 <u>Anzeige der Anwesenheit und Lesebestätigungen</u>
 
-Personen im Raum sehen welche anderen Personen im Raum zur Zeit online sind und welche Nachrichten diese bereits im Raum gelesen haben.
+Personen in einem Raum sehen welche anderen Personen im Raum zur Zeit online sind und welche Nachrichten diese bereits im Raum gelesen haben.
 
 <u>Tipp-Benachrichtigungen</u>
 
@@ -66,11 +69,11 @@ Während Sie eine Nachricht eingeben, wird dieser Umstand anderen Personen im Ra
 
 <u>URL-Vorschau</u>
 
-Werden in einem Raum Internerlinks (URLs) empfangen, wird automatisch eine Vorschau der entsprechenden Seite generiert. Dazu erfolgt im Hintergrund ein automatischer Zugriff auf die entsprechende URL, vergleichbar mit dem manuellen Abruf der URL mittels Webbrowser. Dadurch werden personenbezogene Daten (insebsondere die IP-Adresse) an den für die URL zuständigen Webserver übermittelt. Diese Funktion kann in den Einstellungen abgeschaltet werden.
+Werden in einem Raum Internerlinks (URLs) empfangen, wird automatisch eine Vorschau der entsprechenden Seite angezeigt. Dazu erfolgt ein Zugriff auf die entsprechende URL, vergleichbar mit dem manuellen Abruf der URL mittels Webbrowser. Dadurch werden personenbezogene Daten (insbesondere die IP-Adresse und die URL) an den für die URL zuständigen Webserver übermittelt. Diese Funktion kann in den Einstellungen abgeschaltet werden.
 
 <u>Federation mit anderen Matrix-Servern</u>
 
-Sind in einem Raum Personen anwesend, die andere Matrix-Server als den des DARC benutzen, werden die vorgenannten Daten - vergleichbar einer E-Mail an andere Organisationen - auch an diese Matrix-Server übermittelt und dort gespeichert. Ob in einem Raum Personen sind, die einen anderen Matrix-Server benutzen, kann daran erkannt werden, dass diese Personen eine Matrix-ID haben, die nicht auf ":darc.de" endet.
+Wird ein Raum durch eine Person betreten, die einen anderen Matrix-Server als den des DARC benutzen, werden die vorgenannten Daten auch an diesen Matrix-Server übermittelt. Ob eine Person einen Raum betritt, die einen anderen Matrix-Server nutzt, ist daran zu erkennen, dass die Matrix-ID dieser Person nicht auf :darc.de endet.
 
 <u>scalar.vector.im</u>
 
@@ -80,13 +83,13 @@ TODO
 
 Zur Überwachung, Verbesserung und Sicherung des reibungslosen Server- und Systembetriebs werden alle Zugriffe protokolliert. Dabei werden die IP-Adresse und der Zeitstempel der Anfrage erhoben und gespeichert.
 
-<u>Löschung</u>
-
-Es kann jederzeit durch die teilnehmende Person selber die Deaktivierung des Zugangs durchgeführt werden. Dabei wird der die Person aus allen Räumen entfernt und der Anzeigename, der Avatar (sofern hochgeladen), Berechtigungen sowie Einstellungen gelöscht. Die Verknüpfung mit der Mitgliedernummer wird aufgehoben.
-
 **Dauer der Speicherung**
 
-Serverprotokolle werden nach TODO Tagen gelöscht. Auf dem Matrix-Server des DARC gespeicherte Nachrichteninhalte werden nach spätestens einem Jahr gelöscht. Der Account wird mit Ende der Mitgliedschaft oder auf Verlangen gelöscht. Sofern mit Personen, die andere Matrix-Server als den des DARC benutzen, kommuniziert wird, gelten die Regelungen des jeweiligen Matrix-Servers und Löschung kann möglicherweise später oder früher erfolgen. Darauf hat der DARC prinzipbedingt - vergleichbar mit E-Mails an andere Organisationen - keinen Einfluß.
+Serverprotokolle werden nach TODO Tagen gelöscht. Auf dem Matrix-Server des DARC gespeicherte Nachrichteninhalte werden nach spätestens einem Jahr gelöscht. Der Account wird mit Ende der Mitgliedschaft oder auf Verlangen gelöscht. Sofern Daten an andere Matrix-Server übermittelt wurden, gelten die Regelungen des jeweiligen Matrix-Servers und die Löschung kann möglicherweise später oder früher erfolgen. Darauf hat der DARC prinzipbedingt - vergleichbar mit E-Mails an andere Organisationen - keinen Einfluß.
+
+**Ende der Teilnahme**
+
+Es kann jederzeit durch die teilnehmende Person selber die Teilnahme beendet werden, indem die Deaktivierung des Zugangs durchgeführt wird. Dabei wird die Person aus allen Räumen entfernt und der Anzeigename, der Avatar (sofern hochgeladen), Berechtigungen sowie Einstellungen gelöscht. Die Verknüpfung mit der Mitgliedernummer wird aufgehoben. Während der Auslösung des Löschvorgangs kann ausgewählt werden, dass auch alle gesendete Nachrichten gelöscht werden. In diesem Falle werden die versendeten Nachrichten vom Matrix-Server des DARC gelöscht und - sofern diese Daten an andere Matrix-Server übermittelt wurde, wird an diese die Aufforderung gesendet, die Daten ebenfalls zu löschen. Prinzipbedingt kann der DARC nicht garantieren, dass andere Matrix-Server dieser Löschaufforderung auch tatsächlich nachkommen.
 
 **Rechte der betroffenen Personen**
 
