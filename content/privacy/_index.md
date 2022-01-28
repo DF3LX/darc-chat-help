@@ -30,7 +30,7 @@ Diese Datenschutzerklärung erläutert die Datenverarbeitung personenbezogener D
 
 **Zweck der Datenverarbeitung**
 
-Der DARC-Chat ermöglicht den Mitgliedern und Mitarbeitenden untereinander zu kommunizieren und am Matrix-Netzwerk teilzunehmen, wodurch &ndash; vergleichbar mit E-Mail oder einem öffentlichem Webforum &ndash; auch mit Personen kommuniziert werden kann, die nicht dem DARC angehören und den Matrix-Server z.&nbsp;B. einer Universität, eines Unternehmens oder einer anderen Organisation nutzen. Ziel des DARC-Chat ist insbesondere die Sicherstellung und Vereinfachung gemeinschaftlicher Arbeit von Mitgliedern, Personengruppen, Teams und Gremien.
+Der DARC-Chat ermöglicht den Mitgliedern und Mitarbeitenden des DARC untereinander zu kommunizieren und am Matrix-Netzwerk teilzunehmen, wodurch &ndash; vergleichbar mit E-Mail oder öffentlichen Webforen &ndash; auch mit Personen kommuniziert werden kann, die nicht dem DARC angehören und den Matrix-Server z.&nbsp;B. einer Universität, eines Unternehmens oder einer anderen Organisation nutzen. Ziel des DARC-Chat ist insbesondere die Sicherstellung und Vereinfachung gemeinschaftlicher Arbeit von Mitgliedern, Personengruppen, Teams und Gremien.
 
 **Rechtsgrundlage der Datenverarbeitung**
 
