@@ -22,6 +22,10 @@ Der DARC-Chat ist in das globale Matrix-Netzwerk eingebunden. Daher können &nda
 
 Der Zugriff auf den DARC-Chat kann mit verschiedenen Matrix-Clients erfolgen, die für viele Betriebssystem erhältlich sind und durch die teilnehmende Person selber beschafft werden können. Auf https://chat.darc.de/ wird ein webbasierter Matrix-Client auf der Basis der Software Element angeboten.
 
+**§4 Sicherheitsschlüssel**
+
+Während der Registrierung wird ein persönlicher, kryptographischer Schlüssel erzeugt, der im Matrix-Client hinterlegt wird. Dieser Schlüssel wird zusätzlich während der Registrierung zum Herunterladen angeboten. Der Schlüssel ist durch die teilnehmende Person herunterzuladen und sicher zu verwahren. Es wird empfohlen, den Schlüssel zu diesem Zweck auszudrucken und an einem sicheren Ort zu verwahren. Falls der persönliche Schlüssel verloren gehen sollte, ist der Zugriff auf empfangene und gesendete Nachrichten nicht mehr möglich und kann auch durch den DARC nicht wiederhergestellt werden.
+
 **§4 Anzeigename**
 
 Der Anzeigename kann durch die teilnehmende Person selber geändert werden. Es ist untersagt Identitäten dritter Personen vorzutäuschen. Insbesondere dürfen Rufzeichen oder DE-Kennnungen im Anzeigenamen nur dann verwendet werden, wenn diese der teilnehmenden Person persönlich zugewiesen sind. Die Verwendung von Spitznamen ist zulässig. 
