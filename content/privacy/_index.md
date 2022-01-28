@@ -38,13 +38,13 @@ Die Nutzung des DARC-Chat ist freiwillig. Mit der Nutzung erfolgt die Einwilligu
 
 **Umfang der Verarbeitung personenbezogenen Daten**
 
-<u>Registrierung, Matrix-ID und Anzeigename</u>
+<u>Registrierung und Matrix-ID</u>
 
-Durch den erstmaligen Anmeldevorgang am DARC-Chat wird die Mitgliedernummer aus der DARC-Mitgliederdatenbank auf den DARC-Matrix-Server übernommen und mit einer Matrix-ID verknüpft. Diese Matrix-ID wird aus einer zufälligen Zeichenfolge und dem Suffix ":darc.de" gebildet.
+Durch den erstmaligen Anmeldevorgang am DARC-Chat mittels des DARC-Logins (Single-Sign-On) wird die Mitgliedernummer aus der DARC-Mitgliederdatenbank auf den DARC-Matrix-Server übernommen und mit einer Matrix-ID verknüpft. Diese Matrix-ID wird aus einer zufälligen Zeichenfolge und dem Suffix ":darc.de" gebildet. Die Matrix-ID ist für andere teilnehmende Personen sichtbar. Die Mitgliedernummer wird für die Verknüpfung mit dem DARC-Login verarbeitet und gespeichert.
 
-Aus dem in der DARC-Mitgliederdatenbank hinterlegtem Rufzeichen und dem bzw. den Vorname(n) wird ein Anzeigename gebildet und mit der Matrix-ID verknüpft. Wenn kein Rufzeichen hinterlegt ist, wird nur der bzw. die Vorname(n) verwendet. Der Anzeigename kann jederzeit geändert werden.
+<u>Anzeigename</u>
 
-Die Matrix-ID und der Anzeigename sind für andere teilnehmende Personen sichtbar.
+Aus dem in der DARC-Mitgliederdatenbank hinterlegtem Rufzeichen und dem bzw. den Vorname(n) wird während der Registrierung ein Anzeigename gebildet und mit der Matrix-ID verknüpft. Wenn kein Rufzeichen hinterlegt ist, wird nur der bzw. die Vorname(n) verwendet. Der Anzeigename kann jederzeit geändert werden. Der Anzeigename ist für andere teilnehmende Personen sichtbar.
 
 <u>Avatar (Bild des Teilnehmenden)</u>
 
