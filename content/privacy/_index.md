@@ -16,7 +16,7 @@ Diese Datenschutzerklärung erläutert die Datenverarbeitung personenbezogener D
 
 <u>Matrix-Server</u>: Internetserver, der die Nutzung von Matrix, z.&nbsp;B. für eine Organisation, ermöglicht<br>
 
-<u>DARC-Matrix-Server</u>: Vom DARC betriebener Matrix-Server<br>
+<u>DARC-Matrix-Server</u>: Vom DARC&nbsp;e.&nbsp;V. betriebener Matrix-Server<br>
 
 <u>DARC-Chat</u>: Dienst, der durch den DARC-Matrix-Server angeboten wird<br>
 
@@ -30,7 +30,7 @@ Diese Datenschutzerklärung erläutert die Datenverarbeitung personenbezogener D
 
 **Zweck der Datenverarbeitung**
 
-Der DARC-Chat ermöglicht den Mitgliedern und Mitarbeitenden des DARC untereinander zu kommunizieren und am Matrix-Netzwerk teilzunehmen, wodurch &ndash; vergleichbar mit E-Mail oder öffentlichen Webforen &ndash; auch mit Personen kommuniziert werden kann, die nicht dem DARC angehören und den Matrix-Server z.&nbsp;B. einer Universität, eines Unternehmens oder einer anderen Organisation nutzen. Ziel des DARC-Chat ist insbesondere die Sicherstellung und Vereinfachung gemeinschaftlicher Arbeit von Mitgliedern, Personengruppen, Teams und Gremien.
+Der DARC-Chat ermöglicht den Mitgliedern und Mitarbeitenden des DARC&nbsp;e.&nbsp;V. und der DARC Verlag GmbH untereinander zu kommunizieren und am Matrix-Netzwerk teilzunehmen, wodurch &ndash; vergleichbar mit E-Mail oder öffentlichen Webforen &ndash; auch mit Personen kommuniziert werden kann, die andere Matrix-Server z.&nbsp;B. einer Universität, eines Unternehmens oder einer anderen Organisation nutzen. Ziel des DARC-Chat ist insbesondere die Sicherstellung und Vereinfachung gemeinschaftlicher Arbeit von Mitgliedern, Personengruppen, Teams und Gremien.
 
 **Rechtsgrundlage der Datenverarbeitung**
 
@@ -56,7 +56,7 @@ Es wird gespeichert, welche Berechtigungen (z.&nbsp;B. Administrations- oder Mod
 
 <u>Sicherheitsschlüssel</u>
 
-Während der Registrierung wird ein persönlicher, kryptographischer Schlüssel erzeugt, der durch den Matrix-Client auf dem Endgerät der teilnehmenden Person abgelegt wird und zusätzlich durch die teilnehmende Person herunterzuladen und sicher zu verwahren ist. Der Schlüssel kann auch mit einem durch die teilnehmende Person festzulegendem Kennwort verschlüsselt auf dem DARC-Matrix-Server abgelegt werden. Falls der persönliche Schlüssel verloren geht, ist der Zugriff auf empfangene und gesendete Nachrichten nicht mehr möglich und kann auch durch den DARC nicht wiederhergestellt werden.
+Während der Registrierung wird ein persönlicher, kryptographischer Schlüssel erzeugt, der durch den Matrix-Client auf dem Endgerät der teilnehmenden Person abgelegt wird und zusätzlich durch die teilnehmende Person herunterzuladen und sicher zu verwahren ist. Der Schlüssel kann auch mit einem durch die teilnehmende Person festzulegendem Kennwort verschlüsselt auf dem DARC-Matrix-Server abgelegt werden. Falls der persönliche Schlüssel verloren geht, ist der Zugriff auf empfangene und gesendete Nachrichten nicht mehr möglich und kann auch durch den DARCnicht wiederhergestellt werden.
 
 <u>Angemeldete Endgeräte</u>
 
@@ -114,17 +114,17 @@ Wird ein Raum durch teilnehmende Personen betreten, die andere Matrix-Server als
 
 Es kann jederzeit durch die teilnehmende Person selber die Teilnahme beendet werden, indem die Deaktivierung des Zugangs durchgeführt wird. Dabei wird die Person aus allen Räumen entfernt, der Anzeigename, der Avatar (sofern hochgeladen), Berechtigungen sowie Einstellungen gelöscht und die Verknüpfung mit der Mitgliedernummer aufgehoben.
 
-Während der Auslösung des Löschvorgangs kann ausgewählt werden, dass auch alle gesendete Nachrichten gelöscht werden sollen. In diesem Falle werden die versendeten Nachrichten vom Matrix-Server des DARC gelöscht.
+Während der Auslösung des Löschvorgangs kann ausgewählt werden, dass auch alle gesendete Nachrichten gelöscht werden sollen. In diesem Falle werden die versendeten Nachrichten vom Matrix-Server des DARC&nbsp;e.&nbsp;V. gelöscht.
 
-Sofern Nachrichten an andere Matrix-Server übermittelt wurden, wird an diese eine Aufforderung gesendet, diese ebenfalls zu löschen. Prinzipbedingt kann der DARC nicht garantieren, dass andere Matrix-Server dieser Löschaufforderung auch tatsächlich nachkommen.
+Sofern Nachrichten an andere Matrix-Server übermittelt wurden, wird an diese eine Aufforderung gesendet, diese ebenfalls zu löschen. Prinzipbedingt kann der DARC&nbsp;e.&nbsp;V. nicht garantieren, dass andere Matrix-Server dieser Löschaufforderung auch tatsächlich nachkommen.
 
-Bei Ende der Mitgliedschaft im DARC wird die vorgenannte Deaktivierung automatisch innerhalb von TODO Tagen durchgeführt.
+Bei Ende der Mitgliedschaft im DARC&nbsp;e.&nbsp;V. wird die vorgenannte Deaktivierung automatisch innerhalb von TODO Tagen durchgeführt.
 
 **Dauer der Speicherung**
 
 Serverprotokolle werden nach TODO Tagen gelöscht. Auf dem DARC-Matrix-Server gespeicherte Nachrichteninhalte werden spätestens nach einem Jahr gelöscht.
 
-Sofern Daten an andere Matrix-Server übermittelt wurden, gelten die Regelungen des jeweiligen Matrix-Servers und die Löschung kann möglicherweise später oder früher erfolgen. Darauf hat der DARC prinzipbedingt &ndash; vergleichbar mit E-Mails an andere Organisationen &ndash; keinen Einfluß.
+Sofern Daten an andere Matrix-Server übermittelt wurden, gelten die Regelungen des jeweiligen Matrix-Servers und die Löschung kann möglicherweise später oder früher erfolgen. Darauf hat der DARC&nbsp;e.&nbsp;V. prinzipbedingt &ndash; vergleichbar mit E-Mails an andere Organisationen &ndash; keinen Einfluß.
 
 **Rechte der betroffenen Personen**
 
@@ -141,7 +141,7 @@ Das geltende Datenschutzrecht gewährt Ihnen gegenüber dem Verantwortlichen hin
 
 **Verantwortlich für die Datenverarbeitung**
 
-DARC e.V.<br>
+DARC&nbsp;e.&nbsp;V.<br>
 Lindenallee 4<br>
 34225 Baunatal<br>
 Deutschland
