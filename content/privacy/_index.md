@@ -20,7 +20,7 @@ Diese Datenschutzerklärung erläutert die Datenverarbeitung personenbezogener D
 
 <u>DARC-Chat</u>: Dienst, der durch den DARC-Matrix-Server angeboten wird<br>
 
-<u>Matrix-Client</u>: Matrix-Anwendungsprogramm, dass die Nutzung des von einem Matrix-Server angebotenenen Dienst, z.&nbsp;B. des DARC-Chats, ermöglicht<br>
+<u>Matrix-Client</u>: Matrix-Anwendungsprogramm, das die Nutzung des von einem Matrix-Server angebotenenen Dienstes, z.&nbsp;B. des DARC-Chats, ermöglicht<br>
 
 <u>Teilnehmende Person</u>: Person, die einen Matrix-Server nutzt<br>
 
@@ -34,9 +34,9 @@ Der DARC-Chat ermöglicht den Mitgliedern und Mitarbeitenden des DARC&nbsp;e.&nb
 
 **Rechtsgrundlage der Datenverarbeitung**
 
-Die Nutzung des DARC-Chat ist freiwillig. Mit der Nutzung erfolgt die Einwilligung in die Datenverarbeitung nach Artikel 6 Abs. 1 a der Datenschutzgrundverordnung.
+Die Nutzung des DARC-Chats ist freiwillig. Mit der Nutzung erfolgt die Einwilligung in die Datenverarbeitung nach Artikel 6 Abs. 1 a der Datenschutzgrundverordnung.
 
-**Umfang der Verarbeitung personenbezogenen Daten**
+**Umfang der Verarbeitung personenbezogener Daten**
 
 <u>Registrierung und Matrix-ID</u>
 
@@ -44,7 +44,7 @@ Durch den erstmaligen Anmeldevorgang am DARC-Chat mittels des DARC-Logins (Singl
 
 <u>Anzeigename</u>
 
-Aus dem in der DARC-Mitgliederdatenbank hinterlegtem Rufzeichen und dem bzw. den Vorname(n) wird während der Registrierung ein Anzeigename gebildet und mit der Matrix-ID verknüpft. Wenn kein Rufzeichen hinterlegt ist, wird nur der bzw. die Vorname(n) verwendet. Der Anzeigename kann jederzeit geändert werden. Der Anzeigename ist für andere teilnehmende Personen sichtbar.
+Aus dem in der DARC-Mitgliederdatenbank hinterlegten Rufzeichen und Vorname(n) wird während der Registrierung ein Anzeigename gebildet und mit der Matrix-ID verknüpft. Wenn kein Rufzeichen hinterlegt ist, wird nur der bzw. die Vorname(n) verwendet. Der Anzeigename kann jederzeit geändert werden. Der Anzeigename ist für andere teilnehmende Personen sichtbar.
 
 <u>Avatar (Bild des Teilnehmenden)</u>
 
@@ -52,7 +52,7 @@ Es kann ein Avatar hochgeladen werden. Der Avatar kann jederzeit wieder geänder
 
 <u>Berechtigungen</u>
 
-Es wird gespeichert, welche Berechtigungen (z.&nbsp;B. Administrations- oder Moderationsberechtigung) für den DARC-Chat wurden. Diese Berechtigungen sind für andere teilnehmende Personen sichtbar.
+Es wird gespeichert, welche Berechtigungen (z.&nbsp;B. Administrations- oder Moderationsberechtigung) für den DARC-Chat erteilt wurden. Diese Berechtigungen sind für andere teilnehmende Personen sichtbar.
 
 <u>Sicherheitsschlüssel</u>
 
@@ -64,7 +64,7 @@ Zu jedem Matrix-Client, werden Informationen zu den verwendeten Matrix-Client-Pr
 
 <u>Einstellungen</u>
 
-Es können verschiedene Einstellungen, insbesondere zum Design und Verhalten der Oberfläche und den erwünschten Benachrichtigungen vorgenommen werden. Diese werden zur individuellen Anpassung der Oberfläche und des Verhaltens des Clients verarbeitet und gespeichert.
+Es können verschiedene Einstellungen, insbesondere zum Design und Verhalten der Oberfläche und den erwünschten Benachrichtigungen vorgenommen werden. Diese werden zur individuellen Anpassung der Oberfläche und des Verhaltens des Matrix-Clients verarbeitet und gespeichert.
 
 <u>Verifikation von teilnehmenden Personen</u>
 
@@ -76,11 +76,11 @@ Teilnehmende Personen können sich in sogenannten Spaces zusammenfinden. Dazu wi
 
 <u>Raummitgliedschaft</u>
 
-Teilnehmende Personen können sich in Räumen zusammenfinden um dort miteinander kommunizieren. Dazu die Raummitgliedschaft verarbeitet und gespeichert. Personen, die in einem Raum sind, wird angezeigt welche anderen Personen ebenfalls Mitglied im selben Raum sind. Räume können zu Spaces zugehörig sein. Grundsätzlich kann jede teilnehmende Person jeden Raum betreten. Davon ausgenommen sind nur Räume, die als Privat oder als nur für Spacemitglieder zugänglich markiert sind. Diese können nur auf Einladung bzw. von Spacemitgliedern betreten werden.
+Teilnehmende Personen können sich in Räumen zusammenfinden um dort miteinander kommunizieren. Dazu wird die Raummitgliedschaft verarbeitet und gespeichert. Personen, die in einem Raum sind, wird angezeigt welche anderen Personen ebenfalls Mitglied im selben Raum sind. Räume können zu Spaces zugehörig sein. Grundsätzlich kann jede teilnehmende Person jeden Raum betreten. Davon ausgenommen sind nur Räume, die als Privat oder als nur für Spacemitglieder zugänglich markiert sind. Diese können nur auf Einladung bzw. von Spacemitgliedern betreten werden.
 
 <u>Nachrichten</u>
 
-Wird eine Nachricht in einen Raum gesendet, werden die übermittelte Nachricht (Texte oder Dateien), der Zeitpunkt des Versands, Absender und Empfänger, sowie &ndash; bei einer Antwort auf eine andere Nachricht &ndash; ein Bezug auf die Ursprungsnachricht verarbeitet, gespeichert und anderen Personen im Raum angezeigt bzw. zum Download angeboten. Die Inhalte der Kommunikation, nicht aber die Meta-Informationen (wie z.&nbsp;B. Zeitpunkt, Absender, Empfänger und Bezug auf die Ursprungsnachricht), können durch Ende-zu-Ende-Verschlüsselung vor der Einsichtnahme durch Dritte geschützt werden. Ob eine Nachricht vor dem Versand verschlüsselt werden wird, ist an einem Hinweis im oder am Eingabefeld für neue Nachrichten zu erkennen.
+Wird eine Nachricht in einen Raum gesendet, werden die übermittelte Nachricht (Texte oder Dateien), der Zeitpunkt des Versands, Absender und Empfänger sowie &ndash; bei einer Antwort auf eine andere Nachricht &ndash; ein Bezug auf die Ursprungsnachricht verarbeitet, gespeichert und anderen Personen im Raum angezeigt bzw. zum Download angeboten. Die Inhalte der Kommunikation, nicht aber die Meta-Informationen (wie z.&nbsp;B. Zeitpunkt, Absender, Empfänger und Bezug auf die Ursprungsnachricht), können durch Ende-zu-Ende-Verschlüsselung vor der Einsichtnahme durch Dritte geschützt werden. Ob eine Nachricht vor dem Versand verschlüsselt werden wird, ist an einem Hinweis im oder am Eingabefeld für neue Nachrichten zu erkennen.
 
 <u>Direktnachrichten</u>
 
@@ -100,7 +100,7 @@ Während Sie eine Nachricht für einen Raum eingeben, wird dieser Umstand andere
 
 <u>URL-Vorschau</u>
 
-Werden in einem Raum Internetlinks (URLs) empfangen, wird automatisch eine Vorschau der entsprechenden Seite angezeigt. Dazu erfolgt ein Zugriff auf die entsprechende URL, vergleichbar mit dem manuellen Abruf der URL mittels Webbrowser. Dadurch werden personenbezogene Daten (insbesondere die IP-Adresse und die URL) an den für die URL zuständigen Webserver übermittelt. Diese Funktion kann in den Einstellungen abgeschaltet werden.
+Werden in einem Raum Internetlinks (URLs) empfangen, wird automatisch eine Vorschau der entsprechenden Seite angezeigt. Dazu erfolgt ein Zugriff auf die entsprechende URL, vergleichbar mit dem manuellen Abruf der URL mittels Webbrowser. Dadurch werden personenbezogene Daten (insbesondere die IP-Adresse und die URL) an den für die URL zuständigen Webserver übermittelt. Diese Funktion kann in den Einstellungen aus- und auch wieder eingeschaltet werden.
 
 <u>Serverprotokoll</u>
 
@@ -112,19 +112,17 @@ Wird ein Raum durch teilnehmende Personen betreten, die andere Matrix-Server als
 
 **Ende der Teilnahme**
 
-Es kann jederzeit durch die teilnehmende Person selber die Teilnahme beendet werden, indem die Deaktivierung des Zugangs durchgeführt wird. Dabei wird die Person aus allen Räumen entfernt, der Anzeigename, der Avatar (sofern hochgeladen), Berechtigungen sowie Einstellungen gelöscht und die Verknüpfung mit der Mitgliedernummer aufgehoben.
+Die Teilnahme am DARC-Chat kann jederzeit beendet werden, indem die Deaktivierung des Zugangs durchgeführt wird. Dabei wird die Person aus allen Räumen entfernt, der Anzeigename, der Avatar (sofern hochgeladen), Berechtigungen sowie Einstellungen gelöscht und die Verknüpfung mit der Mitgliedernummer aufgehoben.
 
-Während der Auslösung des Löschvorgangs kann ausgewählt werden, dass auch alle gesendete Nachrichten gelöscht werden sollen. In diesem Falle werden die versendeten Nachrichten vom Matrix-Server des DARC&nbsp;e.&nbsp;V. gelöscht.
+Während der Auslösung des Löschvorgangs kann ausgewählt werden, dass auch alle gesendeten Nachrichten gelöscht werden sollen. In diesem Falle werden die versendeten Nachrichten vom DARC-Matrix-Server gelöscht und &ndash; sofern Nachrichten an andere Matrix-Server übermittelt wurden &ndash; wird an diese eine Aufforderung gesendet, diese ebenfalls zu löschen. Prinzipbedingt kann der DARC&nbsp;e.&nbsp;V. nicht garantieren, dass andere Matrix-Server dieser Löschaufforderung auch tatsächlich nachkommen.
 
-Sofern Nachrichten an andere Matrix-Server übermittelt wurden, wird an diese eine Aufforderung gesendet, diese ebenfalls zu löschen. Prinzipbedingt kann der DARC&nbsp;e.&nbsp;V. nicht garantieren, dass andere Matrix-Server dieser Löschaufforderung auch tatsächlich nachkommen.
-
-Bei Ende der Mitgliedschaft im DARC&nbsp;e.&nbsp;V. wird die vorgenannte Deaktivierung automatisch innerhalb von TODO Tagen durchgeführt.
+Bei Ende der Mitgliedschaft im DARC&nbsp;e.&nbsp;V. wird die vorgenannte Deaktivierung und automatisch innerhalb von TODO Tagen durchgeführt.
 
 **Dauer der Speicherung**
 
 Serverprotokolle werden nach TODO Tagen gelöscht. Auf dem DARC-Matrix-Server gespeicherte Nachrichteninhalte werden spätestens nach einem Jahr gelöscht.
 
-Sofern Daten an andere Matrix-Server übermittelt wurden, gelten die Regelungen des jeweiligen Matrix-Servers und die Löschung kann möglicherweise später oder früher erfolgen. Darauf hat der DARC&nbsp;e.&nbsp;V. prinzipbedingt &ndash; vergleichbar mit E-Mails an andere Organisationen &ndash; keinen Einfluß.
+Sofern Daten an andere Matrix-Server übermittelt wurden, gelten die Regelungen des jeweiligen Matrix-Servers und die Löschung kann möglicherweise später oder früher erfolgen. Darauf hat der DARC&nbsp;e.&nbsp;V. prinzipbedingt &ndash; vergleichbar mit E-Mails an andere Organisationen &ndash; keinen Einfluss.
 
 **Rechte der betroffenen Personen**
 
