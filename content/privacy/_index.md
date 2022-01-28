@@ -56,7 +56,7 @@ Es wird gespeichert, welche Berechtigungen (z.&nbsp;B. Administrations- oder Mod
 
 <u>Sicherheitsschlüssel</u>
 
-Während der Registrierung wird ein persönlicher, kryptographischer Schlüssel erzeugt, der durch den Matrix-Client auf dem Endgerät der teilnehmenden Person abgelegt wird und zusätzlich durch die teilnehmende Person herunterzuladen und sicher zu verwahren ist. Der Schlüssel kann auch mit einem durch die teilnehmende Person festzulegendem Kennwort verschlüsselt auf dem DARC-Matrix-Server abgelegt werden. Falls der persönliche Schlüssel verloren geht, ist der Zugriff auf empfangene und gesendete Nachrichten nicht mehr möglich und kann auch durch den DARCnicht wiederhergestellt werden.
+Während der Registrierung wird ein persönlicher, kryptographischer Schlüssel erzeugt, der durch den Matrix-Client auf dem Endgerät der teilnehmenden Person abgelegt wird und zusätzlich durch die teilnehmende Person herunterzuladen und sicher zu verwahren ist. Der Schlüssel kann auch mit einem durch die teilnehmende Person festzulegendem Kennwort verschlüsselt auf dem DARC-Matrix-Server abgelegt werden. Falls der persönliche Schlüssel verloren geht, ist der Zugriff auf empfangene und gesendete Nachrichten nicht mehr möglich und kann auch durch den DARC nicht wiederhergestellt werden.
 
 <u>Angemeldete Endgeräte</u>
 
