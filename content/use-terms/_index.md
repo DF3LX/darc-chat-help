@@ -32,7 +32,7 @@ Es kann ein Avatar-Bild hochgeladen werden. Sofern der Avater eine Person abbild
 
 **§6 Unzulässige Inhalte**
 
-Inhalte, die sich diskriminierend gegen Personen oder Organisationen wenden, die strafrechtlich verfolgt werden können oder gegen Jugendschutz verstoßen, dürfen nicht versendet werden. Dies gilt auch für den Anzeigenamen und das Avatar-Bild.
+Inhalte, die sich diskriminierend gegen Personen oder Organisationen wenden oder die strafrechtlich verfolgt werden können, dürfen nicht über den DARC-Chat versendet werden. Der DARC-Chat wird auch von Jugendlichen verwendet. Daher sind Inhalte, die für Jugendliche ungeeignet sind, ebenfalls unzulässig. Die vorstehenden Regeln gelten auch für den Anzeigenamen und das Avatar-Bild.
 
 **§7 Verfügbarkeit des Dienste**
 
@@ -48,4 +48,5 @@ Die Nutzung des DARC-Chat ist nur für Mitglieder und Mitarbeitende des DARC&nbs
 
 **§10 Folgen bei Verstoß gegen die Nutzungsbedingungen**
 
-Bei Verstoß gegen die Nutzungsbedingungen kann die teilnehmende Person verwarnt werden und &ndash; sofern möglich &ndash; der Verstoß durch die Administratoren des DARC-Chat beseitigt werden (z. B. durch Löschung des Avatars). Bei wiederholtem Verstoß oder bei strafrechtlich relevantem Fehlverhalten kann die teilnehmenden Person von der Nutzung ausgeschlossen werden.
+Bei Verstoß gegen die Nutzungsbedingungen kann die teilnehmende Person verwarnt werden und &ndash; sofern möglich &ndash; der Verstoß durch die Administratoren des DARC-Chat beseitigt werden (z. B. durch Löschung des Avatars). Bei wiederholtem oder groben Verstoß oder bei strafrechtlich relevantem Fehlverhalten kann die teilnehmenden Person von der Nutzung vorübergehend oder dauerhaft ausgeschlossen werden.
+
