@@ -22,15 +22,17 @@ Diese Datenschutzerklärung erläutert die Datenverarbeitung personenbezogener D
 
 <u>Matrix-Client</u>: Matrix-Anwendungsprogramm, das die Nutzung des von einem Matrix-Server angebotenenen Dienstes, z.&nbsp;B. des DARC-Chats, ermöglicht<br>
 
-<u>Teilnehmende Person</u>: Person, die einen Matrix-Server nutzt<br>
+<u>Matrix-Nutzer*in</u>: Person, die einen Matrix-Server nutzt<br>
 
-<u>Matrix-Netzwerk</u>: Globale Zusammenschaltung von Matrix-Servern, um die Kommunikation zwischen teilnehmenden Personen unterschiedlicher Matrix-Server zu ermöglichen<br>
+<u>Matrix-Netzwerk</u>: Globale Zusammenschaltung von Matrix-Servern, um die Kommunikation zwischen Matrix-Nutzer:innen unterschiedlicher Matrix-Server zu ermöglichen<br>
 
-<u>Matrix-ID</u>: Eindeutige Kennung einer teilnehmenden Person zur Identifikation im Matrix-Netzwerk, z.&nbsp;B. "@abc123:darc.de"
+<u>Matrix-ID</u>: Eindeutige Kennung von  Matrix-Nutzer:innen zur Identifikation im Matrix-Netzwerk, z.&nbsp;B. "@abc123:darc.de"
+
+<u>Registrierung</u>: Erstmalige Anmeldung am DARC-Chat
 
 **Zweck der Datenverarbeitung**
 
-Der DARC-Chat ermöglicht den Mitgliedern und Mitarbeitenden des DARC&nbsp;e.&nbsp;V. und der DARC Verlag GmbH untereinander zu kommunizieren und am Matrix-Netzwerk teilzunehmen, wodurch &ndash; vergleichbar mit E-Mail oder öffentlichen Webforen &ndash; auch mit Personen kommuniziert werden kann, die andere Matrix-Server z.&nbsp;B. einer Universität, eines Unternehmens oder einer anderen Organisation nutzen. Ziel des DARC-Chat ist insbesondere die Sicherstellung und Vereinfachung gemeinschaftlicher Arbeit von Mitgliedern, Personengruppen, Teams und Gremien.
+Der DARC-Chat ermöglicht den Mitgliedern und Mitarbeitenden des DARC&nbsp;e.&nbsp;V. und der DARC Verlag GmbH untereinander zu kommunizieren und am Matrix-Netzwerk teilzunehmen, wodurch &ndash; vergleichbar mit E-Mail oder öffentlichen Webforen &ndash; auch mit Matrix-Nutzer:innen kommuniziert werden kann, die andere Matrix-Server z.&nbsp;B. die einer Universität, eines Unternehmens oder einer anderen Organisation nutzen. Ziel des DARC-Chat ist insbesondere die Sicherstellung und Vereinfachung gemeinschaftlicher Arbeit von Mitgliedern, Personengruppen, Teams und Gremien.
 
 **Rechtsgrundlage der Datenverarbeitung**
 
@@ -40,63 +42,67 @@ Die Nutzung des DARC-Chats ist freiwillig. Mit der Nutzung erfolgt die Einwillig
 
 <u>Registrierung und Matrix-ID</u>
 
-Durch den erstmaligen Anmeldevorgang am DARC-Chat mittels des DARC-Logins (Single-Sign-On) wird die Mitgliedernummer aus der DARC-Mitgliederdatenbank auf den DARC-Matrix-Server übernommen und mit einer Matrix-ID verknüpft. Diese Matrix-ID wird aus einer zufälligen Zeichenfolge und dem Suffix ":darc.de" gebildet. Die Matrix-ID ist für andere teilnehmende Personen sichtbar. Die Mitgliedernummer wird für die Verknüpfung mit dem DARC-Login verarbeitet und gespeichert.
+Durch die Registrierung mittels des DARC-Logins (Single-Sign-On) wird die Mitgliedernummer aus der DARC-Mitgliederdatenbank auf den DARC-Matrix-Server übernommen und mit einer Matrix-ID verknüpft. Diese Matrix-ID wird aus einer zufälligen Zeichenfolge und dem Suffix ":darc.de" gebildet. Die Matrix-ID ist für andere  Matrix-Nutzer:innen sichtbar. Die Mitgliedernummer wird für die Verknüpfung mit dem DARC-Login verarbeitet und gespeichert.
 
 <u>Anzeigename</u>
 
-Aus dem in der DARC-Mitgliederdatenbank hinterlegten Rufzeichen und Vorname(n) wird während der Registrierung ein Anzeigename gebildet und mit der Matrix-ID verknüpft. Wenn kein Rufzeichen hinterlegt ist, wird nur der bzw. die Vorname(n) verwendet. Der Anzeigename kann jederzeit geändert werden. Der Anzeigename ist für andere teilnehmende Personen sichtbar.
+Aus dem in der DARC-Mitgliederdatenbank hinterlegten Rufzeichen und Vorname(n) wird während der Registrierung ein Anzeigename gebildet und mit der Matrix-ID verknüpft. Wenn kein Rufzeichen hinterlegt ist, wird nur der bzw. die Vorname(n) verwendet. Der Anzeigename kann jederzeit geändert werden. Der Anzeigename ist für andere  Matrix-Nutzer:innen sichtbar.
 
-<u>Avatar (Bild des Teilnehmenden)</u>
+<u>Avatar</u>
 
-Es kann ein Avatar hochgeladen werden. Der Avatar kann jederzeit wieder geändert oder gelöscht werden. Sofern ein Avatar hochgeladen ist, wird dieser anderen teilnehmenden Personen angezeigt.
+Es kann ein Avatar hochgeladen werden. Der Avatar kann jederzeit wieder geändert oder gelöscht werden. Sofern ein Avatar hochgeladen ist, wird dieser anderen Matrix-Nutzer:innen angezeigt.
 
 <u>Berechtigungen</u>
 
-Es wird gespeichert, welche Berechtigungen (z.&nbsp;B. Administrations- oder Moderationsberechtigung) für den DARC-Chat erteilt wurden. Diese Berechtigungen sind für andere teilnehmende Personen sichtbar.
+Es wird gespeichert, welche Berechtigungen (z.&nbsp;B. Administrations- oder Moderationsberechtigung) für den DARC-Chat erteilt wurden. Diese Berechtigungen sind für andere Matrix-Nutzer:innen sichtbar.
 
 <u>Sicherheitsschlüssel</u>
 
-Während der Registrierung wird ein persönlicher, kryptographischer Schlüssel erzeugt, der durch den Matrix-Client auf dem Endgerät der teilnehmenden Person abgelegt wird und zusätzlich durch die teilnehmende Person herunterzuladen und sicher zu verwahren ist. Der Schlüssel kann auch mit einem durch die teilnehmende Person festzulegendem Kennwort verschlüsselt auf dem DARC-Matrix-Server abgelegt werden. Falls der persönliche Schlüssel verloren geht, ist der Zugriff auf empfangene und gesendete Nachrichten nicht mehr möglich und kann auch durch den DARC nicht wiederhergestellt werden.
+Während der Registrierung wird ein persönlicher, kryptographischer Schlüssel erzeugt, der durch den Matrix-Client auf dem Endgerät abgelegt wird und ist zusätzlich herunterzuladen und sicher zu verwahren ist. Der Schlüssel kann auch mit einem festzulegendem Kennwort verschlüsselt auf dem DARC-Matrix-Server abgelegt werden. Falls der persönliche Schlüssel verloren geht, ist der Zugriff auf empfangene und gesendete Nachrichten nicht mehr möglich und kann auch durch den DARC nicht wiederhergestellt werden.
 
 <u>Angemeldete Endgeräte</u>
 
-Zu jedem Matrix-Client, werden Informationen zu den verwendeten Matrix-Client-Programmen und dem Betriebssystem verarbeitet, gespeichert und anderen teilnehmenden Personen angezeigt.
+Zu jedem Matrix-Client, werden Informationen zu den verwendeten Matrix-Client-Programmen und dem Betriebssystem verarbeitet, gespeichert und anderen Matrix-Nutzer:innen angezeigt.
 
 <u>Einstellungen</u>
 
 Es können verschiedene Einstellungen, insbesondere zum Design und Verhalten der Oberfläche und den erwünschten Benachrichtigungen vorgenommen werden. Diese werden zur individuellen Anpassung der Oberfläche und des Verhaltens des Matrix-Clients verarbeitet und gespeichert.
 
-<u>Verifikation von teilnehmenden Personen</u>
+<u>Verifikation von Matrix-Nutzer:innen</u>
 
-Teilnehmende Personen können sich paarweise untereinander unter Nutzung eines vertrauenswürdigen Kanals (z. B. persönliches Treffen) verifizieren. Der Verifikationsstatus wird verarbeitet, gespeichert und beiden Beteiligten angezeigt.
+Matrix-Nutzer:innen können sich paarweise untereinander unter Nutzung eines vertrauenswürdigen Kanals (z. B. persönliches Treffen) verifizieren. Der Verifikationsstatus wird verarbeitet, gespeichert und beiden Beteiligten angezeigt.
 
 <u>Spacemitgliedschaft</u>
 
-Teilnehmende Personen können sich in sogenannten Spaces zusammenfinden. Dazu wird die Spacemitgliedschaft verarbeitet und gespeichert. Personen, die Mitglied in einem Space sind, wird angezeigt welche anderen Personen ebenfalls Mitglied im selben Space sind. Grundsätzlich kann jede teilnehmende Person jeden Space betreten. Davon ausgenommen sind Spaces, die als Privat markiert und nur auf Einladung zugänglich sind.
+Matrix-Nutzer:innen können sich in sogenannten Spaces zusammenfinden. Dazu wird die Spacemitgliedschaft verarbeitet und gespeichert. Matrix-Nutzer:innen, die Mitglied in einem Space sind, wird angezeigt welche anderen Matrix-Nutzer:innen ebenfalls Mitglied im selben Space sind. Grundsätzlich können alle Matrix-Nutzer:innen jeden Space betreten. Davon ausgenommen sind Spaces, die als Privat markiert und nur auf Einladung zugänglich sind.
+
+Im Rahmen der Registrierung werden automatisch die Spaces DARC&nbsp;e.&nbsp;.V, HAMgroups, DARC Distrikte, HAMgroups, Amateurfunkjugend und Amateur Radio Links (EN) betreten. Diese können jederzeit wieder verlassen werden.
 
 <u>Raummitgliedschaft</u>
 
-Teilnehmende Personen können sich in Räumen zusammenfinden um dort miteinander kommunizieren. Dazu wird die Raummitgliedschaft verarbeitet und gespeichert. Personen, die in einem Raum sind, wird angezeigt welche anderen Personen ebenfalls Mitglied im selben Raum sind. Räume können zu Spaces zugehörig sein. Grundsätzlich kann jede teilnehmende Person jeden Raum betreten. Davon ausgenommen sind nur Räume, die als Privat oder als nur für Spacemitglieder zugänglich markiert sind. Diese können nur auf Einladung bzw. von Spacemitgliedern betreten werden.
+Matrix-Nutzer:innen können sich in Räumen zusammenfinden um dort miteinander kommunizieren. Dazu wird die Raummitgliedschaft verarbeitet und gespeichert. Matrix-Nutzer:innen, die in einem Raum sind, wird angezeigt welche anderen Matrix-Nutzer:innen ebenfalls Mitglied im selben Raum sind. Räume können zu Spaces zugehörig sein. Grundsätzlich können alle Matrix-Nutzer:innen jeden Raum betreten. Davon ausgenommen sind nur Räume, die als Privat oder als nur für Spacemitglieder zugänglich markiert sind. Diese können nur auf Einladung bzw. von Spacemitgliedern betreten werden.
+
+Im Rahmen der Registrierung werden automatisch die Räume Allgemein und Hilfe betreten. Diese können jederzeit wieder verlassen werden.
 
 <u>Nachrichten</u>
 
-Wird eine Nachricht in einen Raum gesendet, werden die übermittelte Nachricht (Texte oder Dateien), der Zeitpunkt des Versands, Absender und Empfänger sowie &ndash; bei einer Antwort auf eine andere Nachricht &ndash; ein Bezug auf die Ursprungsnachricht verarbeitet, gespeichert und anderen Personen im Raum angezeigt bzw. zum Download angeboten. Die Inhalte der Kommunikation, nicht aber die Meta-Informationen (wie z.&nbsp;B. Zeitpunkt, Absender, Empfänger und Bezug auf die Ursprungsnachricht), können durch Ende-zu-Ende-Verschlüsselung vor der Einsichtnahme durch Dritte geschützt werden. Ob eine Nachricht vor dem Versand verschlüsselt werden wird, ist an einem Hinweis im oder am Eingabefeld für neue Nachrichten zu erkennen.
+Wird eine Nachricht in einen Raum gesendet, werden die übermittelte Nachricht (Texte oder Dateien), der Zeitpunkt des Versands, Absender und Empfänger sowie &ndash; bei einer Antwort auf eine andere Nachricht &ndash; ein Bezug auf die Ursprungsnachricht verarbeitet, gespeichert und anderen Matrix-Nutzer:innen im Raum angezeigt bzw. zum Download angeboten. Die Inhalte der Kommunikation, nicht aber die Meta-Informationen (wie z.&nbsp;B. Zeitpunkt, Absender, Empfänger und Bezug auf die Ursprungsnachricht), können durch Ende-zu-Ende-Verschlüsselung vor der Einsichtnahme durch Dritte geschützt werden. Ob eine Nachricht vor dem Versand verschlüsselt werden wird, ist an einem Hinweis im oder am Eingabefeld für neue Nachrichten zu erkennen.
 
 <u>Direktnachrichten</u>
 
-Direktnachrichten zwischen zwei Personen werden über einen privaten Raum abgewickelt, der nur diese beiden Personen enthält.
+Direktnachrichten zwischen zwei Matrix-Nutzer:innen werden über einen privaten Raum abgewickelt, der nur diese beiden Matrix-Nutzer:innen enthält.
 
 <u>Audio- und Videotelefonie</u>
 
-In den Räumen können Audio- und Videotelefonate durchgeführt werden. Die Audio- und Videodaten werden dabei bevorzugt direkt zwischen den Clients der beteiligten Personen ausgetauscht. Die Matrix-Server übernehmen dabei nur eine Vermittlungsfunktion. Wenn die Netzwerkumgebung teilnehmender Personen die direkte Verbindung zwischen den Clients nicht ermöglicht, werden die Audio- und Videodaten über einen Relayserver weitergeleitet. Eine Speicherung erfolgt auf dem Relayserver nur kurzfristig zum Zwecke der Weiterleitung.
+In den Räumen können Audio- und Videotelefonate durchgeführt werden. Die Audio- und Videodaten werden dabei bevorzugt direkt zwischen den Clients der beteiligten Matrix-Nutzer:innen ausgetauscht. Die Matrix-Server übernehmen dabei nur eine Vermittlungsfunktion. Wenn die Netzwerkumgebung der Matrix-Nutzer:innen die direkte Verbindung zwischen den Clients nicht ermöglicht, werden die Audio- und Videodaten über einen Relayserver weitergeleitet. Eine Speicherung erfolgt auf dem Relayserver nur kurzfristig zum Zwecke der Weiterleitung.
 
 <u>Anzeige der Anwesenheit und Lesebestätigungen</u>
 
-Personen wird angezeigt welche anderen Personen zur Zeit im selben Raum online sind und welche Nachrichten diese bereits gelesen haben.
+Matrix-Nutzer:innen wird angezeigt welche anderen Matrix-Nutzer:innen zur Zeit im selben Raum online sind und welche Nachrichten diese bereits gelesen haben.
 
 <u>Tipp-Benachrichtigungen</u>
 
-Während Sie eine Nachricht für einen Raum eingeben, wird dieser Umstand anderen Personen im selben Raum angezeigt. Diese Funktion kann in den Einstellungen aus- und auch wieder eingeschaltet werden.
+Während Sie eine Nachricht für einen Raum eingeben, wird dieser Umstand anderen Matrix-Nutzer:innen im selben Raum angezeigt. Diese Funktion kann in den Einstellungen aus- und auch wieder eingeschaltet werden.
 
 <u>URL-Vorschau</u>
 
@@ -108,11 +114,11 @@ Zur Überwachung, Verbesserung und Sicherung des reibungslosen Server- und Syste
 
 **Übermittlung an dritte Stellen**
 
-Wird ein Raum durch teilnehmende Personen betreten, die andere Matrix-Server als den DARC-Matrix-Server benutzen, werden die vorgenannten Daten auch an diese Matrix-Server übermittelt. Ob eine Person einen anderen Matrix-Server nutzt, ist daran zu erkennen, dass die Matrix-ID dieser Person nicht auf :darc.de endet.
+Wird ein Space oder ein Raum durch Matrix-Nutzer:innen betreten, die andere Matrix-Server als den DARC-Matrix-Server benutzen, werden die vorgenannten Daten auch an diese Matrix-Server übermittelt. Ob Matrix-Nutzer:innen einen anderen Matrix-Server nutzen, ist daran zu erkennen, dass die Matrix-ID dieser Matrix-Nutzer:innen nicht auf :darc.de endet.
 
 **Ende der Teilnahme**
 
-Die Teilnahme am DARC-Chat kann jederzeit beendet werden, indem die Deaktivierung des Zugangs durchgeführt wird. Dabei wird die Person aus allen Räumen entfernt, der Anzeigename, der Avatar (sofern hochgeladen), Berechtigungen sowie Einstellungen gelöscht und die Verknüpfung mit der Mitgliedernummer aufgehoben.
+Die Teilnahme am DARC-Chat kann jederzeit beendet werden, indem die Deaktivierung des Zugangs durchgeführt wird. Dabei wird die Matrix-ID aus allen Räumen entfernt, der Anzeigename, der Avatar (sofern hochgeladen), Berechtigungen sowie Einstellungen gelöscht und die Verknüpfung mit der Mitgliedernummer aufgehoben.
 
 Während der Auslösung des Löschvorgangs kann ausgewählt werden, dass auch alle gesendeten Nachrichten gelöscht werden sollen. In diesem Falle werden die versendeten Nachrichten vom DARC-Matrix-Server gelöscht und &ndash; sofern Nachrichten an andere Matrix-Server übermittelt wurden &ndash; wird an diese eine Aufforderung gesendet, diese ebenfalls zu löschen. Prinzipbedingt kann der DARC&nbsp;e.&nbsp;V. nicht garantieren, dass andere Matrix-Server dieser Löschaufforderung auch tatsächlich nachkommen.
 

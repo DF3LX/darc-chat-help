@@ -28,7 +28,7 @@ Während der Registrierung wird ein persönlicher, kryptographischer Schlüssel 
 
 **§5 Anzeigename**
 
-Der Anzeigename kann durch die teilnehmende Person selber geändert werden. Es ist untersagt Identitäten dritter Personen vorzutäuschen. Insbesondere dürfen Rufzeichen oder DE-Kennnungen im Anzeigenamen nur dann verwendet werden, wenn diese der teilnehmenden Person persönlich zugewiesen sind. Die Verwendung von Spitznamen und Pseudonymen ist zulässig. 
+Der Anzeigename kann durch die teilnehmende Person selber geändert werden. Es ist untersagt Identitäten dritter Personen vorzutäuschen. Insbesondere dürfen Rufzeichen oder DE-Kennungen im Anzeigenamen nur dann verwendet werden, wenn diese der teilnehmenden Person persönlich zugewiesen sind. Die Verwendung von Spitznamen und Pseudonymen ist zulässig. 
 
 **§6 Avatar-Bilder**
 
