@@ -22,7 +22,7 @@ Diese Datenschutzerklärung erläutert die Datenverarbeitung personenbezogener D
 
 <u>Matrix-Client</u>: Matrix-Anwendungsprogramm, das die Nutzung des von einem Matrix-Server angebotenenen Dienstes, z.&nbsp;B. des DARC-Chats, ermöglicht<br>
 
-<u>Matrix-Nutzer*in</u>: Person, die einen Matrix-Server nutzt<br>
+<u>Matrix-Nutzer:in</u>: Person, die einen Matrix-Server nutzt<br>
 
 <u>Matrix-Netzwerk</u>: Globale Zusammenschaltung von Matrix-Servern, um die Kommunikation zwischen Matrix-Nutzer:innen unterschiedlicher Matrix-Server zu ermöglichen<br>
 
