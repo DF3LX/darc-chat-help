@@ -122,7 +122,7 @@ Wird ein Space oder ein Raum durch Matrix-Nutzer:innen betreten, die andere Matr
 
 Die Teilnahme am DARC-Chat kann jederzeit beendet werden, indem die Deaktivierung des Zugangs durchgeführt wird. Dabei wird die Matrix-ID aus allen Räumen entfernt, der Anzeigename, der Avatar (sofern hochgeladen), Berechtigungen sowie Einstellungen gelöscht und die Verknüpfung mit der Mitgliedernummer aufgehoben.
 
-Während der Auslösung des Löschvorgangs kann ausgewählt werden, dass auch alle gesendeten Nachrichten gelöscht werden sollen. In diesem Falle werden die versendeten Nachrichten vom DARC-Matrix-Server gelöscht und &ndash; sofern Nachrichten an andere Matrix-Server übermittelt wurden &ndash; wird an diese eine Aufforderung gesendet, diese ebenfalls zu löschen. Prinzipbedingt kann der DARC&nbsp;e.&nbsp;V. nicht garantieren, dass andere Matrix-Server dieser Löschaufforderung auch tatsächlich nachkommen.
+Während der Auslösung des Löschvorgangs kann ausgewählt werden, dass auch alle gesendeten Nachrichten gelöscht werden sollen. In diesem Falle werden die versendeten Nachrichten vom DARC-Matrix-Server gelöscht und Matrix-Nutzer:innen, die zukünftig Räume betreten, nicht mehr angezeigt. Für Matrix-Nutzer:innen, die diese Nachrichten bereits empfangen haben, bleiben diese allerdings bestehen.
 
 Bei Ende der Mitgliedschaft im DARC&nbsp;e.&nbsp;V. wird die vorgenannte Deaktivierung und automatisch innerhalb von TODO Tagen durchgeführt.
 
