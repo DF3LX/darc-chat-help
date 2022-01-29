@@ -42,7 +42,7 @@ Die Nutzung des DARC-Chats ist freiwillig. Mit der Nutzung erfolgt die Einwillig
 
 <u>Registrierung und Matrix-ID</u>
 
-Durch die Registrierung mittels des DARC-Logins (Single-Sign-On) wird die Mitgliedernummer aus der DARC-Mitgliederdatenbank auf den DARC-Matrix-Server übernommen und mit einer Matrix-ID verknüpft. Diese Matrix-ID wird aus einer zufälligen Zeichenfolge und dem Suffix ":darc.de" gebildet. Die Matrix-ID ist für andere  Matrix-Nutzer:innen sichtbar. Die Mitgliedernummer wird für die Verknüpfung mit dem DARC-Login verarbeitet und gespeichert.
+Durch die Registrierung mittels des DARC-Logins (Single-Sign-On) wird die Mitgliedernummer aus der DARC-Mitgliederdatenbank auf den DARC-Matrix-Server übernommen und mit einer Matrix-ID verknüpft. Diese Matrix-ID wird aus einer zufälligen Zeichenfolge und dem Suffix ":darc.de" gebildet. Die Matrix-ID ist für andere Matrix-Nutzer:innen sichtbar. Die Mitgliedernummer wird für die Verknüpfung mit dem DARC-Login verarbeitet und gespeichert.
 
 <u>Anzeigename</u>
 
@@ -113,6 +113,8 @@ Werden in einem Raum Internetlinks (URLs) empfangen, wird automatisch eine Vorsc
 Zur Überwachung, Verbesserung und Sicherung des reibungslosen Server- und Systembetriebs werden alle Zugriffe protokolliert. Dabei werden die IP-Adresse und der Zeitstempel der Anfrage erhoben und gespeichert.
 
 **Übermittlung an dritte Stellen**
+
+Bei Verwendung eines anderen als den auf https://darc.chat.de/ angebotenen Matrix-Clients werden Daten an dessen Anbieter übermittelt. Bevor dies geschieht, weisen wir dich darauf hin.
 
 Wird ein Space oder ein Raum durch Matrix-Nutzer:innen betreten, die andere Matrix-Server als den DARC-Matrix-Server benutzen, werden die vorgenannten Daten auch an diese Matrix-Server übermittelt. Ob Matrix-Nutzer:innen einen anderen Matrix-Server nutzen, ist daran zu erkennen, dass die Matrix-ID dieser Matrix-Nutzer:innen nicht auf :darc.de endet.
 

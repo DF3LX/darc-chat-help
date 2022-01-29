@@ -32,7 +32,7 @@ Der Anzeigename kann durch die teilnehmende Person selber geändert werden. Es i
 
 **§6 Avatar-Bilder**
 
-Es kann ein Avatar-Bild hochgeladen werden. Sofern der Avater eine Person abbildet, muss es sich dabei um die teilnehemde Person selber handeln. 
+Es kann ein Avatar-Bild hochgeladen werden. Sofern der Avater eine Person abbildet, muss es sich dabei um die teilnehmende Person selber handeln. 
 
 **§7 Unzulässige Inhalte**
 
