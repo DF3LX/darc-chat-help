@@ -54,7 +54,7 @@ Es kann ein Avatar hochgeladen werden. Der Avatar kann jederzeit wieder geänder
 
 Berechtigungen
 
-Es wird gespeichert, welche Berechtigungen (z. B. Administrations- oder Moderationsberechtigung) für den DARC-Chat erteilt wurden. Diese Berechtigungen sind für andere Matrix-Nutzer:innen sichtbar.
+Es wird gespeichert, welche Berechtigungen (z. B. Administrations- oder Moderationsberechtigung) für den DARC-Chat erteilt wurden. Diese Berechtigungen sind für andere Matrix-Nutzer:innen im jeweiligen Raum sichtbar.
 
 Sicherheitsschlüssel
 
@@ -94,7 +94,7 @@ Direktnachrichten zwischen zwei Matrix-Nutzer:innen werden über einen privaten 
 
 Audio- und Videotelefonie
 
-In den Räumen können Audio- und Videotelefonate durchgeführt werden. Die Audio- und Videodaten werden dabei bevorzugt direkt zwischen den Clients der beteiligten Matrix-Nutzer:innen ausgetauscht. Die Matrix-Server übernehmen dabei nur eine Vermittlungsfunktion. Wenn die Netzwerkumgebung der Matrix-Nutzer:innen die direkte Verbindung zwischen den Clients nicht ermöglicht, werden die Audio- und Videodaten über einen Relayserver weitergeleitet. Eine Speicherung erfolgt auf dem Relayserver nur kurzfristig zum Zwecke der Weiterleitung.
+In den Räumen können Audio- und Videotelefonate durchgeführt werden. Die Audio- und Videodaten werden dabei bevorzugt direkt zwischen den Clients der beteiligten Matrix-Nutzer:innen ausgetauscht. Die Matrix-Server übernehmen dabei nur eine Vermittlungsfunktion. Wenn die Netzwerkumgebung der Matrix-Nutzer:innen die direkte Verbindung zwischen den Clients nicht ermöglicht, werden die Audio- und Videodaten über einen Relayserver weitergeleitet, dieser wird auch vom DARC e. V. betrieben. Eine Speicherung erfolgt auf dem Relayserver nur kurzfristig zum Zwecke der Weiterleitung.
 
 Anzeige der Anwesenheit und Lesebestätigungen
 
@@ -114,7 +114,7 @@ Zur Überwachung, Verbesserung und Sicherung des reibungslosen Server- und Syste
 
 **Übermittlung an dritte Stellen**
 
-Bei Verwendung eines anderen als den auf [https://darc.chat.de/](https://darc.chat.de/) angebotenen Matrix-Clients werden die deine Daten an dessen Anbieter übermittelt. Bevor dies geschieht, weisen wir dich darauf hin.
+Bei Verwendung eines anderen als den auf [https://darc.chat.de/](https://darc.chat.de/) angebotenen Matrix-Clients werden die deine Daten an dessen Anbieter übermittelt. Bevor dies geschieht, weisen wir dich hiermit darauf hin.
 
 Wird ein Space oder ein Raum durch Matrix-Nutzer:innen betreten, die andere Matrix-Server als den DARC-Matrix-Server benutzen, werden die vorgenannten Daten auch an diese Matrix-Server übermittelt. Ob Matrix-Nutzer:innen einen anderen Matrix-Server nutzen, ist daran zu erkennen, dass die Matrix-ID dieser Matrix-Nutzer:innen nicht auf :darc.de endet.
 
