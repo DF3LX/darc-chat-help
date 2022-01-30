@@ -32,7 +32,7 @@ Diese Datenschutzerklärung erläutert die Datenverarbeitung personenbezogener D
 
 **Zweck der Datenverarbeitung**
 
-Der DARC-Chat ermöglicht den Mitgliedern und Mitarbeitenden des DARC&nbsp;e.&nbsp;V. und der DARC Verlag GmbH untereinander zu kommunizieren und am Matrix-Netzwerk teilzunehmen, wodurch &ndash; vergleichbar mit E-Mail oder öffentlichen Webforen &ndash; auch mit Matrix-Nutzer:innen kommuniziert werden kann, die andere Matrix-Server z.&nbsp;B. die einer Universität, eines Unternehmens oder einer anderen Organisation nutzen. Ziel des DARC-Chat ist insbesondere die Sicherstellung und Vereinfachung gemeinschaftlicher Arbeit von Mitgliedern, Personengruppen, Teams und Gremien.
+Der DARC-Chat ermöglicht den Mitgliedern und Mitarbeitenden des DARC&nbsp;e.&nbsp;V. und seiner Tochtergesellschaften untereinander zu kommunizieren und am Matrix-Netzwerk teilzunehmen, wodurch &ndash; vergleichbar mit E-Mail oder öffentlichen Webforen &ndash; auch mit Matrix-Nutzer:innen kommuniziert werden kann, die andere Matrix-Server z.&nbsp;B. die einer Universität, eines Unternehmens oder einer anderen Organisation nutzen. Ziel des DARC-Chat ist insbesondere die Sicherstellung und Vereinfachung gemeinschaftlicher Arbeit von Mitgliedern, Personengruppen, Teams und Gremien.
 
 **Rechtsgrundlage der Datenverarbeitung**
 
@@ -42,15 +42,15 @@ Die Nutzung des DARC-Chats ist freiwillig. Mit der Nutzung erfolgt die Einwillig
 
 <u>Registrierung und Matrix-ID</u>
 
-Durch die Registrierung mittels des DARC-Logins (Single-Sign-On) wird die Mitgliedernummer aus der DARC-Mitgliederdatenbank auf den DARC-Matrix-Server übernommen und mit einer Matrix-ID verknüpft. Diese Matrix-ID wird aus einer zufälligen Zeichenfolge und dem Suffix ":darc.de" gebildet. Die Matrix-ID ist für andere Matrix-Nutzer:innen sichtbar. Die Mitgliedernummer wird für die Verknüpfung mit dem DARC-Login verarbeitet und gespeichert.
+Durch die Registrierung mittels des DARC-Logins (Single-Sign-On) wird die Mitgliedernummer aus der DARC-Mitgliederdatenbank auf den DARC-Matrix-Server übernommen und mit einer Matrix-ID verknüpft gespeichert. Diese Matrix-ID wird aus dem At-Zeichen (@) als Prefix, einer zufälligen Zeichenfolge und dem Suffix ":darc.de" gebildet. Die Matrix-ID ist für andere Matrix-Nutzer:innen sichtbar.
 
 <u>Anzeigename</u>
 
-Aus dem in der DARC-Mitgliederdatenbank hinterlegten Rufzeichen und Vorname(n) wird während der Registrierung ein Anzeigename gebildet und mit der Matrix-ID verknüpft. Wenn kein Rufzeichen hinterlegt ist, wird nur der bzw. die Vorname(n) verwendet. Der Anzeigename kann jederzeit geändert werden. Der Anzeigename ist für andere  Matrix-Nutzer:innen sichtbar.
+Aus dem in der DARC-Mitgliederdatenbank hinterlegten Rufzeichen und Vornamen wird während der Registrierung ein Anzeigename gebildet und mit der Matrix-ID verknüpft. Wenn kein Rufzeichen hinterlegt ist, wird nur der Vorname verwendet. Der Anzeigename kann jederzeit geändert werden. Der Anzeigename ist für andere Matrix-Nutzer:innen sichtbar.
 
 <u>Avatar</u>
 
-Es kann ein Avatar hochgeladen werden. Der Avatar kann jederzeit wieder geändert oder gelöscht werden. Sofern ein Avatar hochgeladen ist, wird dieser anderen Matrix-Nutzer:innen angezeigt.
+Es kann ein Avatar hochgeladen werden. Der Avatar kann jederzeit wieder geändert oder gelöscht werden. Sofern ein Avatar hochgeladen wurde, wird dieser anderen Matrix-Nutzer:innen angezeigt.
 
 <u>Berechtigungen</u>
 
@@ -102,7 +102,7 @@ Matrix-Nutzer:innen wird angezeigt welche anderen Matrix-Nutzer:innen zur Zeit i
 
 <u>Tipp-Benachrichtigungen</u>
 
-Während Sie eine Nachricht für einen Raum eingeben, wird dieser Umstand anderen Matrix-Nutzer:innen im selben Raum angezeigt. Diese Funktion kann in den Einstellungen aus- und auch wieder eingeschaltet werden.
+Während eine Nachricht für einen Raum eingeben wird, wird dieser Umstand anderen Matrix-Nutzer:innen im selben Raum angezeigt. Diese Funktion kann in den Einstellungen aus- und auch wieder eingeschaltet werden.
 
 <u>URL-Vorschau</u>
 
@@ -114,7 +114,7 @@ Zur Überwachung, Verbesserung und Sicherung des reibungslosen Server- und Syste
 
 **Übermittlung an dritte Stellen**
 
-Bei Verwendung eines anderen als den auf https://darc.chat.de/ angebotenen Matrix-Clients werden Daten an dessen Anbieter übermittelt. Bevor dies geschieht, weisen wir dich darauf hin.
+Bei Verwendung eines anderen als den auf https://darc.chat.de/ angebotenen Matrix-Clients werden die deine Daten an dessen Anbieter übermittelt. Bevor dies geschieht, weisen wir dich darauf hin.
 
 Wird ein Space oder ein Raum durch Matrix-Nutzer:innen betreten, die andere Matrix-Server als den DARC-Matrix-Server benutzen, werden die vorgenannten Daten auch an diese Matrix-Server übermittelt. Ob Matrix-Nutzer:innen einen anderen Matrix-Server nutzen, ist daran zu erkennen, dass die Matrix-ID dieser Matrix-Nutzer:innen nicht auf :darc.de endet.
 
@@ -124,11 +124,11 @@ Die Teilnahme am DARC-Chat kann jederzeit beendet werden, indem die Deaktivierun
 
 Während der Auslösung des Löschvorgangs kann ausgewählt werden, dass auch alle gesendeten Nachrichten gelöscht werden sollen. In diesem Falle werden die versendeten Nachrichten vom DARC-Matrix-Server gelöscht und Matrix-Nutzer:innen, die zukünftig Räume betreten, nicht mehr angezeigt. Für Matrix-Nutzer:innen, die diese Nachrichten bereits empfangen haben, bleiben diese allerdings bestehen.
 
-Bei Ende der Mitgliedschaft im DARC&nbsp;e.&nbsp;V. wird die vorgenannte Deaktivierung und automatisch innerhalb von TODO Tagen durchgeführt.
+Die vorgenannte Deaktivierung wird auch durchgeführt, wenn der DARC-Chat länger als ein halbes Jahr nicht genutzt wird.
 
 **Dauer der Speicherung**
 
-Serverprotokolle werden nach TODO Tagen gelöscht. Auf dem DARC-Matrix-Server gespeicherte Nachrichteninhalte werden spätestens nach einem Jahr gelöscht.
+Serverprotokolle werden nach 7 Tagen gelöscht. Auf dem DARC-Matrix-Server gespeicherte Nachrichteninhalte werden spätestens ein Jahr nach dem Versand der Nachricht gelöscht.
 
 Sofern Daten an andere Matrix-Server übermittelt wurden, gelten die Regelungen des jeweiligen Matrix-Servers und die Löschung kann möglicherweise später oder früher erfolgen. Darauf hat der DARC&nbsp;e.&nbsp;V. prinzipbedingt &ndash; vergleichbar mit E-Mails an andere Organisationen &ndash; keinen Einfluss.
 
