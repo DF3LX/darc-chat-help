@@ -20,7 +20,7 @@ Der DARC-Chat ist in das globale Matrix-Netzwerk eingebunden. Daher können &nda
 
 **§3 Sicherheitsschlüssel**
 
-Während der Registrierung wird ein persönlicher, kryptographischer Schlüssel erzeugt, der im Matrix-Client hinterlegt wird. Dieser Schlüssel wird zusätzlich während der Registrierung zum Herunterladen angeboten. Der Schlüssel ist durch die teilnehmende Person herunterzuladen und sicher zu verwahren. <u>Es wird dringend empfohlen, den Schlüssel zu diesem Zweck auszudrucken und an einem sicheren Ort zu hinterlegen</u>. Falls der persönliche Schlüssel verloren gehen sollte, ist der Zugriff auf empfangene und gesendete Nachrichten nicht mehr möglich und kann auch durch den DARC nicht wiederhergestellt werden.
+Während der Registrierung wird ein persönlicher, kryptographischer Schlüssel erzeugt, der im Matrix-Client hinterlegt wird. Dieser Schlüssel wird zusätzlich während der Registrierung zum Herunterladen angeboten. Der Schlüssel ist durch die teilnehmende Person herunterzuladen und sicher zu verwahren. <u>Es wird dringend empfohlen, den Schlüssel auszudrucken und an einem sicheren Ort zu hinterlegen</u>. Falls der persönliche Schlüssel verloren gehen sollte, ist der Zugriff auf empfangene und gesendete Nachrichten nicht mehr möglich und kann auch durch den DARC nicht wiederhergestellt werden.
 
 **§4 Clients (Anwendungsprogramme)**
 
