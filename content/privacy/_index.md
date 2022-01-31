@@ -94,7 +94,7 @@ Direktnachrichten zwischen zwei Matrix-Nutzer:innen werden über einen privaten 
 
 <u>Audio- und Videotelefonie</u>
 
-In den Räumen können Audio- und Videotelefonate durchgeführt werden. Die Audio- und Videodaten werden dabei bevorzugt direkt zwischen den Clients der beteiligten Matrix-Nutzer:innen ausgetauscht. Die Matrix-Server übernehmen dabei nur eine Vermittlungsfunktion. Wenn die Netzwerkumgebung der Matrix-Nutzer:innen die direkte Verbindung zwischen den Clients nicht ermöglicht, werden die Audio- und Videodaten über einen Relayserver weitergeleitet, dieser wird auch vom DARC&nbsp;e.&nbsp;V. betrieben. Eine Speicherung erfolgt auf dem Relayserver nur kurzfristig zum Zwecke der Weiterleitung.
+In den Räumen können Audio- und Videotelefonate durchgeführt werden. Die Audio- und Videodaten werden dabei bevorzugt direkt zwischen den Clients der beteiligten Matrix-Nutzer:innen ausgetauscht. Die Matrix-Server übernehmen dabei nur eine Vermittlungsfunktion. Wenn die Netzwerkumgebung der Matrix-Nutzer:innen die direkte Verbindung zwischen den Clients nicht ermöglicht, werden die Audio- und Videodaten über einen Relayserver weitergeleitet. Der vom DARC&nbsp;e.&nbsp;V. betriebene Relayserver speichert die Audio- bzw. Videodaten nur kurzfristig zum Zwecke der Weiterleitung.
 
 <u>Anzeige der Anwesenheit und Lesebestätigungen</u>
 
@@ -116,7 +116,13 @@ Zur Überwachung, Verbesserung und Sicherung des reibungslosen Server- und Syste
 
 Bei Verwendung eines anderen als den auf [https://darc.chat.de/](https://darc.chat.de/) angebotenen Matrix-Clients werden die deine Daten an dessen Anbieter übermittelt. Wir weisen dich nochmal darauf hin, bevor ein neuer Matrix-Client mit deinem Zugang verbunden wird.
 
-Wird ein Space oder ein Raum durch Matrix-Nutzer:innen betreten, die andere Matrix-Server als den DARC-Matrix-Server benutzen, werden die vorgenannten Daten auch an diese Matrix-Server übermittelt. Ob Matrix-Nutzer:innen einen anderen Matrix-Server nutzen, ist daran zu erkennen, dass die Matrix-ID dieser Matrix-Nutzer:innen nicht auf :darc.de endet.
+Wird ein Space oder ein Raum durch Matrix-Nutzer:innen betreten, die andere Matrix-Server als den DARC-Matrix-Server benutzen, werden die vorgenannten Daten auch an diese Matrix-Server übermittelt. 
+
+Wenn an einem Audio- oder Videotelefonat Matrix-Nutzer:innen beteiligt sind, die einen anderen Matrix-Server als den DARC-Matrix-Server benutzen, dann können auch Relayserver benutzt werden, die von diesen anderen Matrix-Servern zugewiesen werden.
+
+Der DARC&nbsp;e.&nbsp;V. hat prinzipbedingt – vergleichbar mit E-Mails an andere Organisationen – keinen Einfluss auf die Datenverarbeitung durch andere Matrix-Server oder Relayserver. 
+
+Ob Matrix-Nutzer:innen einen anderen Matrix-Server nutzen, ist daran zu erkennen, dass die Matrix-ID dieser Matrix-Nutzer:innen nicht auf „:darc.de“ endet.
 
 **Ende der Teilnahme**
 
