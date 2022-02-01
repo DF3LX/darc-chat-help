@@ -48,6 +48,10 @@ Durch die Registrierung mittels des DARC-Login (Single-Sign-On) wird die Mitglie
 
 Aus dem in der DARC-Mitgliederdatenbank hinterlegten Rufzeichen und Vornamen wird während der Registrierung ein Anzeigename gebildet und mit der Matrix-ID verknüpft. Wenn kein Rufzeichen hinterlegt ist, wird nur der Vorname verwendet. Der Anzeigename kann jederzeit geändert werden. Der Anzeigename ist für andere Matrix-Nutzer:innen sichtbar.
 
+<u>Suche nach Matrix-Nutzer:innen</u>
+
+Matrix-Nutzer:innen können anhand der Matrix-ID oder des Anzeigenamens oder Teilen davon suchen und die zugehörige Matrix-ID auf dem DARC-Matrix-Server auffinden.
+
 <u>Avatar</u>
 
 Es kann ein Avatar hochgeladen werden. Der Avatar kann jederzeit wieder geändert oder gelöscht werden. Sofern ein Avatar hochgeladen wurde, wird dieser anderen Matrix-Nutzer:innen angezeigt.
@@ -62,7 +66,7 @@ Während der Registrierung wird ein persönlicher, kryptografischer Schlüssel e
 
 <u>Angemeldete Endgeräte</u>
 
-Zu jedem Matrix-Client, werden Informationen zu den verwendeten Matrix-Client-Programmen und dem Betriebssystem verarbeitet, gespeichert und anderen Matrix-Nutzer:innen angezeigt.
+Zu jedem Matrix-Client, werden Informationen zu dem verwendeten Matrix-Client-Programm und dem Betriebssystem verarbeitet, gespeichert und anderen Matrix-Nutzer:innen, die den DARC-Matrix-Server nutzen, angezeigt.
 
 <u>Einstellungen</u>
 
@@ -87,6 +91,10 @@ Im Rahmen der Registrierung werden automatisch die Räume Allgemein und Hilfe be
 <u>Nachrichten</u>
 
 Wird eine Nachricht in einen Raum gesendet, werden die übermittelte Nachricht (Texte oder Dateien), der Zeitpunkt des Versands, Absender und Empfänger sowie – bei einer Antwort auf eine andere Nachricht – ein Bezug auf die Ursprungsnachricht verarbeitet, gespeichert und anderen Matrix-Nutzer:innen im Raum angezeigt bzw. zum Download angeboten. Die Inhalte der Kommunikation, nicht aber die Meta-Informationen (wie z.&nbsp;B. Zeitpunkt, Absender, Empfänger und Bezug auf die Ursprungsnachricht), können durch Ende-zu-Ende-Verschlüsselung vor der Einsichtnahme durch Dritte geschützt werden. Ob eine Nachricht vor dem Versand verschlüsselt werden wird, ist an einem Hinweis im oder am Eingabefeld für neue Nachrichten zu erkennen.
+
+<u>Abstimmungen</u>
+
+In Räumen können Umfragen mit mehreren Auswahloptionen durchgeführt werden. Alle Matrix-Nutzer:innen im Raum können eine der Auswahloptionen auswählen. Es wird im Raum angezeigt wieviele Matrix-Nutzer:innen welche Auswahl getroffen haben.
 
 <u>Direktnachrichten</u>
 
@@ -116,7 +124,7 @@ Zur Überwachung, Verbesserung und Sicherung des reibungslosen Server- und Syste
 
 Bei Verwendung eines anderen als den auf [https://darc.chat.de/](https://darc.chat.de/) angebotenen Matrix-Clients werden die deine Daten an dessen Anbieter übermittelt. Wir weisen dich nochmal darauf hin, bevor ein neuer Matrix-Client mit deinem Zugang verbunden wird.
 
-Wird ein Space oder ein Raum durch Matrix-Nutzer:innen betreten, die andere Matrix-Server als den DARC-Matrix-Server benutzen, werden die vorgenannten Daten auch an diese Matrix-Server übermittelt. 
+Wird ein Space oder ein Raum durch Matrix-Nutzer:innen betreten, die andere Matrix-Server als den DARC-Matrix-Server benutzen, werden die vorgenannten Daten auch an diese Matrix-Server übermittelt.
 
 Wenn an einem Audio- oder Videotelefonat Matrix-Nutzer:innen beteiligt sind, die einen anderen Matrix-Server als den DARC-Matrix-Server benutzen, dann können auch Relayserver benutzt werden, die von diesen anderen Matrix-Servern zugewiesen werden.
 
