@@ -94,7 +94,7 @@ Wird eine Nachricht in einen Raum gesendet, werden die übermittelte Nachricht (
 
 <u>Abstimmungen</u>
 
-In Räumen können Umfragen mit mehreren Auswahloptionen durchgeführt werden. Alle Matrix-Nutzer:innen im Raum können eine der Auswahloptionen auswählen. Es wird im Raum angezeigt wieviele Matrix-Nutzer:innen welche Auswahl getroffen haben.
+In Räumen können Umfragen mit mehreren Auswahloptionen durchgeführt werden. Alle Matrix-Nutzer:innen im Raum können eine der Auswahloptionen auswählen. Die gewählte Option wird verarbeitet und gespeichert. Es wird im Raum angezeigt wieviele Matrix-Nutzer:innen welche Auswahl getroffen haben.
 
 <u>Direktnachrichten</u>
 
