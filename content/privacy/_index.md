@@ -118,7 +118,7 @@ Werden in einem Raum Internetlinks (URLs) empfangen, wird automatisch eine Vorsc
 
 <u>Serverprotokoll</u>
 
-Zur Überwachung, Verbesserung und Sicherung des reibungslosen Server- und Systembetriebs werden alle Zugriffe protokolliert. Dabei werden die IP-Adresse und der Zeitstempel der Anfrage erhoben und gespeichert.
+Zur Überwachung, Entstörung, Verbesserung und Sicherung des reibungslosen Server- und Systembetriebs werden alle Zugriffe protokolliert. Dabei werden die IP-Adresse und der Zeitstempel der Anfrage erhoben und gespeichert.
 
 **Übermittlung an dritte Stellen**
 
