@@ -46,7 +46,7 @@ Durch die Registrierung mittels des DARC-Login (Single-Sign-On) wird die Mitglie
 
 <u>Anzeigename</u>
 
-Aus dem in der DARC-Mitgliederdatenbank hinterlegten Rufzeichen und Vornamen wird während der Registrierung ein Anzeigename gebildet und mit der Matrix-ID verknüpft. Wenn kein Rufzeichen hinterlegt ist, wird nur der Vorname verwendet. Der Anzeigename kann jederzeit geändert werden. Der Anzeigename ist für andere Matrix-Nutzer:innen sichtbar.
+Aus dem in der DARC-Mitgliederdatenbank hinterlegten Rufzeichen und Vornamen wird während der Registrierung ein Anzeigename gebildet und mit der Matrix-ID verknüpft. Wenn kein Rufzeichen hinterlegt ist, wird der Vorname und Nachname verwendet. Der Anzeigename kann jederzeit geändert werden. Der Anzeigename ist für andere Matrix-Nutzer:innen sichtbar.
 
 <u>Suche nach Matrix-Nutzer:innen</u>
 
