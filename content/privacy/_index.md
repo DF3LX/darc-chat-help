@@ -118,7 +118,7 @@ Werden in einem Raum Internetlinks (URLs) empfangen, wird automatisch eine Vorsc
 
 <u>Serverprotokoll</u>
 
-Zur Überwachung, Entstörung, Verbesserung und Sicherung des reibungslosen Server- und Systembetriebs werden alle Zugriffe protokolliert. Dabei werden die IP-Adresse und der Zeitstempel der Anfrage erhoben und gespeichert.
+Zur Überwachung, Entstörung, Verbesserung und Sicherung des reibungslosen Server- und Systembetriebs werden alle Zugriffe protokolliert. Dabei werden die IP-Adresse, der Zeitstempel und die Anfrage erhoben und gespeichert.
 
 **Übermittlung an dritte Stellen**
 
@@ -130,7 +130,7 @@ Wenn an einem Audio- oder Videotelefonat Matrix-Nutzer:innen beteiligt sind, die
 
 Der DARC&nbsp;e.&nbsp;V. hat prinzipbedingt – vergleichbar mit E-Mails an andere Organisationen – keinen Einfluss auf die Datenverarbeitung durch andere Matrix-Server oder Relayserver. 
 
-Ob Matrix-Nutzer:innen einen anderen Matrix-Server nutzen, ist daran zu erkennen, dass die Matrix-ID dieser Matrix-Nutzer:innen nicht auf „:darc.de“ endet.
+Ob Matrix-Nutzer:innen einen anderen Matrix-Server nutzen, ist daran zu erkennen, dass die Matrix-ID dieser Matrix-Nutzer:innen nicht auf „:darc.de“ endet. In den Spaces "DARC&nbsp;e.&nbsp;V." und "DARC-Distrikte" sind einzelne Räume als "vereinsintern" gekennzeichnet, die nicht von anderen Matrix-Servern aus genutzt werden können.
 
 **Ende der Teilnahme**
 
