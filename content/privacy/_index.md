@@ -122,11 +122,13 @@ Zur Überwachung, Entstörung, Verbesserung und Sicherung des reibungslosen Serv
 
 **Übermittlung an dritte Stellen**
 
-Bei Verwendung eines anderen als den auf [https://darc.chat.de/](https://darc.chat.de/) angebotenen Matrix-Clients werden die deine Daten an dessen Anbieter übermittelt. Wir weisen dich nochmal darauf hin, bevor ein neuer Matrix-Client mit deinem Zugang verbunden wird.
+Bei Verwendung eines anderen als den auf [https://darc.chat.de/](https://darc.chat.de/) angebotenen Matrix-Clients werden deine Daten an dessen Anbieter übermittelt. Wir weisen dich darauf hin, wenn ein neuer Matrix-Client mit deinem Zugang verbunden wird.
 
 Wird ein Space oder ein Raum durch Matrix-Nutzer:innen betreten, die andere Matrix-Server als den DARC-Matrix-Server benutzen, werden die vorgenannten Daten auch an diese Matrix-Server übermittelt.
 
 Wenn an einem Audio- oder Videotelefonat Matrix-Nutzer:innen beteiligt sind, die einen anderen Matrix-Server als den DARC-Matrix-Server benutzen, dann können auch Relayserver benutzt werden, die von diesen anderen Matrix-Servern zugewiesen werden.
+
+Wenn Matrix-Nutzer:innen, die andere Matrix-Server als den DARC-Matrix-Server benutzen, nach deiner Matrix-ID suchen, werden dein Benutzername und Avatar an diese Matrix-Server übermittelt.
 
 Der DARC&nbsp;e.&nbsp;V. hat prinzipbedingt – vergleichbar mit E-Mails an andere Organisationen – keinen Einfluss auf die Datenverarbeitung durch andere Matrix-Server oder Relayserver. 
 
