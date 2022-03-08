@@ -1,14 +1,12 @@
 ---
-title: "Hausordnung"
+title: "Nutzungsbedingungen"
 date: 2022-01-26T22:53:00+01:00
 draft: true
 chapter: true
 weight: 850
 ---
 
-# Hausordnung
-
-Diese Hausordnung regelt die Pflichten bei der Nutzung des DARC-Chats. Aus dieser Hausordnung ergeben sich keine Verpflichtungen für den DARC e. V.
+# Nutzungsbedingungen
 
 **§1 Sicherheitsschlüssel**
 
@@ -45,7 +43,7 @@ Folgendes Verhalten ist ausdrücklich erwünscht:
 
 Diese Regeln gelten für alle Ausdrucksformen, einschließlich geteilter Nachrichteninhalte, Bilder und anderen Dateien aber auch für Raumnamen, Anzeigenamen und Avatar-Bilder.
 
-**§5 Melden von Verstößen gegen die Hausordnung**
+**§5 Melden von Verstößen gegen die Nutzungsbedingungen**
 
 Wer sich unwohl fühlt oder unangemessenes Verhalten oder unerwünschte Inhalte beobachtet, kann sich jederzeit Hilfe suchen. Dazu gibt es folgende Möglichkeiten, aus denen frei gewählt werden kann:
 
@@ -53,9 +51,9 @@ Wer sich unwohl fühlt oder unangemessenes Verhalten oder unerwünschte Inhalte 
 * Melden-Funktion: Diese wird bei jedem Nachrichteninhalt angeboten und informiert die Administratoren des Systems.
 * E-Mail an Administratoren: Die Administratoren des Systems sind per E-Mail an chat@darc.de erreichbar.
 
-**§6 Mögliche Folgen von Verstößen gegen die Hausordnung**
+**§6 Mögliche Folgen von Verstößen gegen die Nutzungsbedingungen**
 
-Die Administratoren und Moderatoren sind berechtigt, Inhalte zu entfernen, die gegen die Hausordnung verstoßen. Darüber hinaus können folgende Maßnahmen verhängt werden:
+Die Administratoren und Moderatoren sind berechtigt, Inhalte zu entfernen, die gegen die Nutzungsbedingungen verstoßen. Darüber hinaus können folgende Maßnahmen verhängt werden:
 
 1. Verwarnung durch einen Moderator
 2. Ausschluss aus einem Raum für bis zu 4 Wochen
