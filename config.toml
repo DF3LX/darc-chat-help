@@ -1,7 +1,7 @@
-baseURL = "https://doctest.pfannkuch-solutions.de/"
+baseURL = "https://hilfe.chat.darc.de/"
 languageCode = "de-DE"
 DefaultContentLanguage = "de"
-title = "Matrix Dokumentation"
+title = "chat.darc.de Dokumentation"
 theme = "learn"
 
 [params]
