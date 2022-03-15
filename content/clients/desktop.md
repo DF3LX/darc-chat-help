@@ -17,7 +17,7 @@ Nach einer Desktop-Installation ist darauf zu achten, den DARC Account zu Nutzen
 
 ![Markierter Anmeldebutton im Element Matrixclient](/images/01_Login_de.png)
 
-Dies wird durch Klick auf **Ändern** realisiert. Dann landest Du nicht versehentlich auf einem falschen Server...
+Dies wird durch Klick auf **Bearbeiten** realisiert. Dann landest Du nicht versehentlich auf einem falschen Server...
 
 ![Anmeldeseite mit Fokus auf dem Homeserver ändern Button](/images/02_Change-Homeserver_de.png)
 
@@ -25,7 +25,7 @@ Nun kannst du manuell die Angabe des Heimservers durchführen: darc.de
 
 ![Eingabefeld zum Ändern des Homeservers mit der Eingabe darc.de](/images/03_Set-Homeserver_de.png)
 
-Anschließend ist der einmalige Login über den Knopf "Mit DARC Anmeldunng fortfahren" durchzuführen, hierbei öffnet sich automatisch ein Browserfenster welches nach Eingabe der Zugangsdaten und bestätigung mit "Anmelden" geschlossen werden kann:
+Anschließend ist der einmalige Login über den Knopf "Mit DARC Anmeldunng fortfahren" durchzuführen, hierbei öffnet sich automatisch ein Browserfenster welches nach Eingabe der Zugangsdaten und bestätigung mit "Anmelden" geschlossen werden kann, genauso wie direkt auf [chat.darc.de](https://chat.darc.de):
 
 ![Loginfenster mit Aufforderung Mitgliedsnummer/Rufzeichen und Passwort einzugeben](/images/04_Username_de.png)
 

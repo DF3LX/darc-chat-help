@@ -15,5 +15,5 @@ Rubrik geht es um
 2. [Räume finden]({{< relref "rooms/find.md" >}})
 3. [Räume löschen]({{< relref "rooms/delete.md" >}})
 4. [Räume teilen]({{< relref "rooms/sharing.md" >}})
-5. [Räume verwalten/administrieren]({{< relref "rooms/moderation.md" >}})
+5. [Räume verwalten]({{< relref "rooms/moderation.md" >}})
 
