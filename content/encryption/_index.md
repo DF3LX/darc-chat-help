@@ -10,21 +10,7 @@ weight: 60
 
 1:1 Gespräche sind seit Kurzem standardmäßig Ende-zu-Ende-verschlüsselt. Daher wird eine eingerichtete Schlüsselsicherung sowie eine Verifikation aller selbst eingesetzten Client-Geräte empfohlen ([Wichtige Einstellungen]({{< ref "settings" >}}))
 
-Die Entscheidung, ob ein erzeugter Raum derartig verschlüsselt werden soll muss gut überlegt sein und kann nicht mehr rückgängig gemacht werden. Wenn es sich um größere oder öffentliche Räume handelt, könnte das Prüfen aller Schlüssel aller Gesprächspartner viel Zeit in Anspruch nehmen. Diese manuelle Prüfung kann man aber auch später bei Gelegenheit durchführen und auch direkt Ende-zu-Ende-verschlüsselte Gespräche mit vorerst blindem Vertrauen starten.
-
-![Neuen Raum mit aktivierter Verschlüsselung erstellen](/images/01_Create-Room-wE2E_de.png)
-
-Wer in einem unverschlüsselten Raum eine Ende-zu-Ende-Verschlüsselung (E2EE) zu Gesprächspartner:innen wünscht, erreicht dies durch Klick auf die Einstellungen des gewünschten Raums. (bzw. im Raum über "Raum-Info" > "Raum-Einstellungen" oben rechts):
-
-![Menü um zu den Raumeinstellungen zu gelangen](/images/02_Roomsettings_de.png)
-
-Dazu ist im Reiter Sicherheit & Datenschutz der Schieberegler Verschlüsselt zu bewegen:
-
-![Verschlüsselung in den Raumeinstellungen aktivieren](/images/03_Roome2e_de.png)
-
-Dies kann mit OK bestätigt werden. Ab sofort können die Nachrichten nur noch von den am Gespräch Beteiligten gelesen werden. Sofern nicht schon vorab in den Einstellungen eine Schlüsselsicherung eingerichtet wurde, so sollte dies nun durchgeführt werden (siehe [Wichtige Einstellungen]({{< ref "settings" >}})), um frühere und in Abwesenheit empfangene Nachrichten lesen zu können.
-
-Nun kann der verschlüsselte Austausch beginnen. Wenn man sich von der Korrektheit der Schlüssel überzeugen, und diese Vertrauenswürdigkeit digital dokumentieren möchte, ist dazu zuerst auf das Personensymbol oben rechts die Seitenleiste auszuklappen:
+Wenn man sich von der Korrektheit der Schlüssel überzeugen, und diese Vertrauenswürdigkeit digital dokumentieren möchte, ist dazu zuerst auf das Personensymbol oben rechts die Seitenleiste auszuklappen:
 
 ![öffnen der Personenliste in dem Raum](/images/04_RoomPeople_de.png)
 
@@ -63,9 +49,3 @@ Im Raum ist mindestens eine Person, die bereits verifiziert wurde, aber die ihre
 ![Symbol für alle Personen im Raum sind verifiziert](/images/green.png)
 
 Alle im Raum befindlichen Personen wurden verifiziert.
-
-Hier ein weiteres Beispiel, wie man den Verschlüsselungszustand eines Raumes in den Rauminformationen oben rechts neben dem Raum-Icon erkennen kann:
-
-![Darstellung der Verschlüsselungssituation in Matrix-Räumen](/images/room_security_status.png)
-
-

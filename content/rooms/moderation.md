@@ -1,12 +1,8 @@
 ---
 title: "Räume moderieren"
 date: 2022-01-24T15:11:13+01:00
-draft: true
+draft: false
 ---
-
-Eine weitere wichtige Einstellmöglichkeit ist hier, ob der Raum im Raum-Verzeichnis des DARC auftauchen soll. Auch die URL-Vorschau für den Raum zu aktivieren kann hier eingestellt werden.
-
-![Raumeinstellungen](/images/04_Rooms_de.png)
 
 Im Reiter **Sicherheit & Datenschutz** sind für Raumadministrator:innen wichtige Entscheidungen zu treffen: Soll der Raum verschlüsselt werden? Wer darf Zugang erhalten? Und wer darf den bisherigen Chatverlauf lesen?
 
