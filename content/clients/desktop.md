@@ -13,6 +13,11 @@ Downloads für:
 {{% button href="https://packages.riot.im/desktop/install/macos/Element.dmg" icon="fas fa-download" %}}macOS{{% /button %}} 
 {{% button href="/clients/install_linux/" icon="fas fa-download" %}}Linux{{% /button %}}
 
+{{% notice warning %}}
+In den Desktop-Clients wird eine Videokonferenzfunktion angezeigt, diese wird aber nicht von chat.darc.de unterstützt.
+Dafür kann ganz normal [treff.darc.de](https://treff.darc.de) verwendet werden.
+{{% /notice %}}
+
 Nach einer Desktop-Installation ist darauf zu achten, den DARC Account zu Nutzen, und keinen neuen Account auf einem anderen Server zu erstellen. Hier am Beispiel von Element:
 
 ![Markierter Anmeldebutton im Element Matrixclient](/images/01_Login2_de.png)
