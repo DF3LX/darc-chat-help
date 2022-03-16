@@ -12,10 +12,6 @@ weight: 2
 
 Mitgliedern des DARC wird unter Einhaltung der einschlägigen gesetzlichen und rechtlichen Bestimmungen zum Datenschutz und zur IT-Sicherheit ermöglicht, mittels ihres **DARC-Logins** mit anderen Mitgliedern, Angehörigen und weiteren Matrix-Nutzenden (bspw. andere Funkamateure) per Chat zu kommunizieren.
 
-{{% notice tip %}}
-Wir empfehlen die Nutzung des Element Desktopclients, weil so zahlreiche Probleme, die bei dem Nutzen der Verschlüsselung entstehen können, vermieden werden können.
-{{% /notice %}}
-
 Downloads für: {{% button href="https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe" icon="fas fa-download" %}}Windows{{% /button %}} {{% button href="https://packages.riot.im/desktop/install/macos/Element.dmg" icon="fas fa-download" %}}macOS{{% /button %}} {{% button href="/clients/install_linux" icon="fas fa-download" %}}Linux{{% /button %}}
 
 Nach einer Desktop-Installation ist darauf zu achten, Deinen bestehenden Account mit dem DARC-Login zu nutzen, und keinen neuen Account auf einem anderen Server zu erstellen. Hier am Beispiel von Element:
