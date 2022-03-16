@@ -48,7 +48,7 @@ Ein alternativer Login, bspw. über die E-Mail-Adresse ist **NICHT** möglich.
 
 Es folgt nach dem Erstlogin auch keine E-Mail / Bestätigungsmail.
 
-Nun ist noch die Zustimmung zur Verarbeitung und Weitergabe der Daten erforderlich. Durch das setzen des Häkchen und klicken auf "Zustimmng erteilen".
+Nun ist noch die Zustimmung zur Verarbeitung und Weitergabe der Daten erforderlich. Durch das Setzen des Häkchen und klicken auf "Zustimmng erteilen".
 
 ![Zustimmung zur Datenverarbeitung und Weitergabe](/images/01_consent_page.png)
 

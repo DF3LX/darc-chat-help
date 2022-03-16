@@ -35,6 +35,11 @@ Nach erfolgreicher Einrichtung der Schlüsselsicherung aktivieren Sie nun die De
    
    ![Screenshot der Abfrage, Pushbenarchitigungen zu aktivieren](/images/06_Enable-Notifications_de.png)
 
+Danach muss es nochmal bestätigt werden:
+
+   ![Screenshot der Abfrage, Pushbenarchitigungen zu aktivieren im Browser](/images/06_Enable-Notifications2_de.png)
+
+
    Dies kann später auch rückgängig gemacht werden und insb. können einzelne „Gespräche“ in ihrer Benachrichtigungsbefugnis eingestellt werden
 
 Einstellungen im Einstellungsmenü vornehmen: dazu ist auf die Zeile dem Nutzernamen und des nach unten zeigenden Dreiecks zu klicken und anschließend auf die Zeile "Alle Einstellungen":
@@ -47,10 +52,6 @@ In den Einstellungen kannst Du im Reiter **Allgemein** bei Bedarf Ihren Anzeigen
 Ein manuelles Ändern durch das standatisierte Verfahren nicht mehr nötig.
 
 Auf der selben Seite kann auch das Design Thema von hell zu dunkel verändert werden.
-
-Im Reiter **Benachrichtigungen** kannst Du E-Mail-Benachrichtigungen (um über verpasste Nachrichten informiert zu werden) sowie akustische Benachrichtigungen aktivieren und diese granular für einzelne Aktivitäten Anderer einstellen. Mehr dazu auf der Seite [Benachrichtigungen]({{< relref "notifications" >}}).
-
-![Screenshot der Benarchrichtigungeneinstellungen mit einer Makierung der ausgeschalteten E-Mail benachrichtigungen](/images/06_Settings-EMailNotify_de.png)
 
 Im Reiter **Sprache & Video** kannst Du den Matrix-Client Element berechtigen Ihre Medien (Kamera + Mikrofon) zu nutzen, direkten Sprach-/Videoanrufe mittels Peer-to-Peer-Verbindungen erlauben, sowie bei Videotelefonaten sich selbst in einem kleinen Bild zu sehen:
 
@@ -70,8 +71,6 @@ Im Reiter **Sicherheit & Datenschutz** findest Du alle Geräte, die bisher von d
 * Die hier vergebbaren öffentlichen Namen (durch Mausklick auf diese) Deiner Geräte können auch von Gesprächspartner:innen eingesehen werden.  Dies hilft, wenn diese einen Vergleich der kryptografischen Schlüssel Ihrer Geräte (bspw. Laptop + Handy) durchzuführen möchten und so leicht die Gerätenamen identifizieren können.
 
 * Die vielen kryptografischen Schlüssel werden auf dem jeweiligen Gerät gespeichert. Sollte dies bspw. ein Tab in einem Browser sein, besteht die Gefahr, dass dieser Tab einmal unbeabsichtigt geschlossen wird. Dann sind alle verschlüsselten Inhalte nicht mehr lesbar. Damit dies nicht geschieht, wird eine Schlüsselsicherung auf dem Heimserver des DARC angeboten, auf der (mit einer Passphrase geschützt) alle kryptografischen Schlüssel verschlüsselt abgelegt sind. Es wird dringend empfohlen, diese Schlüsselsicherung zu nutzen!
-
-![Screenshot des Menüpunkts zur Schlüsselsicherung](/images/10_Setup-Keystore_de.png)
 
 ## Schlüsselsicherung 
 Sofern nicht nach Erstanmeldung eingerichtet: Die **Schlüsselsicherung** ist eine wertvolle Errungenschaft, da Sie ermöglicht, die Schlüssel aller Gespräche, die Ende-zu-Ende-verschlüsselt sind, mit einem Passwort versehen zentral auf dem Server des DARC zu sichern. Dies ermöglicht bequem die Nutzung mehrerer Geräte bzw. Matrix-Clients. Hierzu ist auf „Beginne Schlüsselsicherung zu nutzen“ zu klicken und eine starke Sicherheitsphrase (aber **nicht** das DARC-Passwort) zu wählen. Diese Sicherheitsphrase wird immer einzugeben sein, wenn der Schlüssel mit der Schlüsselsicherung synchronisiert werden sollen.
