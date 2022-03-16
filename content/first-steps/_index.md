@@ -12,36 +12,71 @@ weight: 2
 
 Mitgliedern des DARC wird unter Einhaltung der einschlägigen gesetzlichen und rechtlichen Bestimmungen zum Datenschutz und zur IT-Sicherheit ermöglicht, mittels ihres **DARC-Logins** mit anderen Mitgliedern, Angehörigen und weiteren Matrix-Nutzenden (bspw. andere Funkamateure) per Chat zu kommunizieren.
 
-Downloads für: {{% button href="https://packages.riot.im/desktop/install/win32/x64/Element%20Setup.exe" icon="fas fa-download" %}}Windows{{% /button %}} {{% button href="https://packages.riot.im/desktop/install/macos/Element.dmg" icon="fas fa-download" %}}macOS{{% /button %}} {{% button href="/clients/install_linux" icon="fas fa-download" %}}Linux{{% /button %}}
 
-Nach einer Desktop-Installation ist darauf zu achten, Deinen bestehenden Account mit dem DARC-Login zu nutzen, und keinen neuen Account auf einem anderen Server zu erstellen. Hier am Beispiel von Element:
+## Nutzung des Webclients
 
-![Markierter Anmeldebutton im Element Matrixclient](/images/01_Login_de.png)
+Der einfachste Weg ist das direkte Öffnen von [chat.darc.de](https://chat.darc.de) in einem modernen Browser (z.B. [Mozilla Firefox](https://www.mozilla.org/de/firefox/)) unter der Adresse: [https://chat.darc.de](https://chat.darc.de).
 
-Dies wird durch Klick auf **Ändern** realisiert. Dann landest du nicht versehentlich auf einem falschen Server...
+![Willkommensbildschirm des DARC Element Web Clients](/images/01_Welcome_de.png)
 
-![Anmeldeseite mit Fokus auf dem Homeserver ändern Button](/images/02_Change-Homeserver_de.png)
+Starten Sie auf [chat.darc.de](https://chat.darc.de).
 
-Nun kann man manuell die Angabe des Heimservers durchführen: darc.de
+![Startseite von Element Webclient mit Anmeldebutton](/images/01_Login_de.png)
 
-![Eingabefeld zum Ändern des Homeservers mit der Eingabe darc.de](/images/03_Set-Homeserver_de.png)
+Hierzu ist keine Registrierung nötig, der Dienst kann sofort durch Klick auf „Anmelden“ auf der Startseite [https://chat.darc.de](https://chat.darc.de) genutzt werden.
 
-Anschließend ist der einmalige Login mit dem DARC-Login durchzuführen:
-"Mit DARC Anmeldung fortfahren" bestätigen. Dann sind folgende Eingaben, auf der sich öffnenden Seite zu tätigen:
+![Loginfenster mit Aufforderung Mitgliedsnummer und Passwort einzugeben](/images/02_Login1_de.png)
 
-**Rufz./Mitgliedsnummer: Rufzeichen/Mitgliedsnummer**  (keine E-Mail-Adresse!)
+Durch das Klicken auf den Knopf "Mit DARC Anmeldung fortfahren" gelangt man nun auf die Anmeldeseite.
 
-**Passwort: Passwort das in der Mitgliederverwaltung gesetzt wurde**
+![Loginseite SSO](/images/01_sso_page_1.png)
 
-Ein alternativer Login, bspw. über die E-Mail-Adresse ist **nicht** möglich.
+Dort sind folgende Eingaben zu tätigen:
+**Mitgliedsnr. / Rufzeichen: Mitgliedsnummer oder Rufzeichen**  (keine E-Mail-Adresse!)
+
+![Loginseite SSO mit Nutzernamen](/images/01_sso_page_2.png)
+
+**Passwort: das vergebene Passwort in der Mitgliederverwaltung**
+
+![Loginseite SSO mit Nutzernamen und PW](/images/01_sso_page_3.png)
+
+Danach ist der Klick auf "Anmelden" nötig.
+
+![Loginseite SSO mit Nutzernamen](/images/01_sso_page_4.png)
+
+Ein alternativer Login, bspw. über die E-Mail-Adresse ist **NICHT** möglich.
 
 Es folgt nach dem Erstlogin auch keine E-Mail / Bestätigungsmail.
+
+Nun ist noch die Zustimmung zur Verarbeitung und Weitergabe der Daten erforderlich. Durch das setzen des Häkchen und klicken auf "Zustimmng erteilen".
+
+![Zustimmung zur Datenverarbeitung und Weitergabe](/images/01_consent_page.png)
 
 Um jeden Nutzer die Möglich zu geben, einen eigenen Anzeigenamen zu setzten, wird der technische Nutzername bestehend aus 5 zufälligen Zeichen automatisch festgelegt:
 
 @5ZUFALLSZEICHEN:darc.de (Beispiel: @6472k:darc.de)
 
-![Loginfenster mit Aufforderung DARC Login und Passwort einzugeben](/images/04_Username_de.png)
+{{% notice warning %}}
+Solltest Du statt mit der oben genannten Website [chat.darc.de](https://chat.darc.de) sofort mit einem [Matrix Client]({{< relref "../clients" >}}) starten wollen, ist es wichtig den Heimserver vom zumeist standardmäßig eingestellten matrix.org auf darc.de zu ändern.
+{{% /notice %}}
+
+## Browsereinstellungen
+
+### Browserwahl
+
+Empfehlenswert sind die Browser [Firefox](https://www.mozilla.org/de/firefox/new/), [Chromium](https://www.chromium.org/getting-involved/download-chromium), neuere Versionen von MS Edge (basierend auf Chromium). Ältere oder ungeeignete Browser zeigen ggf. nur eine weiße Seite an.
+
+### NoScript
+
+Viele Menschen nutzen u.a. Skript-Blocker, um sich vor [Tracking](https://tu-dresden.de/tu-dresden/newsportal/news/datenschutz-beim-website-tracking) und Schadsoftware im Browser zu schützen, bspw. mit dem Addon [NoScript](https://addons.mozilla.org/de/firefox/addon/noscript/). Hier ist folgende Einstellung durchzuführen:
+
+![Einstellungen des Browserplugins NoScript mit darc.de als vertrauenswürdige Skriptquelle ausgewählt](/images/10_Sicherheit2_de.png)
+
+### Cookies
+
+Erlauben Sie auch Cookies von
+
+- darc.de
 
 ## Bequemes Nutzen der Ende-zu-Ende-Verschlüsselung (E2EE)
 
@@ -51,8 +86,20 @@ Matrix verschlüsselt nicht nur die Transporte von und zu dem Heimserver (betrie
 Es wird dringend empfohlen, die Schlüsselsicherung zu nutzen (mit einer sicheren Sicherheitsphrase, welches **nicht** Dein DARC-Passwort ist)!
 {{% /notice %}}
 
+Zunächst den Punkt "Sicherheitsphrase eingeben" anwählen und auf "Fortfahren" klicken:
+
 ![Aufforderung den Sicherheitsschlüssel zu generieren oder eine Sicherheitsphrase einzugeben](/images/11_Setup-Key_de.png)
+
+Hier nun das sichere Passwort eintragen und auf "Fortfahren" klicken.
+
 ![Aufforderung eine Passwort für die Schlüsselsicherung einzugeben](/images/12_Enter-Key_de.png)
+
+Nun muss zur bestätigung des Passwortes es erneut eingegeben werden, danach ist ein erneuter Klick auf "Fortfahren" nötig.
+
+![Aufforderung eine Passwort für die Schlüsselsicherung erneut einzugeben](/images/12_Enter-Key2_de.png)
+
+Nun gibt es abschließend die Möglichkeit einen Sicherungsschlüssel herunterzuladen oder zu kopieren (z.B. um in einem Passwortmanager gespeichert zu werden)
+
 Alternativ können Sie sich statt der Sicherheitsphrase auch einen Sicherheitsschlüssel generieren lassen, welcher den selben Zweck wie die Sicherheitsphrase erfüllt. Weiterhin wird der Sicherheitsschlüssel immer zusätzlich zur Sicherheitsphrase erstellt und sollte als Notfallschlüssel sicher und wiederauffindbar verwahrt werden (z.B. Abspeichern als .txt-Datei UND Ausdrucken) 
 ![Anzeige des Sicherheitsschlüssel zum abschreiben oder wegspeichern](/images/13_Present-Key_de.png) 
 
