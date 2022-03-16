@@ -8,6 +8,10 @@ weight: 10
 
 ## Nutzung des Webclients
 
+Der einfachste Weg ist das direkte Öffnen von [chat.darc.de](https://chat.darc.de) in einem modernen Browser (z.B. [Mozilla Firefox](https://www.mozilla.org/de/firefox/)) unter der Adresse: [https://chat.darc.de](https://chat.darc.de).
+
+![Willkommensbildschirm des DARC Element Web Clients](/images/01_Welcome_de.png)
+
 Starten Sie auf [chat.darc.de](https://chat.darc.de).
 
 ![Startseite von Element Webclient mit Anmeldebutton](/images/01_Welcome_de.png)
@@ -44,10 +48,6 @@ Um jeden Nutzer die Möglich zu geben, einen eigenen Anzeigenamen zu setzten, wi
 {{% notice warning %}}
 Solltest Du statt mit der oben genannten Website [chat.darc.de](https://chat.darc.de) sofort mit einem [Matrix Client]({{< relref "../clients" >}}) starten wollen, ist es wichtig den Heimserver vom zumeist standardmäßig eingestellten matrix.org auf darc.de zu ändern.
 {{% /notice %}}
-
-Der einfachste Weg ist das direkte Öffnen der Element Web Anwendung in einem modernen Browser (z.B. [Mozilla Firefox](https://www.mozilla.org/de/firefox/)) unter der Adresse: [https://chat.darc.de](https://chat.darc.de).
-
-![Willkommensbildschirm des DARC Element Web Clients](/images/01_Welcome_de.png)
 
 ## Browsereinstellungen
 
