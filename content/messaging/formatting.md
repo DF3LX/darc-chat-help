@@ -23,7 +23,7 @@ Mittels Text, der in der Auszeichnungssprache [**MarkDown**](https://de.wikipedi
 | \                                                                               |                                             Zitat                                              | ```> Zitat```                                                                                  |
 | **Überschrift 1**                                                               |                                     ```# Überschrift 1```                                      |
 | Überschrift 2                                                                   |                                     ```## Überschrift 2```                                     |
-| [Matrix Hilfe](https://hilfe.chat.darc.de/)                                     |                          ```[Matrix Hilfe](https://hilfe.chat.de/)```                          |
+| [Matrix Hilfe](https://hilfe.chat.darc.de/)                                     |                       ```[Matrix Hilfe](https://hilfe.chat.darc.de/)```                        |
 | Listeneinträge                                                                  |         ```* Listeneintrag```<br/>```* Listeneintrag```<br/>```* Listeneintrag```<br/>         |
 | Nummerierte Listen                                                              | ```1. Nummerierte Liste``` <br/>```2. Nummerierte Liste```<br/>```3. Nummerierte Liste```<br/> |
 
