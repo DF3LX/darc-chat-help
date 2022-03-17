@@ -15,6 +15,10 @@ In den Mobilen-Clients wird eine Videokonferenzfunktion angezeigt, diese wird ab
 Dafür kann ganz normal [treff.darc.de](https://treff.darc.de) verwendet werden.
 {{% /notice %}}
 
+{{% notice info %}}
+Abweichend von den hier gezeigten Screenshots ist bei **iOS Element** die Adresse des Homeservers mit chat.darc.de anzugeben.
+{{% /notice %}}
+
 Die folgende Bilderreihe zeigt Bildschirmfotos der Einrichtung von Android oder iOS Element:
 
 ![Screenshot der Anmeldeprozedur unter Android/iOS](/images/15_Android1_de.png)
