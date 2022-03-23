@@ -10,6 +10,11 @@ weight: 60
 
 1:1 Gespräche sind seit Kurzem standardmäßig Ende-zu-Ende-verschlüsselt. Daher wird eine eingerichtete Schlüsselsicherung sowie eine Verifikation aller selbst eingesetzten Client-Geräte empfohlen ([Wichtige Einstellungen]({{< ref "settings" >}}))
 
+Um seine eigene Geräte zu verfizieren wird der Dialog aufgerufen, der bei der ersten Anmeldung an einem neuem Client aufgerufen wird.
+
+Hier auf "verifizieren mit anderer Session" klicken, und nun beim Abgleich zwischen Mobilgeräten und Desktopcomputern den QR-Code auf dem Bildschirm abscannen oder wenn dies nicht möglich ist, Desktop:Desktop dann gibt es die Möglichkeit des Abgleiches über Symbole, wie auch nacher bei der verifikation zwischen Nutzern.
+
+
 Wenn man sich von der Korrektheit der Schlüssel überzeugen, und diese Vertrauenswürdigkeit digital dokumentieren möchte, ist dazu zuerst auf das Personensymbol oben rechts die Seitenleiste auszuklappen:
 
 ![öffnen der Personenliste in dem Raum](/images/04_RoomPeople_de.png)
