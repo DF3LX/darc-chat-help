@@ -39,17 +39,11 @@ Matrix ist ein freies und offenes, sicheres, dezentralisiertes Protokoll für Ec
 
 * [Weitere Clients]({{< relref "clients/more_clients/_index.md" >}})
 
-* [Communities als Raum-Filter einsetzen]({{< relref "communities/_index.md" >}})
-
 * [Spaces zur Raumverwaltung einsetzen]({{< relref "spaces/_index.md" >}})
-
-* [Weiterentwicklung von Matrix]({{< relref "development/_index.md" >}})
 
 * [Datenschutzerklärung]({{< relref "privacy/_index.md" >}})
 
 * [Impressum]({{< relref "imprint/_index.md" >}})
-
-* [Barrierefreiheitserklärung]({{< relref "accessibility/_index.md" >}})
 
 ### Fragen / Kontakt
 
