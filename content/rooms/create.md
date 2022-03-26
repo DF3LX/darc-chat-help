@@ -5,12 +5,20 @@ chapter: true
 draft: false
 weight: 10
 ---
-## Räume erstellen und Verantwortung übernehmen
+## Räume erstellen
 
-Neue Räume werden über das + in der linken Leiste in der Kategorie Räume erstellt.
+# öffentliche Räume
+
+{{% notice note %}}
+Öffentliche Räume können *nur* vom (s)OVV des eigenen Ortsverbandes beantragt werden.
+Dies geschieht zentral durch eine Mail an [mailto:chat@darc.de](chat@darc.de)
+{{% /notice %}}
+
+# private Räume
+Neue private Räume werden über das + in der linken Leiste in der Kategorie Räume erstellt.
 
 ![Makierung des Raumhinzufügenbuttons](/images/01_Rooms_de.png)
-Anschließend ist der Raumname zu vergeben. Auch kann optional ein Thema (das später öfter angepasst werden kann) vergeben werden. Mit einem zusätzlichen Klick auf „Weitere Einstellungen anzeigen“ kann anschließend noch verhindert werden, dass nicht DARC Mitglieder den Raum betreten können. Standard ist inzwischen, dass alle neuen Räume (genau wie alle neuen 1:1-Gespräche) eine [Ende-zu-Ende-Verschlüsselung]({{< relref "encryption" >}}) eingerichtet haben. Sollte man dies nicht wünschen (bspw. weil in sehr großen Räumen die Verifikation der Teilnehmenden sehr unpraktisch wird) kann hier vor der Raum-Erstellung der Schieberegler benutzt werden um die Ende-zu-Ende-Verschlüsselung nicht zu aktivieren.
+Anschließend ist der Raumname zu vergeben. Auch kann optional ein Thema (das später öfter angepasst werden kann) vergeben werden. Standard ist inzwischen, dass alle neuen Räume (genau wie alle neuen 1:1-Gespräche) eine [Ende-zu-Ende-Verschlüsselung]({{< relref "encryption" >}}) eingerichtet haben. Sollte man dies nicht wünschen (bspw. weil in sehr großen Räumen die Verifikation der Teilnehmenden sehr unpraktisch wird) kann hier vor der Raum-Erstellung der Schieberegler benutzt werden um die Ende-zu-Ende-Verschlüsselung nicht zu aktivieren.
 
 ![Eingabemenü für den Raumnamen](/images/02_Rooms_de.png)
 
