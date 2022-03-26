@@ -10,6 +10,17 @@ Matrix ist ein freies und offenes, sicheres, dezentralisiertes Protokoll für Ec
 
 <object data="/images/matrix_interactive.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
 
+## Grundsätliche Informationen
+
+Grundsätzlich lässt sich in allen Räumen des DARC e.V. zweifelsfrei erkennen, ob dieser nur von DARC Mitgliedern betreten werden kann.
+Dies geschieht durch die Beschreibung des Raumes:
+- diese beginnt mit "🔐 vereinsintern" für vereinsinterne Räume
+
+  **oder**
+
+- durch ein "🌍 öffentlich" der Anzeigt, dass dieser Raum von jedem einsehbar ist.
+
+
 ## Themen der Dokumentation
 
 * [Warum Matrix und kein anderes Chat-System?]({{< relref "why/_index.md" >}})
@@ -44,6 +55,7 @@ Matrix ist ein freies und offenes, sicheres, dezentralisiertes Protokoll für Ec
 * [Datenschutzerklärung]({{< relref "privacy/_index.md" >}})
 
 * [Impressum]({{< relref "imprint/_index.md" >}})
+
 
 ### Fragen / Kontakt
 
