@@ -29,3 +29,7 @@ home = [ "HTML", "RSS", "JSON"]
 		title = "chat.darc.de Dokumentation"
 		weight = 1
 		languageName = "Deutsch"
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  exclude = ["/404.html"]

@@ -11,7 +11,7 @@ weight: 10
 
 {{% notice note %}}
 Öffentliche Räume können *nur* vom (s)OVV des eigenen Ortsverbandes beantragt werden.
-Dies geschieht zentral durch eine Mail an [mailto:chat@darc.de](chat@darc.de)
+Dies geschieht zentral durch eine Mail an [chat@darc.de](mailto:chat@darc.de)
 {{% /notice %}}
 
 # private Räume
