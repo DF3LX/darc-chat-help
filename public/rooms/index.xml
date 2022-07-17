@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Räume on chat.darc.de Dokumentation</title>
+    <link>https://hilfe.chat.darc.de/rooms/</link>
+    <description>Recent content in Räume on chat.darc.de Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 02 Jul 2020 21:23:14 +0200</lastBuildDate><atom:link href="https://hilfe.chat.darc.de/rooms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Räume erstellen</title>
+      <link>https://hilfe.chat.darc.de/rooms/create/</link>
+      <pubDate>Thu, 02 Jul 2020 21:23:14 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/rooms/create/</guid>
+      <description>Räume erstellen öffentliche Räume Öffentliche Räume können nur vom (s)OVV des eigenen Ortsverbandes beantragt werden. Dies geschieht zentral durch eine Mail an chat@darc.de
+private Räume Neue private Räume werden über das + in der linken Leiste in der Kategorie Räume erstellt.
+Anschließend ist der Raumname zu vergeben. Auch kann optional ein Thema (das später öfter angepasst werden kann) vergeben werden. Standard ist inzwischen, dass alle neuen Räume (genau wie alle neuen 1:1-Gespräche) eine Ende-zu-Ende-Verschlüsselung eingerichtet haben.</description>
+    </item>
+    
+    <item>
+      <title>Räume finden</title>
+      <link>https://hilfe.chat.darc.de/rooms/find/</link>
+      <pubDate>Thu, 02 Jul 2020 21:23:14 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/rooms/find/</guid>
+      <description>Räume finden Das Raumverzeichnis, in dem die öffentlich zugänglichen Räume präsentiert werden (z.B. Hamgroups, erreicht man über den Button „Entdecke / Explore“ links oben unter dem eigenen Anzeigenamen. Hier kann sofort nach einem Raum auf dem chat.darc.de gesucht werden.</description>
+    </item>
+    
+    <item>
+      <title>Räume löschen</title>
+      <link>https://hilfe.chat.darc.de/rooms/delete/</link>
+      <pubDate>Thu, 02 Jul 2020 21:23:14 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/rooms/delete/</guid>
+      <description>Räume löschen und aus Räumen austreten Durch das Verlassen von Räumen erscheinen diese nicht mehr in der Raumliste (linke Spalte). Wenn die letzte im Raum befindliche Person den Raum verlässt, ist der Raum noch für ungefähr 7 Tage im Archiv zu finden, wird aber anschließend endgültig gelöscht.
+Als Administrator:in sollten erst alle Raummitglieder „gekickt“ werden (aus dem Raum entfernt werden), anschließend verlässt die Person als letzte den Raum und initiiert so die spätere Löschung durch den Server.</description>
+    </item>
+    
+    <item>
+      <title>Räume teilen</title>
+      <link>https://hilfe.chat.darc.de/rooms/sharing/</link>
+      <pubDate>Thu, 02 Jul 2020 21:23:14 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/rooms/sharing/</guid>
+      <description>Räume teilen und publik machen Jeder Raum hat eine Adresse, die man in den Raumeinstellungen unter dem Reiter Erweitert finden kann, bspw.
+!aen6iekahv8Pi0zohf:darc.de
+Das Teilen-Symbol oben rechts in jedem Raum, bietet einen matrix.to-Link an, sowie einen QR-Code und verschiedene soziale Netzwerke. Der matrix.to- Link führt auf eine Seite, auf der ausgewählt werden kann, wie der Link geöffnet werden soll. So kann z.B. der installierte Client Element Desktop verwendet werden, oder ausgewählt werden, über welchen Heimserver der Raum betreten werden soll.</description>
+    </item>
+    
+    <item>
+      <title>Räume moderieren</title>
+      <link>https://hilfe.chat.darc.de/rooms/moderation/</link>
+      <pubDate>Mon, 24 Jan 2022 15:11:13 +0100</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/rooms/moderation/</guid>
+      <description>Im Reiter Sicherheit &amp;amp; Datenschutz sind für Raumadministrator:innen wichtige Entscheidungen zu treffen: Soll der Raum verschlüsselt werden? Wer darf Zugang erhalten? Und wer darf den bisherigen Chatverlauf lesen?
+Zur Erklärung der Raumzugangsoptionen:
+„Nur Personen, die eingeladen wurden“: Das sind geschlossene Räume. Zugang zur Zeit nur durch explizite Einladung durch Moderator:innen oder Administrator:innen „Alle, denen der Raum-Link bekannt ist (ausgenommen Gäste)“: Das ist ein öffentlicher Raum, aber lesen kann man nur, wenn man ihn betritt (und damit ersichtlich wird für alle Raummitglieder).</description>
+    </item>
+    
+  </channel>
+</rss>

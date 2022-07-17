@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matrix beim DARC on chat.darc.de Dokumentation</title>
+    <link>https://hilfe.chat.darc.de/</link>
+    <description>Recent content in Matrix beim DARC on chat.darc.de Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 02 Aug 2020 21:26:25 +0200</lastBuildDate><atom:link href="https://hilfe.chat.darc.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Element Desktop</title>
+      <link>https://hilfe.chat.darc.de/clients/desktop/</link>
+      <pubDate>Mon, 12 Oct 2020 09:27:07 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/clients/desktop/</guid>
+      <description>Element Desktop Downloads für: Windows macOS Linux In den Desktop-Clients wird eine Videokonferenzfunktion angezeigt, diese wird aber nicht von chat.darc.de unterstützt. Dafür kann ganz normal treff.darc.de verwendet werden.
+Nach einer Desktop-Installation ist darauf zu achten, den DARC Account zu Nutzen, und keinen neuen Account auf einem anderen Server zu erstellen. Hier am Beispiel von Element:
+Dies wird durch Klick auf Bearbeiten realisiert. Dann landest Du nicht versehentlich auf einem falschen Server&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Element Web (Browser)</title>
+      <link>https://hilfe.chat.darc.de/clients/browser/</link>
+      <pubDate>Wed, 15 Jul 2020 16:46:07 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/clients/browser/</guid>
+      <description>Nutzung des Webclients Der einfachste Weg ist das direkte Öffnen von chat.darc.de in einem modernen Browser (z.B. Mozilla Firefox) unter der Adresse: https://chat.darc.de.
+Starten Sie auf chat.darc.de.
+Hierzu ist keine Registrierung nötig, der Dienst kann sofort durch Klick auf „Anmelden“ auf der Startseite https://chat.darc.de genutzt werden.
+Durch das Klicken auf den Knopf &amp;ldquo;Mit DARC Anmeldung fortfahren&amp;rdquo; gelangt man nun auf die Anmeldeseite.
+Dort sind folgende Eingaben zu tätigen: Mitgliedsnr. / Rufzeichen: Mitgliedsnummer oder Rufzeichen (keine E-Mail-Adresse!</description>
+    </item>
+    
+    <item>
+      <title>Räume erstellen</title>
+      <link>https://hilfe.chat.darc.de/rooms/create/</link>
+      <pubDate>Thu, 02 Jul 2020 21:23:14 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/rooms/create/</guid>
+      <description>Räume erstellen öffentliche Räume Öffentliche Räume können nur vom (s)OVV des eigenen Ortsverbandes beantragt werden. Dies geschieht zentral durch eine Mail an chat@darc.de
+private Räume Neue private Räume werden über das + in der linken Leiste in der Kategorie Räume erstellt.
+Anschließend ist der Raumname zu vergeben. Auch kann optional ein Thema (das später öfter angepasst werden kann) vergeben werden. Standard ist inzwischen, dass alle neuen Räume (genau wie alle neuen 1:1-Gespräche) eine Ende-zu-Ende-Verschlüsselung eingerichtet haben.</description>
+    </item>
+    
+    <item>
+      <title>Räume finden</title>
+      <link>https://hilfe.chat.darc.de/rooms/find/</link>
+      <pubDate>Thu, 02 Jul 2020 21:23:14 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/rooms/find/</guid>
+      <description>Räume finden Das Raumverzeichnis, in dem die öffentlich zugänglichen Räume präsentiert werden (z.B. Hamgroups, erreicht man über den Button „Entdecke / Explore“ links oben unter dem eigenen Anzeigenamen. Hier kann sofort nach einem Raum auf dem chat.darc.de gesucht werden.</description>
+    </item>
+    
+    <item>
+      <title>Element Mobil</title>
+      <link>https://hilfe.chat.darc.de/clients/mobile/</link>
+      <pubDate>Mon, 12 Oct 2020 09:29:07 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/clients/mobile/</guid>
+      <description>Element Mobil Downloads für: Android (Google Play) iOS (iPhone/iPad) Android (F-Driod) In den Mobilen-Clients wird eine Videokonferenzfunktion angezeigt, diese wird aber nicht von chat.darc.de unterstützt. Dafür kann ganz normal treff.darc.de verwendet werden.
+Abweichend von den hier gezeigten Screenshots ist bei iOS Element die Adresse des Homeservers mit chat.darc.de anzugeben.
+Die folgende Bilderreihe zeigt Bildschirmfotos der Einrichtung von Android oder iOS Element:
+Die weitere Anmeldung gestaltet sich gleich, wie bei den Desktop Clients.</description>
+    </item>
+    
+    <item>
+      <title>Nachrichten formatieren</title>
+      <link>https://hilfe.chat.darc.de/messaging/formatting/</link>
+      <pubDate>Wed, 15 Jul 2020 18:05:37 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/messaging/formatting/</guid>
+      <description>Nachrichten schreiben und lesen Nachrichten können mit der Enter-Taste versendet werden. Für einen Zeilenumbruch drückt man Umschalt + Enter.
+Dateien (auch Bilder) lassen sich bis zu einer Größe von 10MB versenden. Dazu ist die Büroklammer auszuwählen. Die Seitenleiste mit dem Dokumentensymbol zeigt die Dateien innerhalb eines Raumes an.
+Mittels Text, der in der Auszeichnungssprache MarkDown formatiert ist, lassen sich auch in Matrix Element Nachrichten formatieren. Hier einige Beispiele:
+Ergebnis einzutippen Fett **Fett** Kursiv _Kursiv_ \ Zitat Überschrift 1 # Überschrift 1 Überschrift 2 ## Überschrift 2 Matrix Hilfe [Matrix Hilfe](https://hilfe.</description>
+    </item>
+    
+    <item>
+      <title>Räume löschen</title>
+      <link>https://hilfe.chat.darc.de/rooms/delete/</link>
+      <pubDate>Thu, 02 Jul 2020 21:23:14 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/rooms/delete/</guid>
+      <description>Räume löschen und aus Räumen austreten Durch das Verlassen von Räumen erscheinen diese nicht mehr in der Raumliste (linke Spalte). Wenn die letzte im Raum befindliche Person den Raum verlässt, ist der Raum noch für ungefähr 7 Tage im Archiv zu finden, wird aber anschließend endgültig gelöscht.
+Als Administrator:in sollten erst alle Raummitglieder „gekickt“ werden (aus dem Raum entfernt werden), anschließend verlässt die Person als letzte den Raum und initiiert so die spätere Löschung durch den Server.</description>
+    </item>
+    
+    <item>
+      <title>Nachrichten suchen</title>
+      <link>https://hilfe.chat.darc.de/messaging/search/</link>
+      <pubDate>Tue, 02 Mar 2021 11:42:35 +0100</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/messaging/search/</guid>
+      <description>Nachrichten suchen Nicht selten kommt es vor, dass nach älteren Gesprächsinhalten gesucht werden möchte. Um den Nachrichtenverlauf in einem Raum (oder in allen Räumen) nach einen bestimmten Text zu durchsuchen, befindet sich in der oberen rechte Ecke der Element-App der &amp;ldquo;Suchen&amp;rdquo;-Button.
+Das Suchen nach Nachrichten ist in unverschlüsselten Räumen ohne Problem möglich, da Element auf alle Nachrichten Zugriff hat. Anders sieht es in verschlüsselten Räumen aus. Diese Funktion ist nur unter Verwendung des Desktop-Clients möglich (siehe Clients / Installation), da die Nachrichten für die Suche zwischengespeichert werden müssen.</description>
+    </item>
+    
+    <item>
+      <title>Räume teilen</title>
+      <link>https://hilfe.chat.darc.de/rooms/sharing/</link>
+      <pubDate>Thu, 02 Jul 2020 21:23:14 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/rooms/sharing/</guid>
+      <description>Räume teilen und publik machen Jeder Raum hat eine Adresse, die man in den Raumeinstellungen unter dem Reiter Erweitert finden kann, bspw.
+!aen6iekahv8Pi0zohf:darc.de
+Das Teilen-Symbol oben rechts in jedem Raum, bietet einen matrix.to-Link an, sowie einen QR-Code und verschiedene soziale Netzwerke. Der matrix.to- Link führt auf eine Seite, auf der ausgewählt werden kann, wie der Link geöffnet werden soll. So kann z.B. der installierte Client Element Desktop verwendet werden, oder ausgewählt werden, über welchen Heimserver der Raum betreten werden soll.</description>
+    </item>
+    
+    <item>
+      <title>Installation unter Linux</title>
+      <link>https://hilfe.chat.darc.de/clients/install_linux/</link>
+      <pubDate>Thu, 31 Dec 2020 09:29:07 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/clients/install_linux/</guid>
+      <description>Installation von Element Desktop unter Linux Wir empfehlen das Installieren des Clients über die Paketverwaltung der jeweiligen Distribution. Die folgenden Befehle installieren den Element Desktop Client über die Kommandozeile.
+Debian/Ubuntu sudo apt install -y wget apt-transport-https sudo wget -O /usr/share/keyrings/riot-im-archive-keyring.gpg https://packages.riot.im/debian/riot-im-archive-keyring.gpg echo &amp;#34;deb [signed-by=/usr/share/keyrings/riot-im-archive-keyring.gpg] https://packages.riot.im/debian/ default main&amp;#34; | sudo tee /etc/apt/sources.list.d/riot-im.list sudo apt update sudo apt install element-desktop Fedora sudo dnf install -y dnf-plugins-core distribution-gpg-keys sudo dnf copr enable taw/element sudo dnf install -y element --refresh Arch Linux sudo pacman -Sy element-desktop NixOS nix-env -iA nixos.</description>
+    </item>
+    
+    <item>
+      <title>Räume moderieren</title>
+      <link>https://hilfe.chat.darc.de/rooms/moderation/</link>
+      <pubDate>Mon, 24 Jan 2022 15:11:13 +0100</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/rooms/moderation/</guid>
+      <description>Im Reiter Sicherheit &amp;amp; Datenschutz sind für Raumadministrator:innen wichtige Entscheidungen zu treffen: Soll der Raum verschlüsselt werden? Wer darf Zugang erhalten? Und wer darf den bisherigen Chatverlauf lesen?
+Zur Erklärung der Raumzugangsoptionen:
+„Nur Personen, die eingeladen wurden“: Das sind geschlossene Räume. Zugang zur Zeit nur durch explizite Einladung durch Moderator:innen oder Administrator:innen „Alle, denen der Raum-Link bekannt ist (ausgenommen Gäste)“: Das ist ein öffentlicher Raum, aber lesen kann man nur, wenn man ihn betritt (und damit ersichtlich wird für alle Raummitglieder).</description>
+    </item>
+    
+    <item>
+      <title>Weitere Clients</title>
+      <link>https://hilfe.chat.darc.de/clients/more_clients/</link>
+      <pubDate>Thu, 02 Jul 2020 21:22:27 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/clients/more_clients/</guid>
+      <description>Weitere Clients Für experimentierfreudige Nutzende gibt es neben Element noch zahlreiche weitere Clients, mit denen das Kommunikationsprotokoll Matrix genutzt werden kann:
+https://matrix.org/docs/projects/clients-matrix https://matrix.org/docs/projects/try-matrix-now </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clients / Installation on chat.darc.de Dokumentation</title>
+    <link>https://hilfe.chat.darc.de/clients/</link>
+    <description>Recent content in Clients / Installation on chat.darc.de Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 02 Jul 2020 21:22:27 +0200</lastBuildDate><atom:link href="https://hilfe.chat.darc.de/clients/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Element Desktop</title>
+      <link>https://hilfe.chat.darc.de/clients/desktop/</link>
+      <pubDate>Mon, 12 Oct 2020 09:27:07 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/clients/desktop/</guid>
+      <description>Element Desktop Downloads für: Windows macOS Linux In den Desktop-Clients wird eine Videokonferenzfunktion angezeigt, diese wird aber nicht von chat.darc.de unterstützt. Dafür kann ganz normal treff.darc.de verwendet werden.
+Nach einer Desktop-Installation ist darauf zu achten, den DARC Account zu Nutzen, und keinen neuen Account auf einem anderen Server zu erstellen. Hier am Beispiel von Element:
+Dies wird durch Klick auf Bearbeiten realisiert. Dann landest Du nicht versehentlich auf einem falschen Server&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Element Web (Browser)</title>
+      <link>https://hilfe.chat.darc.de/clients/browser/</link>
+      <pubDate>Wed, 15 Jul 2020 16:46:07 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/clients/browser/</guid>
+      <description>Nutzung des Webclients Der einfachste Weg ist das direkte Öffnen von chat.darc.de in einem modernen Browser (z.B. Mozilla Firefox) unter der Adresse: https://chat.darc.de.
+Starten Sie auf chat.darc.de.
+Hierzu ist keine Registrierung nötig, der Dienst kann sofort durch Klick auf „Anmelden“ auf der Startseite https://chat.darc.de genutzt werden.
+Durch das Klicken auf den Knopf &amp;ldquo;Mit DARC Anmeldung fortfahren&amp;rdquo; gelangt man nun auf die Anmeldeseite.
+Dort sind folgende Eingaben zu tätigen: Mitgliedsnr. / Rufzeichen: Mitgliedsnummer oder Rufzeichen (keine E-Mail-Adresse!</description>
+    </item>
+    
+    <item>
+      <title>Element Mobil</title>
+      <link>https://hilfe.chat.darc.de/clients/mobile/</link>
+      <pubDate>Mon, 12 Oct 2020 09:29:07 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/clients/mobile/</guid>
+      <description>Element Mobil Downloads für: Android (Google Play) iOS (iPhone/iPad) Android (F-Driod) In den Mobilen-Clients wird eine Videokonferenzfunktion angezeigt, diese wird aber nicht von chat.darc.de unterstützt. Dafür kann ganz normal treff.darc.de verwendet werden.
+Abweichend von den hier gezeigten Screenshots ist bei iOS Element die Adresse des Homeservers mit chat.darc.de anzugeben.
+Die folgende Bilderreihe zeigt Bildschirmfotos der Einrichtung von Android oder iOS Element:
+Die weitere Anmeldung gestaltet sich gleich, wie bei den Desktop Clients.</description>
+    </item>
+    
+    <item>
+      <title>Installation unter Linux</title>
+      <link>https://hilfe.chat.darc.de/clients/install_linux/</link>
+      <pubDate>Thu, 31 Dec 2020 09:29:07 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/clients/install_linux/</guid>
+      <description>Installation von Element Desktop unter Linux Wir empfehlen das Installieren des Clients über die Paketverwaltung der jeweiligen Distribution. Die folgenden Befehle installieren den Element Desktop Client über die Kommandozeile.
+Debian/Ubuntu sudo apt install -y wget apt-transport-https sudo wget -O /usr/share/keyrings/riot-im-archive-keyring.gpg https://packages.riot.im/debian/riot-im-archive-keyring.gpg echo &amp;#34;deb [signed-by=/usr/share/keyrings/riot-im-archive-keyring.gpg] https://packages.riot.im/debian/ default main&amp;#34; | sudo tee /etc/apt/sources.list.d/riot-im.list sudo apt update sudo apt install element-desktop Fedora sudo dnf install -y dnf-plugins-core distribution-gpg-keys sudo dnf copr enable taw/element sudo dnf install -y element --refresh Arch Linux sudo pacman -Sy element-desktop NixOS nix-env -iA nixos.</description>
+    </item>
+    
+    <item>
+      <title>Weitere Clients</title>
+      <link>https://hilfe.chat.darc.de/clients/more_clients/</link>
+      <pubDate>Thu, 02 Jul 2020 21:22:27 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/clients/more_clients/</guid>
+      <description>Weitere Clients Für experimentierfreudige Nutzende gibt es neben Element noch zahlreiche weitere Clients, mit denen das Kommunikationsprotokoll Matrix genutzt werden kann:
+https://matrix.org/docs/projects/clients-matrix https://matrix.org/docs/projects/try-matrix-now </description>
+    </item>
+    
+  </channel>
+</rss>

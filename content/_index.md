@@ -46,8 +46,6 @@ Dies geschieht durch die Beschreibung des Raumes:
 
 * [Benachrichtigungen feiner einstellen]({{< relref "notifications/_index.md" >}})
 
-* [Integrations, Bridges, Bots nutzen (u.a. Jitsi)]({{< relref "integrations/_index.md" >}})
-
 * [Weitere Clients]({{< relref "clients/more_clients/_index.md" >}})
 
 * [Spaces zur Raumverwaltung einsetzen]({{< relref "spaces/_index.md" >}})

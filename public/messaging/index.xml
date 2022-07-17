@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nachrichten on chat.darc.de Dokumentation</title>
+    <link>https://hilfe.chat.darc.de/messaging/</link>
+    <description>Recent content in Nachrichten on chat.darc.de Dokumentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Wed, 15 Jul 2020 18:10:07 +0200</lastBuildDate><atom:link href="https://hilfe.chat.darc.de/messaging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nachrichten formatieren</title>
+      <link>https://hilfe.chat.darc.de/messaging/formatting/</link>
+      <pubDate>Wed, 15 Jul 2020 18:05:37 +0200</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/messaging/formatting/</guid>
+      <description>Nachrichten schreiben und lesen Nachrichten können mit der Enter-Taste versendet werden. Für einen Zeilenumbruch drückt man Umschalt + Enter.
+Dateien (auch Bilder) lassen sich bis zu einer Größe von 10MB versenden. Dazu ist die Büroklammer auszuwählen. Die Seitenleiste mit dem Dokumentensymbol zeigt die Dateien innerhalb eines Raumes an.
+Mittels Text, der in der Auszeichnungssprache MarkDown formatiert ist, lassen sich auch in Matrix Element Nachrichten formatieren. Hier einige Beispiele:
+Ergebnis einzutippen Fett **Fett** Kursiv _Kursiv_ \ Zitat Überschrift 1 # Überschrift 1 Überschrift 2 ## Überschrift 2 Matrix Hilfe [Matrix Hilfe](https://hilfe.</description>
+    </item>
+    
+    <item>
+      <title>Nachrichten suchen</title>
+      <link>https://hilfe.chat.darc.de/messaging/search/</link>
+      <pubDate>Tue, 02 Mar 2021 11:42:35 +0100</pubDate>
+      
+      <guid>https://hilfe.chat.darc.de/messaging/search/</guid>
+      <description>Nachrichten suchen Nicht selten kommt es vor, dass nach älteren Gesprächsinhalten gesucht werden möchte. Um den Nachrichtenverlauf in einem Raum (oder in allen Räumen) nach einen bestimmten Text zu durchsuchen, befindet sich in der oberen rechte Ecke der Element-App der &amp;ldquo;Suchen&amp;rdquo;-Button.
+Das Suchen nach Nachrichten ist in unverschlüsselten Räumen ohne Problem möglich, da Element auf alle Nachrichten Zugriff hat. Anders sieht es in verschlüsselten Räumen aus. Diese Funktion ist nur unter Verwendung des Desktop-Clients möglich (siehe Clients / Installation), da die Nachrichten für die Suche zwischengespeichert werden müssen.</description>
+    </item>
+    
+  </channel>
+</rss>
