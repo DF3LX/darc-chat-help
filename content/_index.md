@@ -10,7 +10,7 @@ Matrix ist ein freies und offenes, sicheres, dezentralisiertes Protokoll für Ec
 
 <object data="/images/matrix_interactive.svg" type="image/svg+xml" style="width: 1280px; max-width: 100%"></object>
 
-## Grundsätliche Informationen
+## Grundsätzliche Informationen
 
 Grundsätzlich lässt sich in allen Räumen des DARC e.V. zweifelsfrei erkennen, ob dieser nur von DARC Mitgliedern betreten werden kann.
 Dies geschieht durch die Beschreibung des Raumes:
