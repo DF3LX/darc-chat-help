@@ -24,6 +24,7 @@ Dies ist eine Zusammenstellung häufiger Fragen und deren Antworten. Teilweise s
 * [Überall steht nur „missing translation: en“|](#missing-translations)
 * [Ist unser Server auf eurer Föderations-Blacklist?](#blacklist)
 * [Ich sehe in einem Raum von einer bestimmten Person keine Nachrichten](#blocked-user)
+* [Ich habe einen Fehler gefunden/Ich habe eine Frage](#contact)
 
 ***
 #### Nachrichten nicht lesbar{#unable-to-decrypt}
@@ -132,3 +133,8 @@ Aktuell befindet sich kein Server auf unserer Föderations-Blacklist. Dies kann 
 #### Ich sehe in einem Raum von einer bestimmten Person keine Nachrichten {#blocked-user}
 
 Ein häufig vorkommender Grund hierfür ist, dass Sie sich verklickt haben und die Person, von der Sie keine Nachrichten mehr sehen, obwohl Ihnen berichtet wird, dass dort etwas stehen müsste, von Ihnen blockiert wurde. Öffnen Sie hierzu Ihre Sicherheitseinstellungen und scrollen weit nach unten. Prüfen Sie, ob in der Kategorie „Blockierte Benutzer“ Einträge stehen, die dort nicht hingehören. Entfernen Sie diese ggf.
+
+#### Ich habe einen Fehler gefunden/Ich habe eine Frage {#contact}
+
+Gerne kannst du das ehrenamtliche Adminteam unter der Mailadresse [chat@darc.de](mailto:chat@darc.de) kontaktieren.
+
