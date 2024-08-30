@@ -12,25 +12,15 @@ Wir empfehlen das Installieren des Clients über die Paketverwaltung der jeweili
 ```sh
 sudo apt install -y wget apt-transport-https
 
-sudo wget -O /usr/share/keyrings/riot-im-archive-keyring.gpg https://packages.riot.im/debian/riot-im-archive-keyring.gpg
+sudo wget -O /usr/share/keyrings/element-io-archive-keyring.gpg https://packages.element.io/debian/element-io-archive-keyring.gpg
 
-echo "deb [signed-by=/usr/share/keyrings/riot-im-archive-keyring.gpg] https://packages.riot.im/debian/ default main" | sudo tee /etc/apt/sources.list.d/riot-im.list
+echo "deb [signed-by=/usr/share/keyrings/element-io-archive-keyring.gpg] https://packages.element.io/debian/ default main" | sudo tee /etc/apt/sources.list.d/element-io.list
 
 sudo apt update
 
 sudo apt install element-desktop
 ```
-### Fedora
-```sh
-sudo dnf install -y dnf-plugins-core distribution-gpg-keys
-sudo dnf copr enable taw/element
-sudo dnf install -y element --refresh
-```
-### Arch Linux
-```sh
-sudo pacman -Sy element-desktop
-```
-### NixOS
-```sh
-nix-env -iA nixos.element-desktop
-```
+
+Für alle weiteren Derivate und Optionen, lohnt sich ein Blick auf die Website von Element:
+
+[**_https://element.io/download#linux_**](https://element.io/download#linux)
