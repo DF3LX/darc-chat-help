@@ -3,4 +3,4 @@ resources
 *.idea
 *.zip
 content/blog/
-public
+/public/
